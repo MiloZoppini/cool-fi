@@ -1493,13 +1493,16 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeModal();
 });
 
-// ── Boot: carica events.json ──
+// ── Boot: prova fetch events.json, fallback ai dati iniettati ──
 function loadEvents() {
-  feedEl.innerHTML = `<div class="empty">Caricamento eventi…</div>`;
+  // Se allEvents è già popolato (iniettato dallo script locale) renderizza subito
+  if (allEvents.length > 0) { render(); }
+
   fetch('events.json?t=' + Date.now())
     .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then(data => {
-      allEvents = Array.isArray(data) ? data : (data.events || []);
+      const fresh = Array.isArray(data) ? data : (data.events || []);
+      if (fresh.length > 0) allEvents = fresh;
       if (data.updated_at) {
         const d = new Date(data.updated_at);
         const label = d.toLocaleString('it-IT', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit' });
@@ -1509,7 +1512,10 @@ function loadEvents() {
       render();
     })
     .catch(() => {
-      feedEl.innerHTML = `<div class="empty">Errore nel caricamento degli eventi.<br>Controlla la connessione.</div>`;
+      // file:// o offline — usa i dati iniettati dallo script locale
+      if (allEvents.length === 0) {
+        feedEl.innerHTML = `<div class="empty">Nessun evento disponibile.<br>Esegui lo script di aggiornamento.</div>`;
+      }
     });
 }
 loadEvents();

@@ -351,7 +351,29 @@ def main():
     # Inietta nel HTML per uso locale
     inject_into_html(all_events)
 
-    log(f"✅ Completato — {len(all_events)} eventi totali\n")
+    log(f"✅ Completato — {len(all_events)} eventi totali")
+
+    # Push su GitHub Pages
+    _git_push(ROOT)
+
+
+def _git_push(repo_path: str):
+    import subprocess
+    try:
+        ts = datetime.now().strftime("%Y-%m-%d %H:%M")
+        subprocess.run(["git", "-C", repo_path, "add", "events.json", "cooleventsfi.html"], check=True)
+        result = subprocess.run(
+            ["git", "-C", repo_path, "diff", "--staged", "--quiet"],
+            capture_output=True
+        )
+        if result.returncode == 0:
+            log("  git: nessuna modifica da committare")
+            return
+        subprocess.run(["git", "-C", repo_path, "commit", "-m", f"chore: aggiorna eventi {ts}"], check=True)
+        subprocess.run(["git", "-C", repo_path, "push"], check=True)
+        log("  ✓ Push su GitHub completato")
+    except Exception as e:
+        log(f"  [warn] git push fallito: {e}")
 
 if __name__ == "__main__":
     main()
