@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T14:02:13Z",
+  "updated_at": "2026-05-21T15:02:24Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,10 +11,10 @@
       "categoria": "SERATA",
       "descrizione": "Central Club ospita DayOff. Ingresso over 18 con prenotazione obbligatoria",
       "vibe": [
-        "live",
-        "rooftop"
+        "aperitivo",
+        "clubbing"
       ],
-      "img": "1516450360452-9312f5e86fc7"
+      "img": "1492684223066-81342ee5ff30"
     },
     {
       "titolo": "ARMōNIä at Crociani",
@@ -25,10 +25,10 @@
       "categoria": "CULTURA",
       "descrizione": "Get ready to vibe with some smooth tunes and good company at ARMōNIä, the night’s all about chill and flow.",
       "vibe": [
-        "teatro",
-        "cinema"
+        "cinema",
+        "teatro"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Open Mic – Stand Up Comedy Night | Firenze",
@@ -42,7 +42,7 @@
         "teatro",
         "cinema"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1524995997946-a1c2e315a42f"
     },
     {
       "titolo": "JASON DERULO LIVE PERFORMANCE IN FLORENCE – ONE NIGHT ONLY – 01/06/26",
@@ -53,10 +53,10 @@
       "categoria": "CONCERTO",
       "descrizione": "One night only in Italy: Jason Derulo live at Central Club Florence — exclusive vibes, unforgettable party!",
       "vibe": [
-        "intimo",
-        "live"
+        "live",
+        "gratis"
       ],
-      "img": "1470225620780-dba8ba36b745"
+      "img": "1465847899084-d164df4dedc6"
     },
     {
       "titolo": "FREESOLO - PAROLE DAL BASSO",
@@ -81,10 +81,10 @@
       "categoria": "CONCERTO",
       "descrizione": "Ritorniamo con il secondo episodio di TROPICAL ANIMALS PICNIC! Sole, musica e buon cibo nella bellissima cornice del il conventino",
       "vibe": [
-        "piccolo",
-        "free"
+        "outdoor",
+        "gratis"
       ],
-      "img": "1465847899084-d164df4dedc6"
+      "img": "1493225457124-a3eb161ffa5f"
     },
     {
       "titolo": "KOYA AT FLO - OPENING SEASON PARTY",
@@ -95,10 +95,10 @@
       "categoria": "SERATA",
       "descrizione": "To welcome the arrival of summer, KOYA kicks off the season with a daytime event at FLO, a full day of sunshine vibes and  good mu",
       "vibe": [
-        "aperitivo",
-        "live"
+        "disco",
+        "rooftop"
       ],
-      "img": "1492684223066-81342ee5ff30"
+      "img": "1516450360452-9312f5e86fc7"
     },
     {
       "titolo": "Francia - Toscana",
@@ -110,9 +110,9 @@
       "descrizione": "Nouvelles routes pour la coopération économique / Nuove rotte per la cooperazione economica",
       "vibe": [
         "free",
-        "letteratura"
+        "teatro"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1524995997946-a1c2e315a42f"
     },
     {
       "titolo": "ROOFTOP W  HOTEL FLORENCE",
@@ -123,10 +123,10 @@
       "categoria": "SERATA",
       "descrizione": "House music and cool views coming your way at the rooftop party you don’t want to miss.",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "aperitivo",
+        "disco"
       ],
-      "img": "1574015974293-f6b9e3e2bb5e"
+      "img": "1516450360452-9312f5e86fc7"
     },
     {
       "titolo": "VOCI SENZA PAURA: Nicola Gratteri, Antonio Nicaso e Sigfrido Ranucci",
@@ -137,10 +137,10 @@
       "categoria": "CULTURA",
       "descrizione": "NICOLA GRATTERI, ANTONIO NICASO e SIGFRIDO RANUCCI sono le voci senza paura del nostro Paese. Gli ospiti dialogheranno con SIMONE",
       "vibe": [
-        "teatro",
-        "letteratura"
+        "letteratura",
+        "teatro"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Dalle periferie al mondo: la generazione che protesta",
@@ -151,8 +151,8 @@
       "categoria": "CULTURA",
       "descrizione": "Scopri come i giovani dalle periferie stanno cambiando il mondo con le loro proteste e rivendicazioni sociali",
       "vibe": [
-        "letteratura",
-        "teatro"
+        "free",
+        "letteratura"
       ],
       "img": "1524995997946-a1c2e315a42f"
     },
@@ -168,7 +168,7 @@
         "storica",
         "arte-contemporanea"
       ],
-      "img": "1518998053901-5348d3961a04"
+      "img": "1554907984-15263bfd63bd"
     },
     {
       "titolo": "TACHICARDIA",
@@ -179,10 +179,10 @@
       "categoria": "SERATA",
       "descrizione": "Tachicardia Party esce dai club e trasforma The Social Hub nel nuovo appuntamento di soft clubbing mattutino a Lavagnini.",
       "vibe": [
-        "clubbing",
+        "aperitivo",
         "rooftop"
       ],
-      "img": "1492684223066-81342ee5ff30"
+      "img": "1574015974293-f6b9e3e2bb5e"
     },
     {
       "titolo": "“Suoni di festa”",
@@ -193,10 +193,10 @@
       "categoria": "CULTURA",
       "descrizione": "Antonio Frigè -organo \nGabriele Cassone –tromba naturale  \nMusiche di G. Fantini, B. Storace, G.B. Viviani, A. Falconiero, G. Muff",
       "vibe": [
-        "letteratura",
+        "free",
         "cinema"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1524995997946-a1c2e315a42f"
     },
     {
       "titolo": "St. Teresa's Academy Choir in concerto a Firenze",
@@ -207,10 +207,10 @@
       "categoria": "CONCERTO",
       "descrizione": "Il St. Teresa’s Academy Choir arriva a Firenze per un concerto presso la Basilica di Santa Trinita, nel cuore del centro storico c",
       "vibe": [
-        "piccolo",
+        "live",
         "all'aperto"
       ],
-      "img": "1493225457124-a3eb161ffa5f"
+      "img": "1501386761578-eac5c94b800a"
     },
     {
       "titolo": "JUPITER | concerto per i dieci anni della Filharmonie",
@@ -221,8 +221,8 @@
       "categoria": "CONCERTO",
       "descrizione": "La nostra orchestra compie 10 anni! Sabato 30 maggio un concerto speciale con un programma interamente dedicato a Mozart.",
       "vibe": [
-        "intimo",
-        "gratis"
+        "piccolo",
+        "live"
       ],
       "img": "1493225457124-a3eb161ffa5f"
     },
@@ -235,8 +235,8 @@
       "categoria": "CONCERTO",
       "descrizione": "L'Orchestra da Camera Fiorentina con Piero Romano e i solisti Francesco Sernesi (violino) e Patrizio Serino (violoncello).",
       "vibe": [
-        "all'aperto",
-        "free"
+        "intimo",
+        "live"
       ],
       "img": "1493225457124-a3eb161ffa5f"
     },
@@ -250,7 +250,7 @@
       "descrizione": "Flavor Session torna a Novoli: show cooking di Ilan Catola, vini Poggio al Grillo e aperitivo gourmet.",
       "vibe": [
         "rooftop",
-        "clubbing"
+        "disco"
       ],
       "img": "1492684223066-81342ee5ff30"
     },
@@ -264,37 +264,23 @@
       "descrizione": "Get ready to play! Join us at YellowSquare Florence for a night of epic drinking games, high energy, and new friends. Let’s get so",
       "vibe": [
         "letteratura",
-        "cinema"
+        "teatro"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
-      "titolo": "ARTE & TAROCCHI WORKSHOP",
+      "titolo": "ART & TAROT WORKSHOP",
       "data": "sab 23/05",
       "orario": "",
       "luogo": "Via dè Coverelli, 13r",
       "quartiere": "",
-      "categoria": "MOSTRA",
-      "descrizione": "WORKSHOP - APERITIVO CREATIVO",
+      "categoria": "SERATA",
+      "descrizione": "WORKSHOP - CREATIVE APERITIVO",
       "vibe": [
-        "must-see",
-        "storica"
+        "live",
+        "aperitivo"
       ],
-      "img": "1577083552431-6e5fd01988ec"
-    },
-    {
-      "titolo": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
-      "data": "sab 23/05",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "",
-      "categoria": "FOOD",
-      "descrizione": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
-      "vibe": [
-        "street-food",
-        "gourmet"
-      ],
-      "img": "1498837167922-ddd27525d352"
+      "img": "1533174072545-7a4b6ad7a6c3"
     },
     {
       "titolo": "100 Cities Project: Florence | Dinner with New Friends",
@@ -305,10 +291,10 @@
       "categoria": "CULTURA",
       "descrizione": "Life can be lonely when you’re always working on your passion. Take the opportunity to meet other locals over dinner!",
       "vibe": [
-        "letteratura",
-        "cinema"
+        "cinema",
+        "letteratura"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "BREVISSIME: Alessandro Morandotti. CARAVAGGIO",
@@ -319,10 +305,10 @@
       "categoria": "CULTURA",
       "descrizione": "Alessandro Morandotti. CARAVAGGIO E LA NASCITA DI UNA NUOVA TRADIZIONE FIGURATIVA",
       "vibe": [
-        "cinema",
+        "letteratura",
         "free"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "Presentazione e Firmacopie  con Ginevra Mantovani",
@@ -333,10 +319,10 @@
       "categoria": "CULTURA",
       "descrizione": "Vieni a conoscere Ginevra Mantovani e a farti firmare il libro in un pomeriggio super !!",
       "vibe": [
-        "free",
-        "cinema"
+        "letteratura",
+        "teatro"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Made in Florence:\"Una chiacchierata tra El Duomo Magazine e The Florentine\"",
@@ -347,7 +333,7 @@
       "categoria": "CULTURA",
       "descrizione": "L’evento sarà dedicato alla presentazione della rivista El Duomo Magazine",
       "vibe": [
-        "free",
+        "letteratura",
         "cinema"
       ],
       "img": "1481627834876-b7833e8f5570"
@@ -364,7 +350,7 @@
         "teatro",
         "letteratura"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Legally Blonde: Il Musical",
@@ -375,10 +361,24 @@
       "categoria": "CONCERTO",
       "descrizione": "Frizzante e irresistibilmente rosa, Legally Blonde – Il Musical è uno show esplosivo che celebra il coraggio di credere in sé stes",
       "vibe": [
-        "outdoor",
-        "live"
+        "intimo",
+        "all'aperto"
       ],
-      "img": "1493225457124-a3eb161ffa5f"
+      "img": "1470225620780-dba8ba36b745"
+    },
+    {
+      "titolo": "SOCIAL DRINKING GAMES | Ostello Bello Firenze",
+      "data": "gio 21/05",
+      "orario": "",
+      "luogo": "Ostello Bello Firenze - Hostel and Bar",
+      "quartiere": "",
+      "categoria": "CULTURA",
+      "descrizione": "Per info e prenotazioni +39 055 213806 | ostellobello.firenze",
+      "vibe": [
+        "cinema",
+        "letteratura"
+      ],
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Gruppo di Lettura Silenziosa Firenze",
@@ -389,52 +389,38 @@
       "categoria": "MOSTRA",
       "descrizione": "Nasce il Silent Book Club Firenze. Una volta al mese ci troviamo a leggere insieme, in silenzio. Partecipa al primo evento!",
       "vibe": [
-        "da-non-perdere",
-        "storica"
-      ],
-      "img": "1554907984-15263bfd63bd"
-    },
-    {
-      "titolo": "BEER PONG | Ostello Bello Firenze",
-      "data": "ven 22/05",
-      "orario": "",
-      "luogo": "Ostello Bello Firenze - Hostel and Bar",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Per info e prenotazioni +39 055 213806 | ostellobello.firenze",
-      "vibe": [
-        "letteratura",
+        "storica",
         "free"
       ],
-      "img": "1489599849927-2ee91cede3ba"
+      "img": "1577083552431-6e5fd01988ec"
     },
     {
-      "titolo": "Le Bellezze di Firenze - Free Walking Tour",
-      "data": "sab 23/05",
+      "titolo": "Las Bellezas de Florencia – Free Walking tour",
+      "data": "ven 22/05",
       "orario": "",
-      "luogo": "Piazza di Santa Maria Novella",
+      "luogo": "Piazza Santa Maria Novella",
       "quartiere": "",
       "categoria": "CULTURA",
-      "descrizione": "Il Free Walking Tour più conosciuto di Firenze con guide fiorentine autorizzate",
+      "descrizione": "El Free Tour más conocido de Florencia; ¡el único con guías locales con licencia!",
       "vibe": [
-        "free",
-        "letteratura"
-      ],
-      "img": "1481627834876-b7833e8f5570"
-    },
-    {
-      "titolo": "La Firenze di Boccaccio: quando Firenze dominava il Mondo",
-      "data": "dom 24/05",
-      "orario": "",
-      "luogo": "Davanti Fontana del Nettuno",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Nel Trecento, Firenze era un centro di potere e cultura, dove politica e denaro plasmavano il bene comune, come descritto da Bocca",
-      "vibe": [
-        "teatro",
+        "letteratura",
         "cinema"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1524995997946-a1c2e315a42f"
+    },
+    {
+      "titolo": "Firenze Sangunaria: le lotte di potete tra Nobiltà e Popolo Grasso",
+      "data": "sab 23/05",
+      "orario": "",
+      "luogo": "Davanti all’obelisco",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Il \"popolo grasso\" di Firenze: mercanti e banchieri creano ricchezza e potere nel Rinascimento tra palazzi e intrighi.",
+      "vibe": [
+        "outdoor",
+        "live"
+      ],
+      "img": "1465847899084-d164df4dedc6"
     },
     {
       "titolo": "Hidden Gems Stroll",
@@ -445,10 +431,10 @@
       "categoria": "MERCATO",
       "descrizione": "Relaxed Florence walk with markets, historic spots, and local food at Mercato Centrale.",
       "vibe": [
-        "outdoor",
+        "free",
         "vintage"
       ],
-      "img": "1488459716781-31db52582fe9"
+      "img": "1490750967868-88aa4486c946"
     },
     {
       "titolo": "Tiny Florence / Firenze Piccolina",
@@ -460,9 +446,9 @@
       "descrizione": "Una collezione di opere fotografiche mignon ad opera degli studenti di Fotografia di FUA e AUF",
       "vibe": [
         "da-non-perdere",
-        "storica"
+        "arte-contemporanea"
       ],
-      "img": "1605350353407-d7a98fe16b21"
+      "img": "1554907984-15263bfd63bd"
     },
     {
       "titolo": "Coop Summit 2026 | Intelligenza Cooperativa",
@@ -473,10 +459,10 @@
       "categoria": "CULTURA",
       "descrizione": "Il summit sull’imprenditoria giovanile torna a Firenze per parlare di cooperazione, opportunità e modelli d’impresa.",
       "vibe": [
-        "free",
-        "cinema"
+        "teatro",
+        "letteratura"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Next Level Negotiation Masterclass",
@@ -488,7 +474,7 @@
       "descrizione": "What if Every Conversation Could Work in your Favor ?",
       "vibe": [
         "free",
-        "letteratura"
+        "teatro"
       ],
       "img": "1481627834876-b7833e8f5570"
     },
@@ -501,10 +487,10 @@
       "categoria": "CULTURA",
       "descrizione": "COLLOQUIANDO. 28 maggio 2026. Edificio D4-Primo Piano. Tutto il giorno.",
       "vibe": [
-        "cinema",
-        "letteratura"
+        "letteratura",
+        "cinema"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "DODICI QUALITÀ PER SOPRAVVIVERE IN TRIBUNALE (E non è nemmeno certo)",
@@ -515,8 +501,8 @@
       "categoria": "CULTURA",
       "descrizione": "Pièce umoristica in cui sono descritti caratteri e situazioni che, ogni giorno, si riscontrano in tutti i Palazzi di Giustizia",
       "vibe": [
-        "teatro",
-        "free"
+        "free",
+        "cinema"
       ],
       "img": "1571696769037-c6a7c44c1db6"
     },
@@ -529,8 +515,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Ensemble vocale e strumentale del Dipartimento di Musica Antica del Conservatorio “L. \nCherubini” di Firenze",
       "vibe": [
-        "free",
-        "outdoor"
+        "musica",
+        "all'aperto"
       ],
       "img": "1501386761578-eac5c94b800a"
     },
@@ -543,10 +529,10 @@
       "categoria": "CONCERTO",
       "descrizione": "One night only in Italy: OFFSET live at Central Club Florence — exclusive vibes, unforgettable party!",
       "vibe": [
-        "musica",
+        "live",
         "intimo"
       ],
-      "img": "1465847899084-d164df4dedc6"
+      "img": "1501386761578-eac5c94b800a"
     },
     {
       "titolo": "Florence: Concert Matinée Experience",
@@ -557,10 +543,10 @@
       "categoria": "CULTURA",
       "descrizione": "Enjoy a concert of opera arias by Verdi, Puccini, and more or a lovely Chamber Music Concert in Florence. Masterpieces authentic e",
       "vibe": [
-        "teatro",
+        "free",
         "cinema"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Walt Disney Tribute - Live Concert in Florence",
@@ -571,24 +557,10 @@
       "categoria": "CONCERTO",
       "descrizione": "String quintet tribute to Walt Disney, celebrating timeless melodies from beloved animated classics in an intimate concert setting",
       "vibe": [
-        "gratis",
-        "live"
+        "all'aperto",
+        "gratis"
       ],
-      "img": "1501386761578-eac5c94b800a"
-    },
-    {
-      "titolo": "ART & TAROT WORKSHOP",
-      "data": "sab 23/05",
-      "orario": "",
-      "luogo": "Via dè Coverelli, 13r",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "WORKSHOP - CREATIVE APERITIVO",
-      "vibe": [
-        "clubbing",
-        "rooftop"
-      ],
-      "img": "1533174072545-7a4b6ad7a6c3"
+      "img": "1493225457124-a3eb161ffa5f"
     },
     {
       "titolo": "Dynamic Portrait- Sculpture Workshop",
@@ -599,10 +571,10 @@
       "categoria": "CULTURA",
       "descrizione": "A hands-on sculpture workshop dedicated to portrait modeling, designed to explore the human face in a direct and intuitive way.",
       "vibe": [
-        "letteratura",
-        "teatro"
+        "teatro",
+        "free"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Arara Azul Brazilian Film Festival",
@@ -616,7 +588,7 @@
         "letteratura",
         "teatro"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "OPEN: A new civic space for art and science | Open to the public",
@@ -627,10 +599,10 @@
       "categoria": "SERATA",
       "descrizione": "Discover OPEN at Palazzo Buontalenti, an unprecedented exhibition where contemporary art meets academic research.",
       "vibe": [
-        "aperitivo",
+        "rooftop",
         "live"
       ],
-      "img": "1533174072545-7a4b6ad7a6c3"
+      "img": "1492684223066-81342ee5ff30"
     },
     {
       "titolo": "Watercolor Urban Sketching - Sunset at Piazzale Michelangelo",
@@ -641,10 +613,24 @@
       "categoria": "CULTURA",
       "descrizione": "A relaxed drawing and watercolor experience at sunset, overlooking Florence from Piazzale Michelangelo.",
       "vibe": [
-        "cinema",
-        "free"
+        "free",
+        "letteratura"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1571696769037-c6a7c44c1db6"
+    },
+    {
+      "titolo": "ARTE & TAROCCHI WORKSHOP",
+      "data": "sab 23/05",
+      "orario": "",
+      "luogo": "Via dè Coverelli, 13r",
+      "quartiere": "",
+      "categoria": "MOSTRA",
+      "descrizione": "WORKSHOP - APERITIVO CREATIVO",
+      "vibe": [
+        "arte-contemporanea",
+        "storica"
+      ],
+      "img": "1518998053901-5348d3961a04"
     },
     {
       "titolo": "George Bridgman Drawing Method -  Figure Construction Workshop",
@@ -655,8 +641,8 @@
       "categoria": "CULTURA",
       "descrizione": "An intensive drawing workshop focused on understanding the human figure through structure and construction, based on the method of",
       "vibe": [
-        "cinema",
-        "teatro"
+        "letteratura",
+        "cinema"
       ],
       "img": "1489599849927-2ee91cede3ba"
     },
@@ -669,8 +655,8 @@
       "categoria": "MOSTRA",
       "descrizione": "Il primo appuntamento del programma di mostre, conversazioni e scambi multidisciplinari di DROPS. Passa a trovarci!",
       "vibe": [
-        "free",
-        "must-see"
+        "arte-contemporanea",
+        "da-non-perdere"
       ],
       "img": "1554907984-15263bfd63bd"
     }
