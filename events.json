@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T13:28:03Z",
+  "updated_at": "2026-05-29T14:28:16Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Il St. Teresa’s Academy Choir arriva a Firenze per un concerto presso la Basilica di Santa Trinita, nel cuore del centro storico c",
       "vibe": [
-        "outdoor",
-        "musica"
+        "musica",
+        "piccolo"
       ],
       "img": "1501386761578-eac5c94b800a"
     },
@@ -28,7 +28,7 @@
         "letteratura",
         "teatro"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "JASON DERULO LIVE PERFORMANCE IN FLORENCE – ONE NIGHT ONLY – 01/06/26",
@@ -39,8 +39,8 @@
       "categoria": "CONCERTO",
       "descrizione": "One night only in Italy: Jason Derulo live at Central Club Florence — exclusive vibes, unforgettable party!",
       "vibe": [
-        "piccolo",
-        "all'aperto"
+        "outdoor",
+        "live"
       ],
       "img": "1470225620780-dba8ba36b745"
     },
@@ -53,10 +53,10 @@
       "categoria": "CULTURA",
       "descrizione": "Voci intrecciate evocano l’acqua come simbolo di vita, tempo e spiritualità tra antico e contemporaneo.",
       "vibe": [
-        "free",
-        "letteratura"
+        "letteratura",
+        "teatro"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1524995997946-a1c2e315a42f"
     },
     {
       "titolo": "RUMORE | TSH Belfiore | Rooftop - 31/05/2026",
@@ -67,10 +67,10 @@
       "categoria": "CULTURA",
       "descrizione": "Cuore, batticuore.",
       "vibe": [
-        "letteratura",
-        "cinema"
+        "teatro",
+        "letteratura"
       ],
-      "img": "1489599849927-2ee91cede3ba"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Bella Vita Club at The Lodge Club with Essence Records",
@@ -81,10 +81,10 @@
       "categoria": "SERATA",
       "descrizione": "Opening Party at The Lodge Club with Essence Records. Elegant vibes, house music & exclusive atmosphere in Florence. ✨",
       "vibe": [
-        "live",
-        "rooftop"
+        "aperitivo",
+        "jazz"
       ],
-      "img": "1492684223066-81342ee5ff30"
+      "img": "1516450360452-9312f5e86fc7"
     },
     {
       "titolo": "VOCI SENZA PAURA: Nicola Gratteri, Antonio Nicaso e Sigfrido Ranucci",
@@ -98,7 +98,7 @@
         "free",
         "letteratura"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "E = mc² - La fisica delle emozioni",
@@ -109,8 +109,8 @@
       "categoria": "CULTURA",
       "descrizione": "La Ginnastica Casellina presenta il saggio 2026: scopri la formula dell'energia in pedana! Un grande spettacolo di ginnastica! Non",
       "vibe": [
-        "letteratura",
-        "teatro"
+        "teatro",
+        "letteratura"
       ],
       "img": "1571696769037-c6a7c44c1db6"
     },
@@ -123,10 +123,10 @@
       "categoria": "CULTURA",
       "descrizione": "Vieni a scoprire le idee di Carlo Calenda direttamente dal suo nuovo libro, un evento da non perdere! Con a lui ci sarà Carlo Cott",
       "vibe": [
-        "teatro",
+        "letteratura",
         "free"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Meet Magento Italy 2026 - Florence",
@@ -151,10 +151,10 @@
       "categoria": "CULTURA",
       "descrizione": "Antonio Frigè -organo \nGabriele Cassone –tromba naturale  \nMusiche di G. Fantini, B. Storace, G.B. Viviani, A. Falconiero, G. Muff",
       "vibe": [
-        "teatro",
-        "free"
+        "free",
+        "cinema"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Legally Blonde: Il Musical",
@@ -165,10 +165,10 @@
       "categoria": "CONCERTO",
       "descrizione": "BIGLIETTI ANCORA DISPONIBILI ALLA BIGLIETTERIA DEL TEATRO CARTIERE CARRARA IL 30/5 DALLE ORE 18:30.",
       "vibe": [
-        "outdoor",
-        "live"
+        "piccolo",
+        "musica"
       ],
-      "img": "1501386761578-eac5c94b800a"
+      "img": "1465847899084-d164df4dedc6"
     },
     {
       "titolo": "JUPITER | concerto per i dieci anni della Filharmonie",
@@ -179,10 +179,10 @@
       "categoria": "CONCERTO",
       "descrizione": "La nostra orchestra compie 10 anni! Sabato 30 maggio un concerto speciale con un programma interamente dedicato a Mozart.",
       "vibe": [
-        "intimo",
-        "live"
+        "live",
+        "outdoor"
       ],
-      "img": "1470225620780-dba8ba36b745"
+      "img": "1493225457124-a3eb161ffa5f"
     },
     {
       "titolo": "Orchestra da Camera Fiorentina - Beethoven e Brahms",
@@ -193,10 +193,10 @@
       "categoria": "CONCERTO",
       "descrizione": "L'Orchestra da Camera Fiorentina con Piero Romano e i solisti Francesco Sernesi (violino) e Patrizio Serino (violoncello).",
       "vibe": [
-        "all'aperto",
-        "live"
+        "intimo",
+        "musica"
       ],
-      "img": "1470225620780-dba8ba36b745"
+      "img": "1465847899084-d164df4dedc6"
     },
     {
       "titolo": "Compleanno di Dischi Fenice",
@@ -207,8 +207,8 @@
       "categoria": "CULTURA",
       "descrizione": "Vieni a brindare ai nostri 33 anni di attività!",
       "vibe": [
-        "teatro",
-        "letteratura"
+        "cinema",
+        "free"
       ],
       "img": "1524995997946-a1c2e315a42f"
     },
@@ -221,7 +221,7 @@
       "categoria": "CULTURA",
       "descrizione": "Il Piccolo Coro Melograno ti aspetta! Non perderti il programma estivo del Piccolo Coro Melograno!",
       "vibe": [
-        "cinema",
+        "teatro",
         "letteratura"
       ],
       "img": "1481627834876-b7833e8f5570"
@@ -235,10 +235,10 @@
       "categoria": "CONCERTO",
       "descrizione": "Il gran finale di SALE accende Piazza dei Ciompi con MILLE: musica, energia e festa collettiva tra relazioni e condivisione.",
       "vibe": [
-        "outdoor",
-        "live"
+        "musica",
+        "piccolo"
       ],
-      "img": "1470225620780-dba8ba36b745"
+      "img": "1501386761578-eac5c94b800a"
     },
     {
       "titolo": "Three Women Behind the Bar",
@@ -250,23 +250,23 @@
       "descrizione": "Meet the trio shaking up the cocktail scene with style and stories behind the bar!",
       "vibe": [
         "rooftop",
-        "disco"
+        "aperitivo"
       ],
-      "img": "1574015974293-f6b9e3e2bb5e"
+      "img": "1516450360452-9312f5e86fc7"
     },
     {
-      "titolo": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
-      "data": "sab 30/05",
+      "titolo": "Savor Tuscan Flavors From the Maremma Hills - Cooking Class in Tuscany | Cozymea",
+      "data": "ven 29/05",
       "orario": "",
       "luogo": "Location provided after booking",
       "quartiere": "",
-      "categoria": "FOOD",
-      "descrizione": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
+      "categoria": "CULTURA",
+      "descrizione": "Savor Tuscan Flavors From the Maremma Hills - Cooking Class in Tuscany | Cozymeal™",
       "vibe": [
-        "gourmet",
-        "vino"
+        "cinema",
+        "teatro"
       ],
-      "img": "1565299585323-38d6b0865b47"
+      "img": "1524995997946-a1c2e315a42f"
     },
     {
       "titolo": "Mixology Class",
@@ -277,10 +277,10 @@
       "categoria": "SERATA",
       "descrizione": "Master the art of the cocktail at YellowSquare Florence! Shake, stir, and sip with our pro mixologists in the heart of Tuscany. Jo",
       "vibe": [
-        "disco",
-        "aperitivo"
+        "aperitivo",
+        "clubbing"
       ],
-      "img": "1516450360452-9312f5e86fc7"
+      "img": "1574015974293-f6b9e3e2bb5e"
     },
     {
       "titolo": "ROOFTOP W  HOTEL FLORENCE",
@@ -292,7 +292,7 @@
       "descrizione": "House music and cool views coming your way at the rooftop party you don’t want to miss.",
       "vibe": [
         "live",
-        "disco"
+        "rooftop"
       ],
       "img": "1574015974293-f6b9e3e2bb5e"
     },
@@ -305,10 +305,10 @@
       "categoria": "MOSTRA",
       "descrizione": "Cucina archeologica e tradizioni lunigianesi con Pietro Giorcelli: antiche ricette, storie di forno e dimostrazioni dal vivo.",
       "vibe": [
-        "gratis",
-        "arte-contemporanea"
+        "storica",
+        "gratis"
       ],
-      "img": "1577083552431-6e5fd01988ec"
+      "img": "1518998053901-5348d3961a04"
     },
     {
       "titolo": "100 Cities Project: Florence | Dinner with New Friends",
@@ -319,8 +319,8 @@
       "categoria": "CULTURA",
       "descrizione": "Life can be lonely when you’re always working on your passion. Take the opportunity to meet other locals over dinner!",
       "vibe": [
-        "free",
-        "teatro"
+        "teatro",
+        "letteratura"
       ],
       "img": "1571696769037-c6a7c44c1db6"
     },
@@ -333,8 +333,8 @@
       "categoria": "MOSTRA",
       "descrizione": "Il primo appuntamento del programma di mostre, conversazioni e scambi multidisciplinari di DROPS. Passa a trovarci!",
       "vibe": [
-        "da-non-perdere",
-        "arte-contemporanea"
+        "arte-contemporanea",
+        "da-non-perdere"
       ],
       "img": "1577083552431-6e5fd01988ec"
     },
@@ -347,7 +347,7 @@
       "categoria": "CULTURA",
       "descrizione": "NUDA VERITÀ: un incontro vero, senza filtri, dove si parla chiaro e si vive l’autenticità insieme.",
       "vibe": [
-        "letteratura",
+        "free",
         "cinema"
       ],
       "img": "1489599849927-2ee91cede3ba"
@@ -361,10 +361,10 @@
       "categoria": "CULTURA",
       "descrizione": "Evento benefico gratuito in favore di Associazione Pane Quotidiano Firenze ODV che svolge la sua opera  a favore dei meno fortunat",
       "vibe": [
-        "teatro",
-        "free"
+        "cinema",
+        "teatro"
       ],
-      "img": "1524995997946-a1c2e315a42f"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Aperiballroom:  scopriamo tutto sulla ballroom!",
@@ -375,10 +375,10 @@
       "categoria": "SERATA",
       "descrizione": "Un aperitivo introduttivo alla ballroom culture che unisce racconto e performance dal vivo.",
       "vibe": [
-        "clubbing",
-        "live"
+        "rooftop",
+        "clubbing"
       ],
-      "img": "1516450360452-9312f5e86fc7"
+      "img": "1492684223066-81342ee5ff30"
     },
     {
       "titolo": "Open Mic – Stand Up Comedy Night | Firenze",
@@ -389,8 +389,8 @@
       "categoria": "CULTURA",
       "descrizione": "Open mic di stand up comedy da Binomio. Presenta Marcello Pastore: comici professionisti e nuovi talenti portano sul palco materia",
       "vibe": [
-        "teatro",
-        "free"
+        "free",
+        "teatro"
       ],
       "img": "1524995997946-a1c2e315a42f"
     },
@@ -403,8 +403,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Show off your skills and have a blast at Sassetti's Got Talent—where everyone gets a chance to shine live!",
       "vibe": [
-        "intimo",
-        "live"
+        "live",
+        "piccolo"
       ],
       "img": "1465847899084-d164df4dedc6"
     },
@@ -420,7 +420,7 @@
         "teatro",
         "letteratura"
       ],
-      "img": "1489599849927-2ee91cede3ba"
+      "img": "1524995997946-a1c2e315a42f"
     },
     {
       "titolo": "Le Bellezze di Firenze - Free Walking Tour",
@@ -432,9 +432,9 @@
       "descrizione": "Il Free Walking Tour più conosciuto di Firenze con guide fiorentine autorizzate",
       "vibe": [
         "letteratura",
-        "cinema"
+        "free"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1489599849927-2ee91cede3ba"
     },
     {
       "titolo": "Foodies + New Friends: Florence",
@@ -446,9 +446,9 @@
       "descrizione": "You sign up. We book. You meet strangers who’ll potentially become your friends. It’s simple, right? Connect and support local bus",
       "vibe": [
         "vino",
-        "family"
+        "street-food"
       ],
-      "img": "1414235077428-338989a2e8c0"
+      "img": "1498837167922-ddd27525d352"
     },
     {
       "titolo": "Tiny Florence / Firenze Piccolina",
@@ -459,10 +459,10 @@
       "categoria": "MOSTRA",
       "descrizione": "Una collezione di opere fotografiche mignon ad opera degli studenti di Fotografia di FUA e AUF",
       "vibe": [
-        "free",
+        "storica",
         "arte-contemporanea"
       ],
-      "img": "1518998053901-5348d3961a04"
+      "img": "1605350353407-d7a98fe16b21"
     },
     {
       "titolo": "Writing Workshop: Essay Craft with Wallis Wilde Menozzi",
@@ -473,8 +473,8 @@
       "categoria": "CULTURA",
       "descrizione": "Florence Literary Society Workshop: Improve your Essay Craft",
       "vibe": [
-        "letteratura",
-        "free"
+        "free",
+        "letteratura"
       ],
       "img": "1481627834876-b7833e8f5570"
     },
@@ -488,9 +488,9 @@
       "descrizione": "Una visita guidata alla scoperta della storia e degli ambienti della Biblioteca",
       "vibe": [
         "cinema",
-        "letteratura"
+        "free"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "Firenze Scientifica: sulle tracce di Leonardo, Galileo e Amerigo Vespucci",
@@ -501,10 +501,10 @@
       "categoria": "CULTURA",
       "descrizione": "Firenze, culla della scienza moderna, ospitò geni come Leonardo, Galileo e Vespucci, cambiando il nostro sguardo sul mondo.",
       "vibe": [
-        "teatro",
-        "cinema"
+        "letteratura",
+        "free"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "BUSINESS PRESENTATION",
@@ -515,10 +515,10 @@
       "categoria": "SERATA",
       "descrizione": "Presentazione Elegante con aperitivo",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "rooftop",
+        "aperitivo"
       ],
-      "img": "1492684223066-81342ee5ff30"
+      "img": "1516450360452-9312f5e86fc7"
     },
     {
       "titolo": "Il Grande Venerdì di Enzo XVII - FIRENZE",
@@ -530,9 +530,9 @@
       "descrizione": "La portfolio review che ha per protagonisti i giovani e i direttori creativi di alcune tra le più importanti agenzie italiane.",
       "vibe": [
         "cinema",
-        "letteratura"
+        "free"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Legal & DPO Point: sportello settimanale di consulenza",
@@ -543,10 +543,10 @@
       "categoria": "SPORT",
       "descrizione": "Le risposte sui temi legali e protezione privacy dedicate al mondo delle startup",
       "vibe": [
-        "free",
+        "amatoriale",
         "outdoor"
       ],
-      "img": "1543429776-2782fc8e1acd"
+      "img": "1540539234-c14428952f72"
     },
     {
       "titolo": "BAN Startup Night - The Hoxton Firenze",
@@ -558,7 +558,7 @@
       "descrizione": "Secondo incontro dell'anno organizzato dal BusinessAngels.Network",
       "vibe": [
         "cinema",
-        "free"
+        "letteratura"
       ],
       "img": "1481627834876-b7833e8f5570"
     },
@@ -571,10 +571,10 @@
       "categoria": "CULTURA",
       "descrizione": "Ensemble Sezione Aurea - violino, viola, violoncello, violone, clavicembali",
       "vibe": [
-        "free",
-        "teatro"
+        "letteratura",
+        "free"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "CORRENTI E RIFLESSI. L’ACQUA TRA MOTO E CONTEMPLAZIONE | Duo Fossi -  Masi",
@@ -585,7 +585,7 @@
       "categoria": "CULTURA",
       "descrizione": "Due pianisti attraversano riflessi, correnti e quieti interiori in un viaggio sonoro tra acqua e tempo",
       "vibe": [
-        "letteratura",
+        "cinema",
         "free"
       ],
       "img": "1489599849927-2ee91cede3ba"
@@ -599,10 +599,10 @@
       "categoria": "CULTURA",
       "descrizione": "Flauto, oboe e arpa dipingono giochi d’acqua, trasparenze e riflessi in un raffinato dialogo timbrico.",
       "vibe": [
-        "cinema",
-        "letteratura"
+        "letteratura",
+        "cinema"
       ],
-      "img": "1481627834876-b7833e8f5570"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "SORGENTI INTERIORI. L’ACQUA COME RESPIRO E MEMORIA | Kanahi Yamashita",
@@ -613,7 +613,7 @@
       "categoria": "CULTURA",
       "descrizione": "La chitarra sola diventa eco di memoria, silenzio e respiro in un paesaggio sonoro intimo e fluido.",
       "vibe": [
-        "teatro",
+        "letteratura",
         "free"
       ],
       "img": "1571696769037-c6a7c44c1db6"
@@ -628,9 +628,9 @@
       "descrizione": "Enjoy a concert of opera arias by Verdi, Puccini, and more or a lovely Chamber Music Concert in Florence. Masterpieces authentic e",
       "vibe": [
         "teatro",
-        "letteratura"
+        "cinema"
       ],
-      "img": "1571696769037-c6a7c44c1db6"
+      "img": "1481627834876-b7833e8f5570"
     },
     {
       "titolo": "Workshops @ Opel Firenze Rocks 2026",
@@ -642,9 +642,9 @@
       "descrizione": "Engaging workshops in Florence for all rock music lovers!",
       "vibe": [
         "live",
-        "gratis"
+        "free"
       ],
-      "img": "1501386761578-eac5c94b800a"
+      "img": "1493225457124-a3eb161ffa5f"
     },
     {
       "titolo": "OPEN: A new civic space for art and science | Open to the public",
@@ -655,10 +655,10 @@
       "categoria": "SERATA",
       "descrizione": "Discover OPEN at Palazzo Buontalenti, an unprecedented exhibition where contemporary art meets academic research.",
       "vibe": [
-        "jazz",
-        "disco"
+        "aperitivo",
+        "clubbing"
       ],
-      "img": "1492684223066-81342ee5ff30"
+      "img": "1533174072545-7a4b6ad7a6c3"
     },
     {
       "titolo": "Totebag Painting",
@@ -669,10 +669,10 @@
       "categoria": "CULTURA",
       "descrizione": "Grab a tote and get creative! Join our painting workshop to design your own custom bag. All materials provided. Let’s get artsy!",
       "vibe": [
-        "free",
+        "cinema",
         "teatro"
       ],
-      "img": "1489599849927-2ee91cede3ba"
+      "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Florence: Italian Opera in Santa Monaca Church",
@@ -686,33 +686,19 @@
         "cinema",
         "letteratura"
       ],
-      "img": "1481627834876-b7833e8f5570"
-    },
-    {
-      "titolo": "Italian Burning Experience 2026",
-      "data": "ven 29/05",
-      "orario": "",
-      "luogo": "Rifugio Valnera",
-      "quartiere": "Marradi",
-      "categoria": "CULTURA",
-      "descrizione": "Italian Burning Experience is a co-created event in Tuscany guided by the Burning Man principles.",
-      "vibe": [
-        "letteratura",
-        "cinema"
-      ],
       "img": "1571696769037-c6a7c44c1db6"
     },
     {
       "titolo": "Authentic Italian Pasta Making in Florence - Cooking Class in Florence | Cozymea",
-      "data": "ven 29/05",
+      "data": "sab 30/05",
       "orario": "",
       "luogo": "Location provided after booking",
       "quartiere": "",
       "categoria": "CULTURA",
       "descrizione": "Authentic Italian Pasta Making in Florence - Cooking Class in Florence | Cozymeal™",
       "vibe": [
-        "teatro",
-        "cinema"
+        "free",
+        "letteratura"
       ],
       "img": "1524995997946-a1c2e315a42f"
     },
@@ -726,21 +712,35 @@
       "descrizione": "Craft Authentic Italian Pasta in Florentine Home - Cooking Class in Tuscany | Cozymeal™",
       "vibe": [
         "teatro",
-        "letteratura"
+        "free"
       ],
       "img": "1524995997946-a1c2e315a42f"
     },
     {
-      "titolo": "Make Tagliatelle, Gnocchi and Panna Cotta in Florence - Cooking Class in Florenc",
+      "titolo": "Make Ravioli and Farfalle in Florence - Cooking Class in Florence | Cozymeal™",
       "data": "ven 29/05",
       "orario": "",
       "luogo": "Location provided after booking",
       "quartiere": "Scandicci",
       "categoria": "CULTURA",
-      "descrizione": "Make Tagliatelle, Gnocchi and Panna Cotta in Florence - Cooking Class in Florence | Cozymeal™",
+      "descrizione": "Make Ravioli and Farfalle in Florence - Cooking Class in Florence | Cozymeal™",
+      "vibe": [
+        "letteratura",
+        "cinema"
+      ],
+      "img": "1489599849927-2ee91cede3ba"
+    },
+    {
+      "titolo": "Make Fabulous Tuscan Dishes With Local Chef - Cooking Class in Florence | Cozyme",
+      "data": "ven 29/05",
+      "orario": "",
+      "luogo": "Location provided after booking",
+      "quartiere": "Scandicci",
+      "categoria": "CULTURA",
+      "descrizione": "Make Fabulous Tuscan Dishes With Local Chef - Cooking Class in Florence | Cozymeal™",
       "vibe": [
         "cinema",
-        "teatro"
+        "free"
       ],
       "img": "1524995997946-a1c2e315a42f"
     }
