@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T17:48:18Z",
+  "updated_at": "2026-06-17T17:58:59Z",
   "city": "Firenze",
   "events": [
     {
@@ -12,9 +12,11 @@
       "descrizione": "uno spettacolo di Choreos per il mese del pride.",
       "vibe": [
         "teatro",
-        "free"
+        "letteratura"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185872012%2F1413453787723%2F1%2Foriginal.20260601-152709?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.131&fp-y=0.418&s=6652daa5b2e0f6dac52c1b174adf0979"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185872012%2F1413453787723%2F1%2Foriginal.20260601-152709?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.131&fp-y=0.418&s=6652daa5b2e0f6dac52c1b174adf0979",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/varieta-contro-il-logorio-della-vita-moderna-tickets-1990655607509"
     },
     {
       "titolo": "ABITUÉ | The Lodge - 17/06/26",
@@ -25,10 +27,16 @@
       "categoria": "CULTURA",
       "descrizione": "Design your own world.",
       "vibe": [
-        "teatro",
-        "cinema"
+        "letteratura",
+        "free"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186868993%2F660359674023%2F1%2Foriginal.20260614-145435?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.798&s=7d58bbdd9c41d0f9e4e7313b8adc3fdd"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186868993%2F660359674023%2F1%2Foriginal.20260614-145435?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.798&s=7d58bbdd9c41d0f9e4e7313b8adc3fdd",
+      "social": {
+        "platform": "Instagram",
+        "label": "@thelodgeflorence",
+        "url": "https://www.instagram.com/thelodgeflorence/"
+      },
+      "event_url": "https://www.eventbrite.it/e/abitue-the-lodge-170626-tickets-1991860477307"
     },
     {
       "titolo": "ROOFTOP W  HOTEL FLORENCE",
@@ -39,10 +47,16 @@
       "categoria": "SERATA",
       "descrizione": "House music and cool views coming your way at the rooftop party you don’t want to miss.",
       "vibe": [
-        "rooftop",
-        "live"
+        "aperitivo",
+        "jazz"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184784972%2F1959075157713%2F1%2Foriginal.20260517-140745?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.454&fp-y=0.503&s=fd28725c5f11aaded302cf971ec339f5"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184784972%2F1959075157713%2F1%2Foriginal.20260517-140745?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.454&fp-y=0.503&s=fd28725c5f11aaded302cf971ec339f5",
+      "social": {
+        "platform": "Instagram",
+        "label": "@wflorence",
+        "url": "https://www.instagram.com/wflorence/"
+      },
+      "event_url": "https://www.eventbrite.it/e/rooftop-w-hotel-florence-tickets-1989779029641"
     },
     {
       "titolo": "Disegnare il futuro Toscana, IV edizione del forum sull’innovazione",
@@ -53,10 +67,12 @@
       "categoria": "CULTURA",
       "descrizione": "Un’occasione di confronto tra istituzioni e mondo delle imprese",
       "vibe": [
-        "teatro",
+        "letteratura",
         "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186476472%2F1384401455063%2F1%2Foriginal.20260609-084151?h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&s=d0d3134c62436c430d12e442d0c71bf8"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186476472%2F1384401455063%2F1%2Foriginal.20260609-084151?h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&s=d0d3134c62436c430d12e442d0c71bf8",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/disegnare-il-futuro-toscana-iv-edizione-del-forum-sullinnovazione-tickets-1987681846911"
     },
     {
       "titolo": "Martedi 23 Giugno PREFESTIVO \"La FARINA - Pizza & Grill - Opening Party\"",
@@ -67,10 +83,12 @@
       "categoria": "MOSTRA",
       "descrizione": "Martedi 23 Giugno PREFESTIVO \"La FARINA - Pizza & Grill - Opening Party\" ...Vieni a scoprire un nuovo locale...",
       "vibe": [
-        "arte-contemporanea",
-        "free"
+        "free",
+        "da-non-perdere"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186700028%2F226128930217%2F1%2Foriginal.20260611-175938?crop=focalpoint&fit=crop&h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7a437cd7dcb36fa4ba8b9bafd616efae"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186700028%2F226128930217%2F1%2Foriginal.20260611-175938?crop=focalpoint&fit=crop&h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7a437cd7dcb36fa4ba8b9bafd616efae",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-martedi-23-giugno-prefestivo-la-farina-pizza-grill-opening-party-1991721449471"
     },
     {
       "titolo": "ONDA SONORA AT FLO FIRENZE",
@@ -81,10 +99,16 @@
       "categoria": "CULTURA",
       "descrizione": "L'onda è arrivata a Firenze, nella sua location più esclusiva! Get ready to ride the wave!!!",
       "vibe": [
-        "free",
-        "teatro"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186411704%2F3004655199726%2F1%2Foriginal.20260608-153743?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.492&s=acce8ed9d4f50ca452d68bab8ea39a44"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186411704%2F3004655199726%2F1%2Foriginal.20260608-153743?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.492&s=acce8ed9d4f50ca452d68bab8ea39a44",
+      "social": {
+        "platform": "Instagram",
+        "label": "@flo.firenze",
+        "url": "https://www.instagram.com/flo.firenze/"
+      },
+      "event_url": "https://www.eventbrite.com/e/onda-sonora-at-flo-firenze-tickets-1991387621984"
     },
     {
       "titolo": "Accademia D'Impresa - Evento di presentazione",
@@ -95,10 +119,12 @@
       "categoria": "CULTURA",
       "descrizione": "Presentazione dell’Accademia d’Impresa, evento gratuito per studenti e professionisti. Lunedì 29 giugno, ore 11-13, Palazzo Vecchi",
       "vibe": [
-        "cinema",
-        "teatro"
+        "free",
+        "letteratura"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186047200%2F3004143933742%2F1%2Foriginal.20260603-110748?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.517&fp-y=0.485&s=761929022525d4aef21398bc4d11b266"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186047200%2F3004143933742%2F1%2Foriginal.20260603-110748?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.517&fp-y=0.485&s=761929022525d4aef21398bc4d11b266",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-accademia-dimpresa-evento-di-presentazione-1990956660968"
     },
     {
       "titolo": "CHILL OUT CRYPTO",
@@ -109,10 +135,16 @@
       "categoria": "CULTURA",
       "descrizione": "La Community si riunisce a Firenze",
       "vibe": [
-        "free",
-        "teatro"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185692529%2F966858713243%2F1%2Foriginal.20260529-114556?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=322d9c526df9af68cfa74fde3a0c6c81"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185692529%2F966858713243%2F1%2Foriginal.20260529-114556?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=322d9c526df9af68cfa74fde3a0c6c81",
+      "social": {
+        "platform": "Instagram",
+        "label": "@muratecaffelettario",
+        "url": "https://www.instagram.com/muratecaffelettario/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-chill-out-crypto-1990632184450"
     },
     {
       "titolo": "Chill Out Crypto a Firenze | Sponsored by Young Platform",
@@ -123,10 +155,16 @@
       "categoria": "SERATA",
       "descrizione": "Chill Out Crypto arriva a Firenze per una serata tra appassionati di Crypto insieme a Il CryptoPub e The Florence Crypto Engagemen",
       "vibe": [
-        "live",
-        "aperitivo"
+        "rooftop",
+        "disco"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185425958%2F2169176825973%2F1%2Foriginal.20260526-120718?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.027&fp-y=0.498&s=75253fd10ecd5722d601c65bc11ee172"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185425958%2F2169176825973%2F1%2Foriginal.20260526-120718?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.027&fp-y=0.498&s=75253fd10ecd5722d601c65bc11ee172",
+      "social": {
+        "platform": "Instagram",
+        "label": "@muratecaffelettario",
+        "url": "https://www.instagram.com/muratecaffelettario/"
+      },
+      "event_url": "https://www.eventbrite.com/e/biglietti-chill-out-crypto-a-firenze-sponsored-by-young-platform-1990384947959"
     },
     {
       "titolo": "Degustazione \"Autoctono in Bolla\"",
@@ -137,10 +175,12 @@
       "categoria": "FOOD",
       "descrizione": "Ma cosa succede quando a rifermentare sono vitigni autoctoni che nascono su vulcani, alpi estreme, colline moreniche o pianure neb",
       "vibe": [
-        "gourmet",
-        "street-food"
+        "street-food",
+        "family"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184847742%2F508596705939%2F1%2Foriginal.20260518-140142?crop=focalpoint&fit=crop&h=200&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cc181cb50aad90750810f2cd4e2e9487"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184847742%2F508596705939%2F1%2Foriginal.20260518-140142?crop=focalpoint&fit=crop&h=200&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cc181cb50aad90750810f2cd4e2e9487",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-degustazione-autoctono-in-bolla-1989547278467"
     },
     {
       "titolo": "Gruppo di Lettura Silenziosa Firenze",
@@ -151,10 +191,16 @@
       "categoria": "SERATA",
       "descrizione": "E' nato nel 2026 il Silent Book Club Firenze. Una volta al mese ci troviamo a leggere insieme, in silenzio. Unisciti al gruppo!",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "aperitivo",
+        "disco"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175220717%2F2989169796413%2F1%2Foriginal.20260119-074946?h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&s=3758b44c27fd3ca529ab7ffc9b1c32e1"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175220717%2F2989169796413%2F1%2Foriginal.20260119-074946?h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&s=3758b44c27fd3ca529ab7ffc9b1c32e1",
+      "social": {
+        "platform": "Instagram",
+        "label": "@ardiglionefirenze",
+        "url": "https://www.instagram.com/ardiglionefirenze/"
+      },
+      "event_url": "https://www.eventbrite.com/e/biglietti-gruppo-di-lettura-silenziosa-firenze-1991270075399"
     },
     {
       "titolo": "MICHAEL JACKSON TRIBUTE - DINNER&LIVE MUSIC",
@@ -165,10 +211,12 @@
       "categoria": "CONCERTO",
       "descrizione": "THE KING OF POP EXPERIENCE – DINNER & LIVE MUSIC\nPreparati a vivere una serata dedicata alla leggenda che ha cambiato la storia de",
       "vibe": [
-        "free",
+        "gratis",
         "intimo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186232249%2F2904498743081%2F1%2Foriginal.20260605-105618?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.426&fp-y=0.437&s=74db00eaea4602265494add1af4d581c"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186232249%2F2904498743081%2F1%2Foriginal.20260605-105618?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.426&fp-y=0.437&s=74db00eaea4602265494add1af4d581c",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/michael-jackson-tribute-dinnerlive-music-tickets-1991187358992"
     },
     {
       "titolo": "International Yoga Day 2026",
@@ -176,13 +224,15 @@
       "orario": "",
       "luogo": "Piazza del Carmine",
       "quartiere": "",
-      "categoria": "CULTURA",
+      "categoria": "SPORT",
       "descrizione": "20 giugno 2026 dalle 17:00 alle 20:00",
       "vibe": [
-        "letteratura",
-        "teatro"
+        "free",
+        "outdoor"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184601123%2F238080727229%2F1%2Foriginal.20260514-145204?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=459f0862cf2dcad4070f1b1182d8cef2"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184601123%2F238080727229%2F1%2Foriginal.20260514-145204?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=459f0862cf2dcad4070f1b1182d8cef2",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/registrazione-international-yoga-day-2026-1989240613223"
     },
     {
       "titolo": "ACQUE DELLA MEMORIA. VISIONI, SOGNI E CINEMA",
@@ -194,9 +244,15 @@
       "descrizione": "Cinema, musica e immagini intrecciano memoria e immaginazione nell’universo poetico di Fellini e Rota.",
       "vibe": [
         "free",
-        "all'aperto"
+        "piccolo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184851368%2F3002093567951%2F1%2Foriginal.20260518-143948?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7922be3987daf6c30fe3eb70c0ec885a"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184851368%2F3002093567951%2F1%2Foriginal.20260518-143948?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7922be3987daf6c30fe3eb70c0ec885a",
+      "social": {
+        "platform": "Instagram",
+        "label": "@zeffirelli_foundation",
+        "url": "https://www.instagram.com/zeffirelli_foundation/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-acque-della-memoria-visioni-sogni-e-cinema-1989775196175"
     },
     {
       "titolo": "Musica e cinema nel nome di Piero",
@@ -207,10 +263,12 @@
       "categoria": "CONCERTO",
       "descrizione": "La musica leggera italiana e il suo rapporto con il cinema (1965–1980) attraverso le collezioni della BNCF e sei artisti di nome P",
       "vibe": [
-        "piccolo",
+        "gratis",
         "all'aperto"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186148433%2F1362614597193%2F1%2Foriginal.20260604-123052?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d41f01942876cc5b44f64027dd9aa98a"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186148433%2F1362614597193%2F1%2Foriginal.20260604-123052?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d41f01942876cc5b44f64027dd9aa98a",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/musica-e-cinema-nel-nome-di-piero-tickets-1991069136385"
     },
     {
       "titolo": "FESTA D'INIZIO ESTATE • Ostello Bello Firenze",
@@ -221,10 +279,16 @@
       "categoria": "CULTURA",
       "descrizione": "La registrazione su Eventbrite dà diritto solamente all’ingresso.",
       "vibe": [
-        "teatro",
-        "letteratura"
+        "letteratura",
+        "teatro"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185686207%2F646490957853%2F1%2Foriginal.20260529-092440?crop=focalpoint&fit=crop&h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=79c39dcab01c8a4c75da55c5b60e5090"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185686207%2F646490957853%2F1%2Foriginal.20260529-092440?crop=focalpoint&fit=crop&h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=79c39dcab01c8a4c75da55c5b60e5090",
+      "social": {
+        "platform": "Instagram",
+        "label": "@ostellobellofirenze",
+        "url": "https://www.instagram.com/ostellobellofirenze/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-festa-dinizio-estate-ostello-bello-firenze-1990627006964"
     },
     {
       "titolo": "ACQUE LEGGERE. VENTO, CORDE E TRASPARENZE | Bennardo-Gitti, flauto e arpa",
@@ -235,10 +299,12 @@
       "categoria": "CULTURA",
       "descrizione": "Flauto e arpa evocano leggerezza, vento e trasparenze in un intreccio sonoro luminoso e delicato.",
       "vibe": [
-        "teatro",
+        "letteratura",
         "free"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184843363%2F3002093567951%2F1%2Foriginal.20260518-130725?crop=focalpoint&fit=crop&h=200&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.522&fp-y=0.077&s=1c46bda69c483fa2287a243ae78b159e"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184843363%2F3002093567951%2F1%2Foriginal.20260518-130725?crop=focalpoint&fit=crop&h=200&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.522&fp-y=0.077&s=1c46bda69c483fa2287a243ae78b159e",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-acque-leggere-vento-corde-e-trasparenze-bennardo-gitti-flauto-e-arpa-1989773671615"
     },
     {
       "titolo": "Concert in Florence - Omaggio a Walt Disney",
@@ -249,10 +315,16 @@
       "categoria": "CONCERTO",
       "descrizione": "Preparati a rivivere la magia dei classici Disney con una serata di musica dal vivo che ti farà sognare!",
       "vibe": [
-        "gratis",
-        "live"
+        "piccolo",
+        "musica"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178095907%2F2992747820477%2F1%2Foriginal.20260221-144133?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=11%2C131%2C1156%2C578&s=d0dbc61600268f0169f730f1cbae52fc"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178095907%2F2992747820477%2F1%2Foriginal.20260221-144133?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=11%2C131%2C1156%2C578&s=d0dbc61600268f0169f730f1cbae52fc",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.com/e/concert-in-florence-omaggio-a-walt-disney-tickets-1983674980265"
     },
     {
       "titolo": "CONCERTO GRATUITO",
@@ -263,10 +335,12 @@
       "categoria": "CONCERTO",
       "descrizione": "Concerto gratuito del Coro della Catholic Diocese of Cleveland, ensemble di voci amatoriali provenienti da diverse comunità della",
       "vibe": [
-        "all'aperto",
-        "intimo"
+        "gratis",
+        "all'aperto"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186675988%2F1646860366353%2F1%2Foriginal.20260611-130920?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.488&s=5e4e02005350f9d773a954d0c7111ae0"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186675988%2F1646860366353%2F1%2Foriginal.20260611-130920?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.488&s=5e4e02005350f9d773a954d0c7111ae0",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/concerto-gratuito-tickets-1991701565999"
     },
     {
       "titolo": "Cup Pong",
@@ -277,10 +351,16 @@
       "categoria": "CULTURA",
       "descrizione": "Grab your partner and aim for glory! Join our  Cup Pong tournament at YellowSquare Florence for cold drinks, big vibes, and prizes",
       "vibe": [
-        "cinema",
-        "teatro"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181876506%2F2994765638014%2F1%2Foriginal.20260410-152318?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=417bdcb6e0b569988185d53e9f17f87b"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181876506%2F2994765638014%2F1%2Foriginal.20260410-152318?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=417bdcb6e0b569988185d53e9f17f87b",
+      "social": {
+        "platform": "Instagram",
+        "label": "@yellowsquareflorence",
+        "url": "https://www.instagram.com/yellowsquareflorence/"
+      },
+      "event_url": "https://www.eventbrite.it/e/cup-pong-tickets-1990976775130"
     },
     {
       "titolo": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
@@ -292,9 +372,11 @@
       "descrizione": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
       "vibe": [
         "gourmet",
-        "street-food"
+        "vino"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F437438819%2F931232795353%2F1%2Foriginal.20230202-040755?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c76303fa33c7659e3fd7696a46df7750"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F437438819%2F931232795353%2F1%2Foriginal.20230202-040755?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c76303fa33c7659e3fd7696a46df7750",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/florence-for-foodies-food-tour-in-florence-cozymealtm-tickets-1985672115751"
     },
     {
       "titolo": "100 Cities Project: Florence | Dinner with New Friends",
@@ -302,13 +384,15 @@
       "orario": "",
       "luogo": "Restaurant of the Week",
       "quartiere": "",
-      "categoria": "CULTURA",
+      "categoria": "FOOD",
       "descrizione": "Life can be lonely when you’re always working on your passion. Take the opportunity to meet other locals over dinner!",
       "vibe": [
-        "teatro",
-        "free"
+        "vino",
+        "gourmet"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152479563%2F2590974569761%2F1%2Foriginal.20251014-030410?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=05ee260df3e7f0b7ae816ab1cc423e46"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152479563%2F2590974569761%2F1%2Foriginal.20251014-030410?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=05ee260df3e7f0b7ae816ab1cc423e46",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/100-cities-project-florence-dinner-with-new-friends-tickets-1830968107899"
     },
     {
       "titolo": "Mostra documentario fotografica: \"Psichiatria e Diritti Umani\"",
@@ -319,10 +403,12 @@
       "categoria": "MOSTRA",
       "descrizione": "Scopri i capitoli più cupi della psichiatria, dai lager a oggi. Una mostra multimediale unica a Firenze dal 19/6. Ingresso gratuit",
       "vibe": [
-        "storica",
-        "da-non-perdere"
+        "free",
+        "arte-contemporanea"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185944315%2F3002621681045%2F1%2Foriginal.20260602-091052?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=036de4ed466a0adb51f719ee79ec04f0"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185944315%2F3002621681045%2F1%2Foriginal.20260602-091052?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=036de4ed466a0adb51f719ee79ec04f0",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/mostra-documentario-fotografica-psichiatria-e-diritti-umani-tickets-1990851137344"
     },
     {
       "titolo": "Le Bellezze di Firenze - Free Walking Tour (IT)",
@@ -333,10 +419,28 @@
       "categoria": "CULTURA",
       "descrizione": "Il Free Walking Tour più conosciuto di Firenze con guide fiorentine autorizzate",
       "vibe": [
-        "teatro",
-        "cinema"
+        "letteratura",
+        "free"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005703783%2F231726432361%2F1%2Foriginal.20250410-104603?w=301&auto=format%2Ccompress&q=75&sharp=10&s=f407abeaaec36bd29524dc5c10610474"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005703783%2F231726432361%2F1%2Foriginal.20250410-104603?w=301&auto=format%2Ccompress&q=75&sharp=10&s=f407abeaaec36bd29524dc5c10610474",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-le-bellezze-di-firenze-free-walking-tour-it-1979458559838"
+    },
+    {
+      "titolo": "Firenze Sangunaria: le lotte di potete tra Nobiltà e Popolo Grasso",
+      "data": "sab 20/06",
+      "orario": "",
+      "luogo": "Davanti all’obelisco",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Il \"popolo grasso\" di Firenze: mercanti e banchieri creano ricchezza e potere nel Rinascimento tra palazzi e intrighi.",
+      "vibe": [
+        "outdoor",
+        "musica"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183505943%2F2266723032883%2F1%2Foriginal.20260501-093727?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d9ec12abf02436a5bb02664c4148ee75",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/firenze-sangunaria-le-lotte-di-potete-tra-nobilta-e-popolo-grasso-tickets-1986482872747"
     },
     {
       "titolo": "Festa Dlf 21.06.26",
@@ -347,10 +451,16 @@
       "categoria": "CULTURA",
       "descrizione": "Vem curtir a Festa Dlf 21.06.26 conosco, muita música, gente boa e diversão garantida!",
       "vibe": [
-        "cinema",
-        "letteratura"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186413579%2F3004658240866%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=da8f74439cbe67b194a3f2f45127b296"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186413579%2F3004658240866%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=da8f74439cbe67b194a3f2f45127b296",
+      "social": {
+        "platform": "Instagram",
+        "label": "@dlffirenze",
+        "url": "https://www.instagram.com/dlffirenze/"
+      },
+      "event_url": "https://www.eventbrite.co.uk/e/biglietti-festa-dlf-210626-1991386934929"
     },
     {
       "titolo": "RACCONTARSI PER  R(ESISTERE)",
@@ -362,9 +472,11 @@
       "descrizione": "Workshop di autonarrazione - PRIMA EDIZIONE",
       "vibe": [
         "cinema",
-        "letteratura"
+        "teatro"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187022525%2F3005425497327%2F1%2Foriginal.20260616-130516?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.034&fp-y=0.498&s=ca787b0fe9f27b60f0fdfbbfebe70020"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187022525%2F3005425497327%2F1%2Foriginal.20260616-130516?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.034&fp-y=0.498&s=ca787b0fe9f27b60f0fdfbbfebe70020",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-raccontarsi-per-resistere-1991986057922"
     },
     {
       "titolo": "CONFERENZA: Memorie d'acqua - voci, lettere e rinascite tra carte e bambù",
@@ -375,24 +487,12 @@
       "categoria": "MOSTRA",
       "descrizione": "Celebrazione dell'Alluvione a Firenze e un viaggio su testi antichi scritti su bambù rinvenuti da archeologi in Cina",
       "vibe": [
-        "free",
-        "arte-contemporanea"
+        "gratis",
+        "storica"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185821174%2F3002093567951%2F1%2Foriginal.20260531-220153?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.476&fp-y=0.19&s=13e840f73a079e0cc374067e97b835ca"
-    },
-    {
-      "titolo": "Firenze Esoterica: Negromanti, Alchimisti ed Eretici tra Magia e Astrologia",
-      "data": "ven 26/06",
-      "orario": "",
-      "luogo": "Davanti Campanile di Giotto fronte Duomo",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Esplora la Firenze enigmatica: alchimia, medicina antica, superstizioni e segreti di Francesco I de’ Medici tra fonderie e alambic",
-      "vibe": [
-        "free",
-        "letteratura"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186282836%2F2266723032883%2F1%2Foriginal.20260605-233223?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa20d3421fc45a0837323c17930d8044"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185821174%2F3002093567951%2F1%2Foriginal.20260531-220153?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.476&fp-y=0.19&s=13e840f73a079e0cc374067e97b835ca",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-conferenza-memorie-dacqua-voci-lettere-e-rinascite-tra-carte-e-bambu-1990739831425"
     },
     {
       "titolo": "The Power Of Love Kiki Ball vol. IV",
@@ -403,10 +503,16 @@
       "categoria": "CULTURA",
       "descrizione": "Mother Nemesi Utopia con il supporto di Princess La Piera Utopia e  The Social Hub Florence presentano: “The of love kiki ball vol",
       "vibe": [
-        "teatro",
-        "free"
+        "free",
+        "letteratura"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180021357%2F564025653433%2F1%2Foriginal.20260317-073559?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=76c9d2fa349cbef8798050a000ff0781"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180021357%2F564025653433%2F1%2Foriginal.20260317-073559?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=76c9d2fa349cbef8798050a000ff0781",
+      "social": {
+        "platform": "Instagram",
+        "label": "@thesocialhub",
+        "url": "https://www.instagram.com/thesocialhub/"
+      },
+      "event_url": "https://www.eventbrite.it/e/the-power-of-love-kiki-ball-vol-iv-tickets-1985355050400"
     },
     {
       "titolo": "FLORENCE OPERA CONCERTS",
@@ -417,10 +523,12 @@
       "categoria": "CULTURA",
       "descrizione": "Get ready for a magical concert filled with stunning opera arias that’ll sweep you off your feet!",
       "vibe": [
-        "letteratura",
-        "cinema"
+        "cinema",
+        "teatro"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181461545%2F2128665971223%2F1%2Foriginal.20260405-143937?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.305&fp-y=0.04&s=2f7ff26302d658426c0ae06e10e24e2e"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181461545%2F2128665971223%2F1%2Foriginal.20260405-143937?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.305&fp-y=0.04&s=2f7ff26302d658426c0ae06e10e24e2e",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/florence-opera-concerts-tickets-1986762757891"
     },
     {
       "titolo": "PAINT&SIP - Artistic Aperitivo | Ostello Bello Firenze",
@@ -431,10 +539,16 @@
       "categoria": "SERATA",
       "descrizione": "Per info e prenotazioni +39 055 213806 | ostellobello.firenze",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "jazz",
+        "rooftop"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184861587%2F646490957853%2F1%2Foriginal.20260518-162443?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=198090955d9ffff8c7eb117dea48cdb6"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184861587%2F646490957853%2F1%2Foriginal.20260518-162443?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=198090955d9ffff8c7eb117dea48cdb6",
+      "social": {
+        "platform": "Instagram",
+        "label": "@ostellobellofirenze",
+        "url": "https://www.instagram.com/ostellobellofirenze/"
+      },
+      "event_url": "https://www.eventbrite.it/e/paintsip-artistic-aperitivo-ostello-bello-firenze-tickets-1673015427179"
     },
     {
       "titolo": "Vivaldi’s The Four Seasons – Live in Santo Stefano al Ponte, Florence",
@@ -446,9 +560,15 @@
       "descrizione": "Experience Vivaldi’s Four Seasons live in Florence at the historic Santo Stefano al Ponte.",
       "vibe": [
         "outdoor",
-        "live"
+        "intimo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177714285%2F2716679255851%2F1%2Foriginal.20260217-113213?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5243687faad64f65fd0d1fcc088c73c3"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177714285%2F2716679255851%2F1%2Foriginal.20260217-113213?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5243687faad64f65fd0d1fcc088c73c3",
+      "social": {
+        "platform": "Instagram",
+        "label": "@augustineflorence",
+        "url": "https://www.instagram.com/augustineflorence/"
+      },
+      "event_url": "https://www.eventbrite.it/e/vivaldis-the-four-seasons-live-in-santo-stefano-al-ponte-florence-tickets-1983350244973"
     },
     {
       "titolo": "Divenire",
@@ -459,10 +579,16 @@
       "categoria": "CULTURA",
       "descrizione": "Le strade del talento, gli orizzonti dell'impresa: talk sul ruolo dell'alta formazione, per la crescita delle imprese e delle pers",
       "vibe": [
-        "cinema",
-        "free"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185691912%2F1144047079933%2F1%2Foriginal.20260529-113251?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.032&fp-y=0.093&s=fd60a5dbb50b40922bf3a5f93299555c"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185691912%2F1144047079933%2F1%2Foriginal.20260529-113251?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.032&fp-y=0.093&s=fd60a5dbb50b40922bf3a5f93299555c",
+      "social": {
+        "platform": "Instagram",
+        "label": "@villabardini",
+        "url": "https://www.instagram.com/villabardini/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-divenire-1990548999642"
     },
     {
       "titolo": "Parchi capovolti - Metamorfosi",
@@ -473,10 +599,12 @@
       "categoria": "MOSTRA",
       "descrizione": "Performance itinerante ispirata alle \"Metamorfosi\" di Ovidio nel Giardino di Campo di Marte - Niccolò Galli nell'ambito dell'E.F.",
       "vibe": [
-        "storica",
-        "da-non-perdere"
+        "da-non-perdere",
+        "free"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1051469583%2F2054359471433%2F1%2Foriginal.20250612-084547?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C504%2C4032%2C2016&s=9cb38627aa81315ae8f046ff9ba2cc14"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1051469583%2F2054359471433%2F1%2Foriginal.20250612-084547?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C504%2C4032%2C2016&s=9cb38627aa81315ae8f046ff9ba2cc14",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-parchi-capovolti-metamorfosi-1991735440318"
     },
     {
       "titolo": "Exhibit and Book Presentation: \"Di Mare e di Vento\" di A. Rizzone",
@@ -487,10 +615,12 @@
       "categoria": "CULTURA",
       "descrizione": "Presentazione di “Di Mare e di Vento”, illustrazioni di Angelo Rizzone e poesie di Amerigo Rizzone.",
       "vibe": [
-        "teatro",
-        "cinema"
+        "free",
+        "teatro"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184272579%2F483080336967%2F1%2Foriginal.20260511-080527?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.455&fp-y=0.264&s=38f2c819a9bace2f00020c79468c7b76"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184272579%2F483080336967%2F1%2Foriginal.20260511-080527?crop=focalpoint&fit=crop&w=306&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.455&fp-y=0.264&s=c22997f500cdb620780752c5ed16cff2",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/exhibit-and-book-presentation-di-mare-e-di-vento-di-a-rizzone-tickets-1988829484526"
     },
     {
       "titolo": "SENZA FINE - Janet I. Traub Solo Painting Exhibition",
@@ -498,13 +628,15 @@
       "orario": "",
       "luogo": "Helvetia & Bristol Firenze",
       "quartiere": "",
-      "categoria": "CULTURA",
+      "categoria": "MOSTRA",
       "descrizione": "An intimate return to painting: Janet I. Traub presents Pomegranate Lovers, a Florentine-inspired cycle celebrating love, rebirth,",
       "vibe": [
         "free",
-        "cinema"
+        "da-non-perdere"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174404559%2F879058222123%2F1%2Foriginal.20260109-125045?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d8e80dcb50ee1c4716cd4d5027a58947"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174404559%2F879058222123%2F1%2Foriginal.20260109-125045?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d8e80dcb50ee1c4716cd4d5027a58947",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/senza-fine-janet-i-traub-solo-painting-exhibition-tickets-1980180504193"
     },
     {
       "titolo": "Scopri Baggy Lockers: un nuovo servizio esclusivo per i tuoi ospiti!",
@@ -515,10 +647,12 @@
       "categoria": "CULTURA",
       "descrizione": "Sei un host o lavori nel turismo? Brinda con noi al nuovo deposito H24 e scopri i vantaggi! 19/06 h18 Via dell'Albero 3/A",
       "vibe": [
-        "letteratura",
-        "teatro"
+        "free",
+        "letteratura"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186137919%2F3001039143286%2F1%2Foriginal.20260604-091820?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c296076442033e047d6da1abf4f2d767"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186137919%2F3001039143286%2F1%2Foriginal.20260604-091820?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c296076442033e047d6da1abf4f2d767",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/scopri-baggy-lockers-un-nuovo-servizio-esclusivo-per-i-tuoi-ospiti-tickets-1991042993190"
     },
     {
       "titolo": "Open Day Accademia Cappiello - 27 Giugno 2026",
@@ -529,10 +663,12 @@
       "categoria": "MOSTRA",
       "descrizione": "Un pomeriggio di orientamento per studenti e famiglie, con visita alla mostra “Essere Cappiello”, presentazione dei corsi e labora",
       "vibe": [
-        "storica",
+        "arte-contemporanea",
         "da-non-perdere"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186502392%2F374424855707%2F1%2Foriginal.20260609-150552?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.326&fp-y=0.35&s=7633720e0592b1710dbcb8f5e68f8261"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186502392%2F374424855707%2F1%2Foriginal.20260609-150552?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.326&fp-y=0.35&s=7633720e0592b1710dbcb8f5e68f8261",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-open-day-accademia-cappiello-27-giugno-2026-1991476643249"
     },
     {
       "titolo": "Legal & DPO Point: sportello settimanale di consulenza",
@@ -540,13 +676,15 @@
       "orario": "",
       "luogo": "Nana Bianca",
       "quartiere": "",
-      "categoria": "SPORT",
+      "categoria": "CONCERTO",
       "descrizione": "Le risposte sui temi legali e protezione privacy dedicate al mondo delle startup",
       "vibe": [
-        "amatoriale",
-        "free"
+        "free",
+        "musica"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184824264%2F191653209741%2F1%2Foriginal.20250609-154217?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=8ff77acb647d1d173ccdce8f12cfd736"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184824264%2F191653209741%2F1%2Foriginal.20250609-154217?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=8ff77acb647d1d173ccdce8f12cfd736",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-legal-dpo-point-sportello-settimanale-di-consulenza-1989809939092"
     },
     {
       "titolo": "FLUSSI INCROCIATI. L’ACQUA COME DIALOGO | Streiff-Doughty-Singer-Nardi",
@@ -557,10 +695,16 @@
       "categoria": "CONCERTO",
       "descrizione": "Quattro interpreti intrecciano flussi sonori e dialoghi musicali tra energia, equilibrio e profondità.",
       "vibe": [
-        "free",
-        "all'aperto"
+        "outdoor",
+        "piccolo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184846118%2F3002093567951%2F1%2Foriginal.20260518-134124?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.014&s=1b149762f0342683c62f5398f57fc739"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184846118%2F3002093567951%2F1%2Foriginal.20260518-134124?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.014&s=1b149762f0342683c62f5398f57fc739",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-flussi-incrociati-lacqua-come-dialogo-streiff-doughty-singer-nardi-1989774529180"
     },
     {
       "titolo": "ACQUE PROFONDE. OMBRE, RIFLESSI E MALINCONIE | Duo Ferrazzini - Suvini",
@@ -571,10 +715,16 @@
       "categoria": "CULTURA",
       "descrizione": "Violoncello e pianoforte esplorano profondità emotive tra ombre, riflessi e malinconie liquide.",
       "vibe": [
-        "free",
-        "teatro"
+        "teatro",
+        "free"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184853506%2F3002093567951%2F1%2Foriginal.20260518-150228?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.399&fp-y=0.176&s=9adf4a7729648269d9bad72559e95841"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184853506%2F3002093567951%2F1%2Foriginal.20260518-150228?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.399&fp-y=0.176&s=9adf4a7729648269d9bad72559e95841",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-acque-profonde-ombre-riflessi-e-malinconie-duo-ferrazzini-suvini-1989773327586"
     },
     {
       "titolo": "ACQUE SOLENNI. RISONANZE, ARCHITETTURE E POTERE | Les Brasseurs Quintet",
@@ -585,10 +735,16 @@
       "categoria": "CULTURA",
       "descrizione": "Il quintetto di ottoni trasforma lo spazio in un’architettura sonora solenne e luminosa.",
       "vibe": [
-        "letteratura",
-        "free"
+        "free",
+        "teatro"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184846799%2F3002093567951%2F1%2Foriginal.20260518-134955?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.942&s=977f6a2092514403f1a95c644fc0251f"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184846799%2F3002093567951%2F1%2Foriginal.20260518-134955?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.942&s=977f6a2092514403f1a95c644fc0251f",
+      "social": {
+        "platform": "Instagram",
+        "label": "@zeffirelli_foundation",
+        "url": "https://www.instagram.com/zeffirelli_foundation/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-acque-solenni-risonanze-architetture-e-potere-les-brasseurs-quintet-1989774689660"
     },
     {
       "titolo": "MARE APERTO. IL GRANDE RESPIRO DEGLI ARCHI | Ottetto d'archi",
@@ -599,10 +755,16 @@
       "categoria": "CONCERTO",
       "descrizione": "Un grande ottetto d’archi evoca il respiro del mare tra ampiezza sonora e slancio orchestrale.",
       "vibe": [
-        "musica",
-        "gratis"
+        "all'aperto",
+        "musica"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184850144%2F3002093567951%2F1%2Foriginal.20260518-142656?crop=focalpoint&fit=crop&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f28dabfe2008ab76b547763f3c1daafc"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184850144%2F3002093567951%2F1%2Foriginal.20260518-142656?crop=focalpoint&fit=crop&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f28dabfe2008ab76b547763f3c1daafc",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-mare-aperto-il-grande-respiro-degli-archi-ottetto-darchi-1989774791966"
     },
     {
       "titolo": "GOCCE E RISONANZE. RITMI D’ACQUA E MATERIA SONORA | Duo Oppositae",
@@ -613,10 +775,16 @@
       "categoria": "CULTURA",
       "descrizione": "Vibrafono e pianoforte trasformano il ritmo in materia fluida tra gocce sonore e vibrazioni.",
       "vibe": [
-        "letteratura",
-        "free"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184838240%2F3002093567951%2F1%2Foriginal.20260518-114559?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.873&s=fc1586e05af248f23a129d52f46783cf"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184838240%2F3002093567951%2F1%2Foriginal.20260518-114559?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.873&s=fc1586e05af248f23a129d52f46783cf",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-gocce-e-risonanze-ritmi-dacqua-e-materia-sonora-duo-oppositae-1989773438919"
     },
     {
       "titolo": "Live Baroque Concert - “La Conference: viole da gamba in dialogo”",
@@ -627,10 +795,12 @@
       "categoria": "CONCERTO",
       "descrizione": "Immerse yourself in the magic of live baroque music in the heart of Florence by renowned musicians in historical venues.",
       "vibe": [
-        "live",
-        "outdoor"
+        "piccolo",
+        "musica"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184688349%2F2996777912016%2F1%2Foriginal.20260515-143624?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=35db76c2b97ba846fa74b4ebe92317bf"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184688349%2F2996777912016%2F1%2Foriginal.20260515-143624?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=35db76c2b97ba846fa74b4ebe92317bf",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/live-baroque-concert-la-conference-viole-da-gamba-in-dialogo-tickets-1989663564281"
     },
     {
       "titolo": "SULLE RIVE DEL TEMPO. CORRENTI LIRICHE | Reimann-Diette, violino e piano",
@@ -641,10 +811,16 @@
       "categoria": "CULTURA",
       "descrizione": "Violino e pianoforte scorrono tra tensioni liriche, memoria e correnti sonore in continuo movimento.",
       "vibe": [
-        "free",
-        "teatro"
+        "teatro",
+        "cinema"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184844583%2F3002093567951%2F1%2Foriginal.20260518-132302?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.287&s=3be67f55404c9b94599dbded6e3df85c"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184844583%2F3002093567951%2F1%2Foriginal.20260518-132302?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.287&s=3be67f55404c9b94599dbded6e3df85c",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-sulle-rive-del-tempo-correnti-liriche-reimann-diette-violino-e-piano-1989774055764"
     },
     {
       "titolo": "Florence: Concert Matinée Experience",
@@ -655,10 +831,12 @@
       "categoria": "CULTURA",
       "descrizione": "Enjoy a concert of opera arias by Verdi, Puccini, and more or a lovely Chamber Music Concert in Florence. Masterpieces authentic e",
       "vibe": [
-        "free",
-        "cinema"
+        "cinema",
+        "teatro"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005332963%2F2719522872801%2F1%2Foriginal.20250409-215420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.743578767123&fp-y=0.358949416342&s=e23dc615aa21c3762e4d32f9793db868"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005332963%2F2719522872801%2F1%2Foriginal.20250409-215420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.743578767123&fp-y=0.358949416342&s=e23dc615aa21c3762e4d32f9793db868",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-florence-concert-matinee-experience-1983948242600"
     },
     {
       "titolo": "Live Baroque Concert:“Armonie veneziane: il barocco di Albinoni e Marcello”",
@@ -669,10 +847,12 @@
       "categoria": "CONCERTO",
       "descrizione": "Immerse yourself in the magic of live baroque music in the heart of Florence by renowned musicians in historical venues.",
       "vibe": [
-        "free",
-        "piccolo"
+        "outdoor",
+        "live"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184689396%2F2996777912016%2F1%2Foriginal.20260515-144840?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=adcaa797908e612e1ddf627a53bd9953"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184689396%2F2996777912016%2F1%2Foriginal.20260515-144840?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=adcaa797908e612e1ddf627a53bd9953",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/live-baroque-concertarmonie-veneziane-il-barocco-di-albinoni-e-marcello-tickets-1989664430873"
     },
     {
       "titolo": "THE DAY CLUB",
@@ -683,10 +863,16 @@
       "categoria": "SERATA",
       "descrizione": "From Düsseldorf ( Germany ) to Italia…\nThe Day Club is going international. ☀️",
       "vibe": [
-        "aperitivo",
-        "live"
+        "clubbing",
+        "aperitivo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186746684%2F2739628634801%2F1%2Foriginal.20260612-085435?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=fe613cadb7e68c167baaa016b7c4264c"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186746684%2F2739628634801%2F1%2Foriginal.20260612-085435?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=fe613cadb7e68c167baaa016b7c4264c",
+      "social": {
+        "platform": "Instagram",
+        "label": "@rubyflorence",
+        "url": "https://www.instagram.com/rubyflorence/"
+      },
+      "event_url": "https://www.eventbrite.de/e/the-day-club-tickets-1991759423051"
     },
     {
       "titolo": "The Four Seasons & Masterpieces – Orchestra da Camera Fiorentina",
@@ -697,10 +883,12 @@
       "categoria": "CONCERTO",
       "descrizione": "Celebrate Christmas and New Year in Florence with Vivaldi’s Four Seasons and timeless masterpieces performed by Orchestra da Camer",
       "vibe": [
-        "musica",
-        "gratis"
+        "all'aperto",
+        "intimo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1162263143%2F2716679255851%2F1%2Foriginal.20251025-113347?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483&fp-y=0.59&s=79dc7c140148cfe023898c5892b67a8a"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1162263143%2F2716679255851%2F1%2Foriginal.20251025-113347?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483&fp-y=0.59&s=79dc7c140148cfe023898c5892b67a8a",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/the-four-seasons-masterpieces-orchestra-da-camera-fiorentina-tickets-1983165383046"
     },
     {
       "titolo": "Live Baroque Concert - \"Chantez petits oiseaux\"",
@@ -711,10 +899,12 @@
       "categoria": "CONCERTO",
       "descrizione": "Immerse yourself in the magic of live baroque music in the heart of Florence by renowned musicians in historical venues.",
       "vibe": [
-        "outdoor",
-        "musica"
+        "intimo",
+        "all'aperto"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184689128%2F2996777912016%2F1%2Foriginal.20260515-144538?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0951d93707451e1d4c3acc736548fe8e"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184689128%2F2996777912016%2F1%2Foriginal.20260515-144538?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0951d93707451e1d4c3acc736548fe8e",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/live-baroque-concert-chantez-petits-oiseaux-tickets-1989664300483"
     },
     {
       "titolo": "Recomposed da Max Richter: Vivaldi – Le Quattro Stagioni",
@@ -725,10 +915,12 @@
       "categoria": "CULTURA",
       "descrizione": "Vivete “Le Quattro Stagioni” di Vivaldi nella rilettura di Max Richter, interpretate dal\nrinomato Mystery Ensemble",
       "vibe": [
-        "letteratura",
-        "cinema"
+        "cinema",
+        "letteratura"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180057282%2F950342392673%2F1%2Foriginal.20260317-162826?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.943&fp-y=0.49&s=72f51491b24f5f1f9c4cb9a5373b57fb"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180057282%2F950342392673%2F1%2Foriginal.20260317-162826?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.943&fp-y=0.49&s=72f51491b24f5f1f9c4cb9a5373b57fb",
+      "social": null,
+      "event_url": "https://www.eventbrite.co.uk/e/recomposed-da-max-richter-vivaldi-le-quattro-stagioni-tickets-1991371764554"
     },
     {
       "titolo": "Orchestra da Camera Fiorentina - Giovan Battista Varoli e Ruben Simeo",
@@ -739,192 +931,12 @@
       "categoria": "CONCERTO",
       "descrizione": "Varoli e Simeo in Hummel e la “Jupiter” di Mozart: virtuosismo e grande sinfonismo tra Lucca e Firenze.",
       "vibe": [
-        "intimo",
-        "free"
+        "all'aperto",
+        "intimo"
       ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178348346%2F2757603705641%2F1%2Foriginal.20260224-210345?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C141%2C1280%2C640&s=c4a2c4e88260b750d676fb61bc315a81"
-    },
-    {
-      "titolo": "SUMMER CAMP - ART WORKSHOP FOR CHILDREN & TEENS",
-      "data": "gio 18/06",
-      "orario": "",
-      "luogo": "Geko art studio",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "CREATIVE WORKSHOPS FOR CHILDREN AND TEENS AGED 6 - 14. DISCOVER A UNIQUE ARTISTIC EXPERIENCE TO EXPLORE A REAL CREATIVE PROCESS.",
-      "vibe": [
-        "aperitivo",
-        "rooftop"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183211364%2F879058222123%2F1%2Foriginal.20260428-112032?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.042&fp-y=0.842&s=67b63dfce72db43427a0af6fcba6a50b"
-    },
-    {
-      "titolo": "Bike Thieves",
-      "data": "ven 19/06",
-      "orario": "",
-      "luogo": "The Social Hub Florence Lavagnini",
-      "quartiere": "",
-      "categoria": "CONCERTO",
-      "descrizione": "Opening Pop-Up di Francesco Selicato",
-      "vibe": [
-        "piccolo",
-        "free"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186150898%2F3002487105565%2F1%2Foriginal.20260604-130518?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.52&fp-y=0.867&s=9fb22131682ad2bb541074c57ebee0e2"
-    },
-    {
-      "titolo": "OPEN: A new civic space for art and science | Open to the public",
-      "data": "sab 20/06",
-      "orario": "",
-      "luogo": "Palazzo Buontalenti",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "Discover OPEN at Palazzo Buontalenti, an unprecedented exhibition where contemporary art meets academic research.",
-      "vibe": [
-        "disco",
-        "rooftop"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182657486%2F2997941669692%2F1%2Foriginal.20260421-105015?w=401&auto=format%2Ccompress&q=75&sharp=10&s=3923cf6471b5025c7c87496e9cabb591"
-    },
-    {
-      "titolo": "AperiArt @ PCC",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Cafaggio del Vescovo",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Unisciti a noi ogni mercoledì alle 18:30!   •   Join us every Wednesday at 6:30 PM!",
-      "vibe": [
-        "teatro",
-        "letteratura"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183342951%2F483080336967%2F1%2Foriginal.20260429-154228?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501&fp-y=0.368&s=d40db7a39b5ff1356e85f1b5fe823398"
-    },
-    {
-      "titolo": "Foreigners Gathering",
-      "data": "sab 20/06",
-      "orario": "",
-      "luogo": "Via di Marzalla, 49",
-      "quartiere": "Pescia",
-      "categoria": "FOOD",
-      "descrizione": "Hey, internationals! If you like to make new friends, enjoy countryside, taste authentic Italian food and drinks, this event is fo",
-      "vibe": [
-        "family",
-        "street-food"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186761224%2F314087796255%2F1%2Foriginal.20260612-140302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.59&fp-y=0.432&s=d01518b4f5241501b77c096d22c10e59"
-    },
-    {
-      "titolo": "Florence: Italian Opera in Santa Monaca Church",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Chiesa di Santa Monaca",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "143 / 5.000\nA charming concert of opera arias in the Church of Santa Monaca in Florence performed  by professional singers.",
-      "vibe": [
-        "free",
-        "letteratura"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1161674163%2F2968314417571%2F1%2Foriginal.20251024-145900?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d9afb08f65a8477d26706e9d85809c64"
-    },
-    {
-      "titolo": "Foodies + New Friends: Florence",
-      "data": "sab 20/06",
-      "orario": "",
-      "luogo": "Restaurant of the Week",
-      "quartiere": "",
-      "categoria": "FOOD",
-      "descrizione": "You sign up. We book. You meet strangers who’ll potentially become your friends. It’s simple, right? Connect and support local bus",
-      "vibe": [
-        "gourmet",
-        "street-food"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171939269%2F935412228013%2F1%2Foriginal.20251128-213143?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d75467bed19c0b664998e161d32e140a"
-    },
-    {
-      "titolo": "Savor Tuscan Flavors From the Maremma Hills - Cooking Class in Tuscany | Cozymea",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Savor Tuscan Flavors From the Maremma Hills - Cooking Class in Tuscany | Cozymeal™",
-      "vibe": [
-        "free",
-        "teatro"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1055639643%2F931232795353%2F1%2Foriginal.20250618-115441?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=294813eff7c4ab4a56ff85ed52baa06f"
-    },
-    {
-      "titolo": "Authentic Italian Pasta Making in Florence - Cooking Class in Florence | Cozymea",
-      "data": "gio 18/06",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Authentic Italian Pasta Making in Florence - Cooking Class in Florence | Cozymeal™",
-      "vibe": [
-        "cinema",
-        "teatro"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F819415319%2F931232795353%2F1%2Foriginal.20240802-145426?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db78f5916a8e952990ce35c096ce3567"
-    },
-    {
-      "titolo": "Craft Authentic Italian Pasta in Florentine Home - Cooking Class in Tuscany | Co",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "Craft Authentic Italian Pasta in Florentine Home - Cooking Class in Tuscany | Cozymeal™",
-      "vibe": [
-        "teatro",
-        "cinema"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1055641013%2F931232795353%2F1%2Foriginal.20250618-115727?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a7306de158546dc38d07d66f2aeafede"
-    },
-    {
-      "titolo": "Make Ravioli and Farfalle in Florence - Cooking Class in Florence | Cozymeal™",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "Scandicci",
-      "categoria": "CULTURA",
-      "descrizione": "Make Ravioli and Farfalle in Florence - Cooking Class in Florence | Cozymeal™",
-      "vibe": [
-        "teatro",
-        "letteratura"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F774836199%2F931232795353%2F1%2Foriginal.20240523-155556?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=716b9737c28e0a6ddcde83c6a69ff2d5"
-    },
-    {
-      "titolo": "Make Fabulous Tuscan Dishes With Local Chef - Cooking Class in Florence | Cozyme",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "Scandicci",
-      "categoria": "CULTURA",
-      "descrizione": "Make Fabulous Tuscan Dishes With Local Chef - Cooking Class in Florence | Cozymeal™",
-      "vibe": [
-        "letteratura",
-        "teatro"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F774835099%2F931232795353%2F1%2Foriginal.20240523-155447?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=3271d78ed37947c97c2a8745c36ec318"
-    },
-    {
-      "titolo": "Make Tagliatelle, Gnocchi and Panna Cotta in Florence - Cooking Class in Florenc",
-      "data": "mer 17/06",
-      "orario": "",
-      "luogo": "Location provided after booking",
-      "quartiere": "Scandicci",
-      "categoria": "CULTURA",
-      "descrizione": "Make Tagliatelle, Gnocchi and Panna Cotta in Florence - Cooking Class in Florence | Cozymeal™",
-      "vibe": [
-        "free",
-        "letteratura"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F774836399%2F931232795353%2F1%2Foriginal.20240523-155611?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5b0454f67bc00c283ee169cdab86e529"
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178348346%2F2757603705641%2F1%2Foriginal.20260224-210345?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C141%2C1280%2C640&s=c4a2c4e88260b750d676fb61bc315a81",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/orchestra-da-camera-fiorentina-giovan-battista-varoli-e-ruben-simeo-tickets-1983906558923"
     }
   ]
 }
