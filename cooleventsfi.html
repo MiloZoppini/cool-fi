@@ -522,7 +522,11 @@ document.getElementById('hd-date').textContent = now.toLocaleDateString('it-IT',
   weekday:'long', day:'numeric', month:'long'
 });
 
-const U = (id, w=900, h=1600) => `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&h=${h}&q=80`;
+const U = (id, w=900, h=1600) => {
+  if (!id) return '';
+  if (id.startsWith('http')) return id;
+  return `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&h=${h}&q=80`;
+};
 
 const officialSocials = {
   maggio: {
@@ -623,10 +627,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "uno spettacolo di Choreos per il mese del pride.",
     "vibe": [
-      "free",
-      "teatro"
+      "teatro",
+      "free"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185872012%2F1413453787723%2F1%2Foriginal.20260601-152709?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.131&fp-y=0.418&s=6652daa5b2e0f6dac52c1b174adf0979"
   },
   {
     "titolo": "ABITUÉ | The Lodge - 17/06/26",
@@ -638,9 +642,9 @@ let allEvents = [
     "descrizione": "Design your own world.",
     "vibe": [
       "teatro",
-      "letteratura"
+      "cinema"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186868993%2F660359674023%2F1%2Foriginal.20260614-145435?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.798&s=7d58bbdd9c41d0f9e4e7313b8adc3fdd"
   },
   {
     "titolo": "ROOFTOP W  HOTEL FLORENCE",
@@ -651,10 +655,10 @@ let allEvents = [
     "categoria": "SERATA",
     "descrizione": "House music and cool views coming your way at the rooftop party you don’t want to miss.",
     "vibe": [
-      "aperitivo",
-      "jazz"
+      "rooftop",
+      "live"
     ],
-    "img": "1533174072545-7a4b6ad7a6c3"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184784972%2F1959075157713%2F1%2Foriginal.20260517-140745?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.454&fp-y=0.503&s=fd28725c5f11aaded302cf971ec339f5"
   },
   {
     "titolo": "Disegnare il futuro Toscana, IV edizione del forum sull’innovazione",
@@ -665,10 +669,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Un’occasione di confronto tra istituzioni e mondo delle imprese",
     "vibe": [
-      "letteratura",
-      "free"
+      "teatro",
+      "cinema"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186476472%2F1384401455063%2F1%2Foriginal.20260609-084151?h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&s=d0d3134c62436c430d12e442d0c71bf8"
   },
   {
     "titolo": "Martedi 23 Giugno PREFESTIVO \"La FARINA - Pizza & Grill - Opening Party\"",
@@ -680,9 +684,9 @@ let allEvents = [
     "descrizione": "Martedi 23 Giugno PREFESTIVO \"La FARINA - Pizza & Grill - Opening Party\" ...Vieni a scoprire un nuovo locale...",
     "vibe": [
       "arte-contemporanea",
-      "storica"
+      "free"
     ],
-    "img": "1577083552431-6e5fd01988ec"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186700028%2F226128930217%2F1%2Foriginal.20260611-175938?crop=focalpoint&fit=crop&h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7a437cd7dcb36fa4ba8b9bafd616efae"
   },
   {
     "titolo": "ONDA SONORA AT FLO FIRENZE",
@@ -693,10 +697,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "L'onda è arrivata a Firenze, nella sua location più esclusiva! Get ready to ride the wave!!!",
     "vibe": [
-      "teatro",
-      "cinema"
+      "free",
+      "teatro"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186411704%2F3004655199726%2F1%2Foriginal.20260608-153743?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.492&s=acce8ed9d4f50ca452d68bab8ea39a44"
   },
   {
     "titolo": "Accademia D'Impresa - Evento di presentazione",
@@ -707,10 +711,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Presentazione dell’Accademia d’Impresa, evento gratuito per studenti e professionisti. Lunedì 29 giugno, ore 11-13, Palazzo Vecchi",
     "vibe": [
-      "teatro",
-      "letteratura"
+      "cinema",
+      "teatro"
     ],
-    "img": "1489599849927-2ee91cede3ba"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186047200%2F3004143933742%2F1%2Foriginal.20260603-110748?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.517&fp-y=0.485&s=761929022525d4aef21398bc4d11b266"
   },
   {
     "titolo": "CHILL OUT CRYPTO",
@@ -721,10 +725,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "La Community si riunisce a Firenze",
     "vibe": [
-      "letteratura",
-      "cinema"
+      "free",
+      "teatro"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185692529%2F966858713243%2F1%2Foriginal.20260529-114556?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=322d9c526df9af68cfa74fde3a0c6c81"
   },
   {
     "titolo": "Chill Out Crypto a Firenze | Sponsored by Young Platform",
@@ -735,10 +739,10 @@ let allEvents = [
     "categoria": "SERATA",
     "descrizione": "Chill Out Crypto arriva a Firenze per una serata tra appassionati di Crypto insieme a Il CryptoPub e The Florence Crypto Engagemen",
     "vibe": [
-      "disco",
+      "live",
       "aperitivo"
     ],
-    "img": "1492684223066-81342ee5ff30"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185425958%2F2169176825973%2F1%2Foriginal.20260526-120718?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.027&fp-y=0.498&s=75253fd10ecd5722d601c65bc11ee172"
   },
   {
     "titolo": "Degustazione \"Autoctono in Bolla\"",
@@ -752,7 +756,7 @@ let allEvents = [
       "gourmet",
       "street-food"
     ],
-    "img": "1498837167922-ddd27525d352"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184847742%2F508596705939%2F1%2Foriginal.20260518-140142?crop=focalpoint&fit=crop&h=200&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cc181cb50aad90750810f2cd4e2e9487"
   },
   {
     "titolo": "Gruppo di Lettura Silenziosa Firenze",
@@ -763,10 +767,10 @@ let allEvents = [
     "categoria": "SERATA",
     "descrizione": "E' nato nel 2026 il Silent Book Club Firenze. Una volta al mese ci troviamo a leggere insieme, in silenzio. Unisciti al gruppo!",
     "vibe": [
-      "rooftop",
-      "live"
+      "clubbing",
+      "rooftop"
     ],
-    "img": "1516450360452-9312f5e86fc7"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175220717%2F2989169796413%2F1%2Foriginal.20260119-074946?h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&s=3758b44c27fd3ca529ab7ffc9b1c32e1"
   },
   {
     "titolo": "MICHAEL JACKSON TRIBUTE - DINNER&LIVE MUSIC",
@@ -777,10 +781,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "THE KING OF POP EXPERIENCE – DINNER & LIVE MUSIC\nPreparati a vivere una serata dedicata alla leggenda che ha cambiato la storia de",
     "vibe": [
-      "all'aperto",
+      "free",
       "intimo"
     ],
-    "img": "1470225620780-dba8ba36b745"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186232249%2F2904498743081%2F1%2Foriginal.20260605-105618?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.426&fp-y=0.437&s=74db00eaea4602265494add1af4d581c"
   },
   {
     "titolo": "International Yoga Day 2026",
@@ -791,10 +795,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "20 giugno 2026 dalle 17:00 alle 20:00",
     "vibe": [
-      "cinema",
-      "free"
+      "letteratura",
+      "teatro"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184601123%2F238080727229%2F1%2Foriginal.20260514-145204?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=459f0862cf2dcad4070f1b1182d8cef2"
   },
   {
     "titolo": "ACQUE DELLA MEMORIA. VISIONI, SOGNI E CINEMA",
@@ -805,10 +809,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Cinema, musica e immagini intrecciano memoria e immaginazione nell’universo poetico di Fellini e Rota.",
     "vibe": [
-      "intimo",
-      "free"
+      "free",
+      "all'aperto"
     ],
-    "img": "1465847899084-d164df4dedc6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184851368%2F3002093567951%2F1%2Foriginal.20260518-143948?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7922be3987daf6c30fe3eb70c0ec885a"
   },
   {
     "titolo": "Musica e cinema nel nome di Piero",
@@ -819,10 +823,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "La musica leggera italiana e il suo rapporto con il cinema (1965–1980) attraverso le collezioni della BNCF e sei artisti di nome P",
     "vibe": [
-      "live",
-      "free"
+      "piccolo",
+      "all'aperto"
     ],
-    "img": "1465847899084-d164df4dedc6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186148433%2F1362614597193%2F1%2Foriginal.20260604-123052?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d41f01942876cc5b44f64027dd9aa98a"
   },
   {
     "titolo": "FESTA D'INIZIO ESTATE • Ostello Bello Firenze",
@@ -833,10 +837,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "La registrazione su Eventbrite dà diritto solamente all’ingresso.",
     "vibe": [
-      "free",
+      "teatro",
       "letteratura"
     ],
-    "img": "1489599849927-2ee91cede3ba"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185686207%2F646490957853%2F1%2Foriginal.20260529-092440?crop=focalpoint&fit=crop&h=200&w=350&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=79c39dcab01c8a4c75da55c5b60e5090"
   },
   {
     "titolo": "ACQUE LEGGERE. VENTO, CORDE E TRASPARENZE | Bennardo-Gitti, flauto e arpa",
@@ -848,9 +852,9 @@ let allEvents = [
     "descrizione": "Flauto e arpa evocano leggerezza, vento e trasparenze in un intreccio sonoro luminoso e delicato.",
     "vibe": [
       "teatro",
-      "cinema"
+      "free"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184843363%2F3002093567951%2F1%2Foriginal.20260518-130725?crop=focalpoint&fit=crop&h=200&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.522&fp-y=0.077&s=1c46bda69c483fa2287a243ae78b159e"
   },
   {
     "titolo": "Concert in Florence - Omaggio a Walt Disney",
@@ -864,7 +868,7 @@ let allEvents = [
       "gratis",
       "live"
     ],
-    "img": "1501386761578-eac5c94b800a"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178095907%2F2992747820477%2F1%2Foriginal.20260221-144133?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=11%2C131%2C1156%2C578&s=d0dbc61600268f0169f730f1cbae52fc"
   },
   {
     "titolo": "CONCERTO GRATUITO",
@@ -875,24 +879,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Concerto gratuito del Coro della Catholic Diocese of Cleveland, ensemble di voci amatoriali provenienti da diverse comunità della",
     "vibe": [
-      "musica",
-      "all'aperto"
+      "all'aperto",
+      "intimo"
     ],
-    "img": "1501386761578-eac5c94b800a"
-  },
-  {
-    "titolo": "A Taste of Florence - Food Tour in Florence | Cozymeal™",
-    "data": "mer 17/06",
-    "orario": "",
-    "luogo": "Location provided after booking",
-    "quartiere": "",
-    "categoria": "FOOD",
-    "descrizione": "A Taste of Florence - Food Tour in Florence | Cozymeal™",
-    "vibe": [
-      "street-food",
-      "gourmet"
-    ],
-    "img": "1498837167922-ddd27525d352"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186675988%2F1646860366353%2F1%2Foriginal.20260611-130920?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.488&s=5e4e02005350f9d773a954d0c7111ae0"
   },
   {
     "titolo": "Cup Pong",
@@ -903,10 +893,24 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Grab your partner and aim for glory! Join our  Cup Pong tournament at YellowSquare Florence for cold drinks, big vibes, and prizes",
     "vibe": [
-      "teatro",
-      "free"
+      "cinema",
+      "teatro"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181876506%2F2994765638014%2F1%2Foriginal.20260410-152318?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=417bdcb6e0b569988185d53e9f17f87b"
+  },
+  {
+    "titolo": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
+    "data": "sab 20/06",
+    "orario": "",
+    "luogo": "Location provided after booking",
+    "quartiere": "",
+    "categoria": "FOOD",
+    "descrizione": "Florence for Foodies - Food Tour in Florence | Cozymeal™",
+    "vibe": [
+      "gourmet",
+      "street-food"
+    ],
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F437438819%2F931232795353%2F1%2Foriginal.20230202-040755?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c76303fa33c7659e3fd7696a46df7750"
   },
   {
     "titolo": "100 Cities Project: Florence | Dinner with New Friends",
@@ -917,10 +921,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Life can be lonely when you’re always working on your passion. Take the opportunity to meet other locals over dinner!",
     "vibe": [
-      "free",
-      "teatro"
+      "teatro",
+      "free"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1152479563%2F2590974569761%2F1%2Foriginal.20251014-030410?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=05ee260df3e7f0b7ae816ab1cc423e46"
   },
   {
     "titolo": "Mostra documentario fotografica: \"Psichiatria e Diritti Umani\"",
@@ -931,24 +935,10 @@ let allEvents = [
     "categoria": "MOSTRA",
     "descrizione": "Scopri i capitoli più cupi della psichiatria, dai lager a oggi. Una mostra multimediale unica a Firenze dal 19/6. Ingresso gratuit",
     "vibe": [
-      "da-non-perdere",
-      "free"
+      "storica",
+      "da-non-perdere"
     ],
-    "img": "1577083552431-6e5fd01988ec"
-  },
-  {
-    "titolo": "Firenze Sangunaria: le lotte di potete tra Nobiltà e Popolo Grasso",
-    "data": "sab 20/06",
-    "orario": "",
-    "luogo": "Davanti all’obelisco",
-    "quartiere": "",
-    "categoria": "CONCERTO",
-    "descrizione": "Il \"popolo grasso\" di Firenze: mercanti e banchieri creano ricchezza e potere nel Rinascimento tra palazzi e intrighi.",
-    "vibe": [
-      "gratis",
-      "intimo"
-    ],
-    "img": "1493225457124-a3eb161ffa5f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185944315%2F3002621681045%2F1%2Foriginal.20260602-091052?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=036de4ed466a0adb51f719ee79ec04f0"
   },
   {
     "titolo": "Le Bellezze di Firenze - Free Walking Tour (IT)",
@@ -959,10 +949,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Il Free Walking Tour più conosciuto di Firenze con guide fiorentine autorizzate",
     "vibe": [
-      "free",
+      "teatro",
       "cinema"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005703783%2F231726432361%2F1%2Foriginal.20250410-104603?w=301&auto=format%2Ccompress&q=75&sharp=10&s=f407abeaaec36bd29524dc5c10610474"
   },
   {
     "titolo": "Festa Dlf 21.06.26",
@@ -976,7 +966,7 @@ let allEvents = [
       "cinema",
       "letteratura"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186413579%2F3004658240866%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=da8f74439cbe67b194a3f2f45127b296"
   },
   {
     "titolo": "RACCONTARSI PER  R(ESISTERE)",
@@ -987,10 +977,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Workshop di autonarrazione - PRIMA EDIZIONE",
     "vibe": [
-      "free",
+      "cinema",
       "letteratura"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187022525%2F3005425497327%2F1%2Foriginal.20260616-130516?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.034&fp-y=0.498&s=ca787b0fe9f27b60f0fdfbbfebe70020"
   },
   {
     "titolo": "CONFERENZA: Memorie d'acqua - voci, lettere e rinascite tra carte e bambù",
@@ -1001,10 +991,24 @@ let allEvents = [
     "categoria": "MOSTRA",
     "descrizione": "Celebrazione dell'Alluvione a Firenze e un viaggio su testi antichi scritti su bambù rinvenuti da archeologi in Cina",
     "vibe": [
-      "must-see",
+      "free",
       "arte-contemporanea"
     ],
-    "img": "1577083552431-6e5fd01988ec"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185821174%2F3002093567951%2F1%2Foriginal.20260531-220153?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.476&fp-y=0.19&s=13e840f73a079e0cc374067e97b835ca"
+  },
+  {
+    "titolo": "Firenze Esoterica: Negromanti, Alchimisti ed Eretici tra Magia e Astrologia",
+    "data": "ven 26/06",
+    "orario": "",
+    "luogo": "Davanti Campanile di Giotto fronte Duomo",
+    "quartiere": "",
+    "categoria": "CULTURA",
+    "descrizione": "Esplora la Firenze enigmatica: alchimia, medicina antica, superstizioni e segreti di Francesco I de’ Medici tra fonderie e alambic",
+    "vibe": [
+      "free",
+      "letteratura"
+    ],
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186282836%2F2266723032883%2F1%2Foriginal.20260605-233223?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aa20d3421fc45a0837323c17930d8044"
   },
   {
     "titolo": "The Power Of Love Kiki Ball vol. IV",
@@ -1016,9 +1020,9 @@ let allEvents = [
     "descrizione": "Mother Nemesi Utopia con il supporto di Princess La Piera Utopia e  The Social Hub Florence presentano: “The of love kiki ball vol",
     "vibe": [
       "teatro",
-      "cinema"
+      "free"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180021357%2F564025653433%2F1%2Foriginal.20260317-073559?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=76c9d2fa349cbef8798050a000ff0781"
   },
   {
     "titolo": "FLORENCE OPERA CONCERTS",
@@ -1029,10 +1033,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Get ready for a magical concert filled with stunning opera arias that’ll sweep you off your feet!",
     "vibe": [
-      "teatro",
-      "letteratura"
+      "letteratura",
+      "cinema"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181461545%2F2128665971223%2F1%2Foriginal.20260405-143937?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.305&fp-y=0.04&s=2f7ff26302d658426c0ae06e10e24e2e"
   },
   {
     "titolo": "PAINT&SIP - Artistic Aperitivo | Ostello Bello Firenze",
@@ -1044,9 +1048,9 @@ let allEvents = [
     "descrizione": "Per info e prenotazioni +39 055 213806 | ostellobello.firenze",
     "vibe": [
       "rooftop",
-      "disco"
+      "clubbing"
     ],
-    "img": "1574015974293-f6b9e3e2bb5e"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184861587%2F646490957853%2F1%2Foriginal.20260518-162443?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=198090955d9ffff8c7eb117dea48cdb6"
   },
   {
     "titolo": "Vivaldi’s The Four Seasons – Live in Santo Stefano al Ponte, Florence",
@@ -1057,10 +1061,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Experience Vivaldi’s Four Seasons live in Florence at the historic Santo Stefano al Ponte.",
     "vibe": [
-      "free",
-      "all'aperto"
+      "outdoor",
+      "live"
     ],
-    "img": "1465847899084-d164df4dedc6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177714285%2F2716679255851%2F1%2Foriginal.20260217-113213?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5243687faad64f65fd0d1fcc088c73c3"
   },
   {
     "titolo": "Divenire",
@@ -1071,10 +1075,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Le strade del talento, gli orizzonti dell'impresa: talk sul ruolo dell'alta formazione, per la crescita delle imprese e delle pers",
     "vibe": [
-      "teatro",
-      "letteratura"
+      "cinema",
+      "free"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185691912%2F1144047079933%2F1%2Foriginal.20260529-113251?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.032&fp-y=0.093&s=fd60a5dbb50b40922bf3a5f93299555c"
   },
   {
     "titolo": "Parchi capovolti - Metamorfosi",
@@ -1085,10 +1089,10 @@ let allEvents = [
     "categoria": "MOSTRA",
     "descrizione": "Performance itinerante ispirata alle \"Metamorfosi\" di Ovidio nel Giardino di Campo di Marte - Niccolò Galli nell'ambito dell'E.F.",
     "vibe": [
-      "gratis",
-      "storica"
+      "storica",
+      "da-non-perdere"
     ],
-    "img": "1554907984-15263bfd63bd"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1051469583%2F2054359471433%2F1%2Foriginal.20250612-084547?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C504%2C4032%2C2016&s=9cb38627aa81315ae8f046ff9ba2cc14"
   },
   {
     "titolo": "Exhibit and Book Presentation: \"Di Mare e di Vento\" di A. Rizzone",
@@ -1099,10 +1103,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Presentazione di “Di Mare e di Vento”, illustrazioni di Angelo Rizzone e poesie di Amerigo Rizzone.",
     "vibe": [
-      "letteratura",
-      "teatro"
+      "teatro",
+      "cinema"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184272579%2F483080336967%2F1%2Foriginal.20260511-080527?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.455&fp-y=0.264&s=38f2c819a9bace2f00020c79468c7b76"
   },
   {
     "titolo": "SENZA FINE - Janet I. Traub Solo Painting Exhibition",
@@ -1113,10 +1117,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "An intimate return to painting: Janet I. Traub presents Pomegranate Lovers, a Florentine-inspired cycle celebrating love, rebirth,",
     "vibe": [
-      "letteratura",
+      "free",
       "cinema"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174404559%2F879058222123%2F1%2Foriginal.20260109-125045?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d8e80dcb50ee1c4716cd4d5027a58947"
   },
   {
     "titolo": "Scopri Baggy Lockers: un nuovo servizio esclusivo per i tuoi ospiti!",
@@ -1127,10 +1131,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Sei un host o lavori nel turismo? Brinda con noi al nuovo deposito H24 e scopri i vantaggi! 19/06 h18 Via dell'Albero 3/A",
     "vibe": [
-      "teatro",
-      "letteratura"
+      "letteratura",
+      "teatro"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186137919%2F3001039143286%2F1%2Foriginal.20260604-091820?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c296076442033e047d6da1abf4f2d767"
   },
   {
     "titolo": "Open Day Accademia Cappiello - 27 Giugno 2026",
@@ -1141,10 +1145,10 @@ let allEvents = [
     "categoria": "MOSTRA",
     "descrizione": "Un pomeriggio di orientamento per studenti e famiglie, con visita alla mostra “Essere Cappiello”, presentazione dei corsi e labora",
     "vibe": [
-      "da-non-perdere",
-      "storica"
+      "storica",
+      "da-non-perdere"
     ],
-    "img": "1554907984-15263bfd63bd"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186502392%2F374424855707%2F1%2Foriginal.20260609-150552?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.326&fp-y=0.35&s=7633720e0592b1710dbcb8f5e68f8261"
   },
   {
     "titolo": "Legal & DPO Point: sportello settimanale di consulenza",
@@ -1156,9 +1160,9 @@ let allEvents = [
     "descrizione": "Le risposte sui temi legali e protezione privacy dedicate al mondo delle startup",
     "vibe": [
       "amatoriale",
-      "agonistico"
+      "free"
     ],
-    "img": "1461896836934-ffe607ba8211"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184824264%2F191653209741%2F1%2Foriginal.20250609-154217?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=8ff77acb647d1d173ccdce8f12cfd736"
   },
   {
     "titolo": "FLUSSI INCROCIATI. L’ACQUA COME DIALOGO | Streiff-Doughty-Singer-Nardi",
@@ -1169,10 +1173,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Quattro interpreti intrecciano flussi sonori e dialoghi musicali tra energia, equilibrio e profondità.",
     "vibe": [
-      "gratis",
-      "piccolo"
+      "free",
+      "all'aperto"
     ],
-    "img": "1493225457124-a3eb161ffa5f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184846118%2F3002093567951%2F1%2Foriginal.20260518-134124?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.527&fp-y=0.014&s=1b149762f0342683c62f5398f57fc739"
   },
   {
     "titolo": "ACQUE PROFONDE. OMBRE, RIFLESSI E MALINCONIE | Duo Ferrazzini - Suvini",
@@ -1183,10 +1187,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Violoncello e pianoforte esplorano profondità emotive tra ombre, riflessi e malinconie liquide.",
     "vibe": [
-      "cinema",
+      "free",
       "teatro"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184853506%2F3002093567951%2F1%2Foriginal.20260518-150228?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.399&fp-y=0.176&s=9adf4a7729648269d9bad72559e95841"
   },
   {
     "titolo": "ACQUE SOLENNI. RISONANZE, ARCHITETTURE E POTERE | Les Brasseurs Quintet",
@@ -1198,23 +1202,9 @@ let allEvents = [
     "descrizione": "Il quintetto di ottoni trasforma lo spazio in un’architettura sonora solenne e luminosa.",
     "vibe": [
       "letteratura",
-      "teatro"
-    ],
-    "img": "1571696769037-c6a7c44c1db6"
-  },
-  {
-    "titolo": "GOCCE E RISONANZE. RITMI D’ACQUA E MATERIA SONORA | Duo Oppositae",
-    "data": "dom 21/06",
-    "orario": "",
-    "luogo": "Giardino di Palazzo Medici Riccardi",
-    "quartiere": "",
-    "categoria": "CULTURA",
-    "descrizione": "Vibrafono e pianoforte trasformano il ritmo in materia fluida tra gocce sonore e vibrazioni.",
-    "vibe": [
-      "teatro",
       "free"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184846799%2F3002093567951%2F1%2Foriginal.20260518-134955?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.504&fp-y=0.942&s=977f6a2092514403f1a95c644fc0251f"
   },
   {
     "titolo": "MARE APERTO. IL GRANDE RESPIRO DEGLI ARCHI | Ottetto d'archi",
@@ -1225,10 +1215,24 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Un grande ottetto d’archi evoca il respiro del mare tra ampiezza sonora e slancio orchestrale.",
     "vibe": [
-      "live",
-      "piccolo"
+      "musica",
+      "gratis"
     ],
-    "img": "1465847899084-d164df4dedc6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184850144%2F3002093567951%2F1%2Foriginal.20260518-142656?crop=focalpoint&fit=crop&w=307&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f28dabfe2008ab76b547763f3c1daafc"
+  },
+  {
+    "titolo": "GOCCE E RISONANZE. RITMI D’ACQUA E MATERIA SONORA | Duo Oppositae",
+    "data": "dom 21/06",
+    "orario": "",
+    "luogo": "Giardino di Palazzo Medici Riccardi",
+    "quartiere": "",
+    "categoria": "CULTURA",
+    "descrizione": "Vibrafono e pianoforte trasformano il ritmo in materia fluida tra gocce sonore e vibrazioni.",
+    "vibe": [
+      "letteratura",
+      "free"
+    ],
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184838240%2F3002093567951%2F1%2Foriginal.20260518-114559?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.503&fp-y=0.873&s=fc1586e05af248f23a129d52f46783cf"
   },
   {
     "titolo": "Live Baroque Concert - “La Conference: viole da gamba in dialogo”",
@@ -1239,10 +1243,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Immerse yourself in the magic of live baroque music in the heart of Florence by renowned musicians in historical venues.",
     "vibe": [
-      "intimo",
-      "all'aperto"
+      "live",
+      "outdoor"
     ],
-    "img": "1470225620780-dba8ba36b745"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184688349%2F2996777912016%2F1%2Foriginal.20260515-143624?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=35db76c2b97ba846fa74b4ebe92317bf"
   },
   {
     "titolo": "SULLE RIVE DEL TEMPO. CORRENTI LIRICHE | Reimann-Diette, violino e piano",
@@ -1256,7 +1260,7 @@ let allEvents = [
       "free",
       "teatro"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184844583%2F3002093567951%2F1%2Foriginal.20260518-132302?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.509&fp-y=0.287&s=3be67f55404c9b94599dbded6e3df85c"
   },
   {
     "titolo": "Florence: Concert Matinée Experience",
@@ -1267,10 +1271,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Enjoy a concert of opera arias by Verdi, Puccini, and more or a lovely Chamber Music Concert in Florence. Masterpieces authentic e",
     "vibe": [
-      "letteratura",
-      "teatro"
+      "free",
+      "cinema"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005332963%2F2719522872801%2F1%2Foriginal.20250409-215420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.743578767123&fp-y=0.358949416342&s=e23dc615aa21c3762e4d32f9793db868"
   },
   {
     "titolo": "Live Baroque Concert:“Armonie veneziane: il barocco di Albinoni e Marcello”",
@@ -1281,10 +1285,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Immerse yourself in the magic of live baroque music in the heart of Florence by renowned musicians in historical venues.",
     "vibe": [
-      "outdoor",
-      "gratis"
+      "free",
+      "piccolo"
     ],
-    "img": "1501386761578-eac5c94b800a"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184689396%2F2996777912016%2F1%2Foriginal.20260515-144840?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=adcaa797908e612e1ddf627a53bd9953"
   },
   {
     "titolo": "THE DAY CLUB",
@@ -1295,10 +1299,10 @@ let allEvents = [
     "categoria": "SERATA",
     "descrizione": "From Düsseldorf ( Germany ) to Italia…\nThe Day Club is going international. ☀️",
     "vibe": [
-      "clubbing",
-      "aperitivo"
+      "aperitivo",
+      "live"
     ],
-    "img": "1516450360452-9312f5e86fc7"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186746684%2F2739628634801%2F1%2Foriginal.20260612-085435?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=fe613cadb7e68c167baaa016b7c4264c"
   },
   {
     "titolo": "The Four Seasons & Masterpieces – Orchestra da Camera Fiorentina",
@@ -1309,10 +1313,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Celebrate Christmas and New Year in Florence with Vivaldi’s Four Seasons and timeless masterpieces performed by Orchestra da Camer",
     "vibe": [
-      "all'aperto",
-      "free"
+      "musica",
+      "gratis"
     ],
-    "img": "1465847899084-d164df4dedc6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1162263143%2F2716679255851%2F1%2Foriginal.20251025-113347?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.483&fp-y=0.59&s=79dc7c140148cfe023898c5892b67a8a"
   },
   {
     "titolo": "Live Baroque Concert - \"Chantez petits oiseaux\"",
@@ -1323,10 +1327,10 @@ let allEvents = [
     "categoria": "CONCERTO",
     "descrizione": "Immerse yourself in the magic of live baroque music in the heart of Florence by renowned musicians in historical venues.",
     "vibe": [
-      "free",
-      "intimo"
+      "outdoor",
+      "musica"
     ],
-    "img": "1465847899084-d164df4dedc6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184689128%2F2996777912016%2F1%2Foriginal.20260515-144538?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0951d93707451e1d4c3acc736548fe8e"
   },
   {
     "titolo": "Recomposed da Max Richter: Vivaldi – Le Quattro Stagioni",
@@ -1340,7 +1344,21 @@ let allEvents = [
       "letteratura",
       "cinema"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180057282%2F950342392673%2F1%2Foriginal.20260317-162826?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.943&fp-y=0.49&s=72f51491b24f5f1f9c4cb9a5373b57fb"
+  },
+  {
+    "titolo": "Orchestra da Camera Fiorentina - Giovan Battista Varoli e Ruben Simeo",
+    "data": "gio 18/06",
+    "orario": "",
+    "luogo": "Chiesa di Santa Felicita",
+    "quartiere": "",
+    "categoria": "CONCERTO",
+    "descrizione": "Varoli e Simeo in Hummel e la “Jupiter” di Mozart: virtuosismo e grande sinfonismo tra Lucca e Firenze.",
+    "vibe": [
+      "intimo",
+      "free"
+    ],
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178348346%2F2757603705641%2F1%2Foriginal.20260224-210345?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C141%2C1280%2C640&s=c4a2c4e88260b750d676fb61bc315a81"
   },
   {
     "titolo": "SUMMER CAMP - ART WORKSHOP FOR CHILDREN & TEENS",
@@ -1354,7 +1372,7 @@ let allEvents = [
       "aperitivo",
       "rooftop"
     ],
-    "img": "1574015974293-f6b9e3e2bb5e"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183211364%2F879058222123%2F1%2Foriginal.20260428-112032?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.042&fp-y=0.842&s=67b63dfce72db43427a0af6fcba6a50b"
   },
   {
     "titolo": "Bike Thieves",
@@ -1368,7 +1386,7 @@ let allEvents = [
       "piccolo",
       "free"
     ],
-    "img": "1493225457124-a3eb161ffa5f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186150898%2F3002487105565%2F1%2Foriginal.20260604-130518?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.52&fp-y=0.867&s=9fb22131682ad2bb541074c57ebee0e2"
   },
   {
     "titolo": "OPEN: A new civic space for art and science | Open to the public",
@@ -1379,10 +1397,10 @@ let allEvents = [
     "categoria": "SERATA",
     "descrizione": "Discover OPEN at Palazzo Buontalenti, an unprecedented exhibition where contemporary art meets academic research.",
     "vibe": [
-      "rooftop",
-      "aperitivo"
+      "disco",
+      "rooftop"
     ],
-    "img": "1574015974293-f6b9e3e2bb5e"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182657486%2F2997941669692%2F1%2Foriginal.20260421-105015?w=401&auto=format%2Ccompress&q=75&sharp=10&s=3923cf6471b5025c7c87496e9cabb591"
   },
   {
     "titolo": "AperiArt @ PCC",
@@ -1393,10 +1411,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Unisciti a noi ogni mercoledì alle 18:30!   •   Join us every Wednesday at 6:30 PM!",
     "vibe": [
-      "free",
+      "teatro",
       "letteratura"
     ],
-    "img": "1489599849927-2ee91cede3ba"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183342951%2F483080336967%2F1%2Foriginal.20260429-154228?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.501&fp-y=0.368&s=d40db7a39b5ff1356e85f1b5fe823398"
   },
   {
     "titolo": "Foreigners Gathering",
@@ -1407,10 +1425,10 @@ let allEvents = [
     "categoria": "FOOD",
     "descrizione": "Hey, internationals! If you like to make new friends, enjoy countryside, taste authentic Italian food and drinks, this event is fo",
     "vibe": [
-      "vino",
+      "family",
       "street-food"
     ],
-    "img": "1565299585323-38d6b0865b47"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186761224%2F314087796255%2F1%2Foriginal.20260612-140302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.59&fp-y=0.432&s=d01518b4f5241501b77c096d22c10e59"
   },
   {
     "titolo": "Florence: Italian Opera in Santa Monaca Church",
@@ -1422,9 +1440,9 @@ let allEvents = [
     "descrizione": "143 / 5.000\nA charming concert of opera arias in the Church of Santa Monaca in Florence performed  by professional singers.",
     "vibe": [
       "free",
-      "cinema"
+      "letteratura"
     ],
-    "img": "1489599849927-2ee91cede3ba"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1161674163%2F2968314417571%2F1%2Foriginal.20251024-145900?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d9afb08f65a8477d26706e9d85809c64"
   },
   {
     "titolo": "Foodies + New Friends: Florence",
@@ -1438,7 +1456,7 @@ let allEvents = [
       "gourmet",
       "street-food"
     ],
-    "img": "1565299585323-38d6b0865b47"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171939269%2F935412228013%2F1%2Foriginal.20251128-213143?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d75467bed19c0b664998e161d32e140a"
   },
   {
     "titolo": "Savor Tuscan Flavors From the Maremma Hills - Cooking Class in Tuscany | Cozymea",
@@ -1449,10 +1467,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Savor Tuscan Flavors From the Maremma Hills - Cooking Class in Tuscany | Cozymeal™",
     "vibe": [
-      "teatro",
-      "cinema"
+      "free",
+      "teatro"
     ],
-    "img": "1481627834876-b7833e8f5570"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1055639643%2F931232795353%2F1%2Foriginal.20250618-115441?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=294813eff7c4ab4a56ff85ed52baa06f"
   },
   {
     "titolo": "Authentic Italian Pasta Making in Florence - Cooking Class in Florence | Cozymea",
@@ -1463,10 +1481,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Authentic Italian Pasta Making in Florence - Cooking Class in Florence | Cozymeal™",
     "vibe": [
-      "free",
+      "cinema",
       "teatro"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F819415319%2F931232795353%2F1%2Foriginal.20240802-145426?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=db78f5916a8e952990ce35c096ce3567"
   },
   {
     "titolo": "Craft Authentic Italian Pasta in Florentine Home - Cooking Class in Tuscany | Co",
@@ -1478,9 +1496,9 @@ let allEvents = [
     "descrizione": "Craft Authentic Italian Pasta in Florentine Home - Cooking Class in Tuscany | Cozymeal™",
     "vibe": [
       "teatro",
-      "free"
+      "cinema"
     ],
-    "img": "1489599849927-2ee91cede3ba"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1055641013%2F931232795353%2F1%2Foriginal.20250618-115727?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a7306de158546dc38d07d66f2aeafede"
   },
   {
     "titolo": "Make Ravioli and Farfalle in Florence - Cooking Class in Florence | Cozymeal™",
@@ -1492,9 +1510,9 @@ let allEvents = [
     "descrizione": "Make Ravioli and Farfalle in Florence - Cooking Class in Florence | Cozymeal™",
     "vibe": [
       "teatro",
-      "free"
+      "letteratura"
     ],
-    "img": "1524995997946-a1c2e315a42f"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F774836199%2F931232795353%2F1%2Foriginal.20240523-155556?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=716b9737c28e0a6ddcde83c6a69ff2d5"
   },
   {
     "titolo": "Make Fabulous Tuscan Dishes With Local Chef - Cooking Class in Florence | Cozyme",
@@ -1505,10 +1523,10 @@ let allEvents = [
     "categoria": "CULTURA",
     "descrizione": "Make Fabulous Tuscan Dishes With Local Chef - Cooking Class in Florence | Cozymeal™",
     "vibe": [
-      "cinema",
-      "letteratura"
+      "letteratura",
+      "teatro"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F774835099%2F931232795353%2F1%2Foriginal.20240523-155447?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=3271d78ed37947c97c2a8745c36ec318"
   },
   {
     "titolo": "Make Tagliatelle, Gnocchi and Panna Cotta in Florence - Cooking Class in Florenc",
@@ -1520,9 +1538,9 @@ let allEvents = [
     "descrizione": "Make Tagliatelle, Gnocchi and Panna Cotta in Florence - Cooking Class in Florence | Cozymeal™",
     "vibe": [
       "free",
-      "teatro"
+      "letteratura"
     ],
-    "img": "1571696769037-c6a7c44c1db6"
+    "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F774836399%2F931232795353%2F1%2Foriginal.20240523-155611?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5b0454f67bc00c283ee169cdab86e529"
   }
 ];
 // COOLFI_EVENTS_END
