@@ -1,0 +1,37 @@
+name: Aggiorna eventi Firenze
+
+on:
+  schedule:
+    # Ogni 6 ore: 06:00, 12:00, 18:00, 00:00 UTC (= 08:00, 14:00, 20:00, 02:00 CEST)
+    - cron: "0 6,12,18,0 * * *"
+  workflow_dispatch: # run manuale da GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installa dipendenze
+        run: pip install -r scripts/requirements.txt
+
+      - name: Aggiorna eventi
+        run: python scripts/update_events_ci.py
+
+      - name: Commit e push se ci sono modifiche
+        run: |
+          git config user.name "cool-fi-bot"
+          git config user.email "actions@github.com"
+          git add events.json cooleventsfi.html
+          git diff --staged --quiet || git commit -m "chore: aggiorna eventi $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
