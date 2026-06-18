@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-06-18T07:52:07Z",
+  "updated_at": "2026-06-18T10:01:02Z",
   "city": "Firenze",
   "events": [
-    {
-      "titolo": "THE DAY CLUB",
-      "data": "dom 21/06",
-      "orario": "",
-      "luogo": "Ruby Bea Hotel Florence",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "From Düsseldorf ( Germany ) to Italia…\nThe Day Club is going international. ☀️",
-      "vibe": [
-        "jazz",
-        "aperitivo"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186746684%2F2739628634801%2F1%2Foriginal.20260612-085435?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=fe613cadb7e68c167baaa016b7c4264c",
-      "video": "",
-      "social": {
-        "platform": "Instagram",
-        "label": "@rubyflorence",
-        "url": "https://www.instagram.com/rubyflorence/"
-      },
-      "event_url": "https://www.eventbrite.de/e/the-day-club-tickets-1991759423051"
-    },
     {
       "titolo": "𝙁𝙑𝙏𝙑𝙍𝘼'𝙨 𝙋𝘼𝙍𝙏𝙔",
       "data": "ven 19/06",
@@ -32,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "𝙁𝙑𝙏𝙑𝙍𝘼'𝙨 𝙋𝘼𝙍𝙏𝙔 𝙖𝙩 𝗔𝘁𝗼𝗹𝗹𝗼  \n𝗙𝗥𝗜𝗗𝗔𝗬 𝟭𝟵 𝗝𝗨𝗡𝗘\n\nBack at Atollo for another summer night together.  \nJoining us this time: Basse Frequen",
       "vibe": [
-        "aperitivo",
-        "disco"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-09/dc8e94d5-2760-48d5-9e73-3e81f9592856.jpg?rect=0%2C530%2C900%2C540",
       "video": "",
@@ -49,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "Uscite le Birkenstock dagli armadi, rinforcate gli occhiali a specchio e le camicie a fiori e venite tutti alla nostra FESTA D'INI",
       "vibe": [
-        "clubbing",
-        "aperitivo"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-04/1eaca5ef-2401-48ab-b42b-cb129bda9ea1.jpg?rect=60%2C0%2C1800%2C1080",
       "video": "",
@@ -70,34 +49,13 @@
       "categoria": "SERATA",
       "descrizione": "🎂 Bioritmo turns 5 🎂\n\nFive years ago, we gathered for the first time with a simple idea:  \nbringing people together through music,",
       "vibe": [
-        "aperitivo",
-        "jazz"
+        "rooftop",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-08/ca96e3a2-76ce-461b-bc43-cd2be6311dc2.jpg?rect=0%2C600%2C3000%2C1800",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/g5qb3b-bioritmo-birthday-party-18th-jun-chalet-fontana-firenze-tickets"
-    },
-    {
-      "titolo": "MIRYAM BELFIORE • LIVE MUSIC • Ostello Bello Firenze",
-      "data": "ven 26/06",
-      "orario": "",
-      "luogo": "Ostello Bello Firenze",
-      "quartiere": "",
-      "categoria": "CONCERTO",
-      "descrizione": "La registrazione su Eventbrite dà diritto solamente all’ingresso.",
-      "vibe": [
-        "live",
-        "free"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186935034%2F646490957853%2F1%2Foriginal.20260615-143444?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.665&s=f5d59414370600bee81b01b588666d11",
-      "video": "",
-      "social": {
-        "platform": "Instagram",
-        "label": "@ostellobellofirenze",
-        "url": "https://www.instagram.com/ostellobellofirenze/"
-      },
-      "event_url": "https://www.eventbrite.it/e/biglietti-miryam-belfiore-live-music-ostello-bello-firenze-1991919136759"
     },
     {
       "titolo": "Polyamore Boogie Machine",
@@ -108,34 +66,13 @@
       "categoria": "SERATA",
       "descrizione": "Polyamore lands at Lattexplus x Atollo in Florence on June 18th 💙\n\nOne label. One sound. The infinite energy of Bruno Belissimo's ",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "rooftop",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-09/ecc3443a-7066-4b84-ba3f-cea607ee90f9.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/rykoqy-polyamore-boogie-machine-18th-jun-atollo-firenze-tickets"
-    },
-    {
-      "titolo": "Bike Thieves",
-      "data": "ven 19/06",
-      "orario": "",
-      "luogo": "The Social Hub Florence Lavagnini",
-      "quartiere": "",
-      "categoria": "CONCERTO",
-      "descrizione": "Opening Pop-Up di Francesco Selicato",
-      "vibe": [
-        "live",
-        "outdoor"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186150898%2F3002487105565%2F1%2Foriginal.20260604-130518?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.52&fp-y=0.867&s=9fb22131682ad2bb541074c57ebee0e2",
-      "video": "",
-      "social": {
-        "platform": "Instagram",
-        "label": "@thesocialhub",
-        "url": "https://www.instagram.com/thesocialhub/"
-      },
-      "event_url": "https://www.eventbrite.co.uk/e/bike-thieves-tickets-1990559139972"
     },
     {
       "titolo": "Yoga Day al Savoy",
@@ -147,50 +84,12 @@
       "descrizione": "Yoga Day al Savoy Lunedì 22 giugno l'hotel firmato dal gruppo Rocco Forte celebra il Solstizio d'Estate con una giornata dedicata ",
       "vibe": [
         "rooftop",
-        "live"
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1780911049-4RFHHotelSavoy-Facade3624JGOct16.JPG",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/yoga-day-al-savoy-7467"
-    },
-    {
-      "titolo": "MICHAEL JACKSON TRIBUTE - DINNER&LIVE MUSIC",
-      "data": "ven 19/06",
-      "orario": "",
-      "luogo": "Hard Rock Cafe",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "THE KING OF POP EXPERIENCE – DINNER & LIVE MUSIC\nPreparati a vivere una serata dedicata alla leggenda che ha cambiato la storia de",
-      "vibe": [
-        "rooftop",
-        "aperitivo"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186232249%2F2904498743081%2F1%2Foriginal.20260605-105618?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.426&fp-y=0.437&s=49a2d2effe66f966ac928f347a3c42d6",
-      "video": "",
-      "social": {
-        "platform": "Instagram",
-        "label": "@hardrockcafeflorence",
-        "url": "https://www.instagram.com/hardrockcafeflorence/"
-      },
-      "event_url": "https://www.eventbrite.it/e/michael-jackson-tribute-dinnerlive-music-tickets-1991187358992"
-    },
-    {
-      "titolo": "KARAOKE PARTY",
-      "data": "gio 18/06",
-      "orario": "",
-      "luogo": "P.za della Signoria, 30 R",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "KARAOKE NIGHT at Michael Collins \nGet ready to sing, laugh, and enjoy the best good vibes in town!\nJoin us at Michael Collins",
-      "vibe": [
-        "aperitivo",
-        "rooftop"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175387482%2F1347886023863%2F1%2Foriginal.20260120-214348?crop=focalpoint&fit=crop&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75f5d7890b298f14d4e3fb4553352215",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.eventbrite.com/e/karaoke-party-tickets-1981055065028"
     },
     {
       "titolo": "Michael Jackson Anthology da Hard Rock Cafe!",
@@ -201,47 +100,13 @@
       "categoria": "SERATA",
       "descrizione": "Michael Jackson Anthology da Hard Rock Cafe! In Piazza della Repubblica, venerdì 19 giugno, si celebra la più grande pop star dell",
       "vibe": [
-        "aperitivo",
-        "live"
+        "clubbing",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1781519802-MJANTOHOLOGY2.jpg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/michael-jackson-anthology-da-hard-rock-cafe-5892"
-    },
-    {
-      "titolo": "OPEN: A new civic space for art and science | Open to the public",
-      "data": "sab 20/06",
-      "orario": "",
-      "luogo": "Palazzo Buontalenti",
-      "quartiere": "",
-      "categoria": "MOSTRA",
-      "descrizione": "Discover OPEN at Palazzo Buontalenti, an unprecedented exhibition where contemporary art meets academic research.",
-      "vibe": [
-        "storica",
-        "da-non-perdere"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182657486%2F2997941669692%2F1%2Foriginal.20260421-105015?w=401&auto=format%2Ccompress&q=75&sharp=10&s=3923cf6471b5025c7c87496e9cabb591",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.eventbrite.com/e/open-a-new-civic-space-for-art-and-science-open-to-the-public-tickets-1989225478956"
-    },
-    {
-      "titolo": "Taste & Sound",
-      "data": "mer 1/07",
-      "orario": "",
-      "luogo": "Eventi all' Antico Mulino by Lavacchio",
-      "quartiere": "Pontassieve",
-      "categoria": "CONCERTO",
-      "descrizione": "Ogni mercoledì dalle 19:30: vino, spicchi di pizza gourmet e musica dal vivo al tramonto con vista sulle vigne della Fattoria Lava",
-      "vibe": [
-        "intimo",
-        "outdoor"
-      ],
-      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186139753%2F1602822856623%2F1%2Foriginal.20260604-095302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=086e4e4b53b4d60fb9835cfb1de91976",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.eventbrite.it/e/taste-sound-tickets-1991047716317"
     }
   ]
 }
