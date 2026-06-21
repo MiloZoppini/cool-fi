@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T02:11:35Z",
+  "updated_at": "2026-06-21T09:31:43Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "Friday 26th June — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nDanilo Plessow aka MCDE (3h set)  \nSamuele Pagliai\n\nFree ent",
       "vibe": [
-        "jazz",
-        "rooftop"
+        "disco",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-19/3bb9f0ff-936f-42ca-a4c2-111dc0cf846e.jpg?rect=0%2C417%2C1277%2C766",
       "video": "",
@@ -28,7 +28,7 @@
       "categoria": "SERATA",
       "descrizione": "InBilico on the sound | 500G CORP\n\n\\- ⁠funky house\n\n\\- ⁠Funk Machine - Elado\n\n\\- InBilico è un evento funky house diventato in poc",
       "vibe": [
-        "clubbing",
+        "rooftop",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-18/a38affd1-09e8-48d6-b2a5-a551c989ca6d.jpg?rect=0%2C216%2C1080%2C648",
@@ -45,8 +45,8 @@
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n11:00 PM at Bargiù Club\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, ",
       "vibe": [
-        "live",
-        "clubbing"
+        "disco",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
@@ -62,30 +62,13 @@
       "categoria": "SERATA",
       "descrizione": "Bachata Class in collaboration with ESN Florentia / In the garden\n\nStep in, sway out! Whether you're a total newbie or already kno",
       "vibe": [
-        "aperitivo",
-        "jazz"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-10-10/ba63085a-05a0-461b-93c0-a35d1efd98f1.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/3o723x-bachata-class-in-the-garden-23rd-jun-bargi-club-florence-tickets"
-    },
-    {
-      "titolo": "Rural Chic Pool Party a Casa Ruffino",
-      "data": "gio 25/06",
-      "orario": "22:30",
-      "luogo": "Chic Pool Party a Casa Ruffino Giovedì 25 giugno u",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "Rural Chic Pool Party a Casa Ruffino Giovedì 25 giugno una festa a bordo piscina, dal tramonto alle stelle. data 17/06/2026 Un’esp",
-      "vibe": [
-        "rooftop",
-        "clubbing"
-      ],
-      "img": "https://www.firenzespettacolo.it/media/immagini/1781683847-Piscina-35_full2.jpg",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.firenzespettacolo.it/rural-chic-pool-partycasa-ruffino-6738"
     },
     {
       "titolo": "Festa De São João | Brazilian Night",
@@ -96,30 +79,13 @@
       "categoria": "CONCERTO",
       "descrizione": "🇧🇷✨ Festa de São João at YellowSquare Florence ✨🇧🇷\n\nUn giorno in cui festeggeremo la cultura brasiliana tra musica dal vivo, forró",
       "vibe": [
-        "all'aperto",
+        "outdoor",
         "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-17/e46eb8fc-e903-49ed-a7e1-eb791c1a6c98.jpg?rect=0%2C432%2C2161%2C1297",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/mxg65l-festa-de-so-joo-brazilian-night-26th-jun-bargi-club-florence-tickets"
-    },
-    {
-      "titolo": "Un nuovo Aroma in riva d’Arno",
-      "data": "mar 30/06",
-      "orario": "20:00",
-      "luogo": "super cena con il Castello di Ama martedì 30 giugn",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "Un nuovo Aroma in riva d’Arno Una super cena con il Castello di Ama martedì 30 giugno. Da non perdere! data 20/06/2026 EVENTI SPEC",
-      "vibe": [
-        "disco",
-        "aperitivo"
-      ],
-      "img": "https://www.firenzespettacolo.it/media/immagini/1781952322-AromaGiardino.JPG",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.firenzespettacolo.it/un-nuovo-aroma-in-riva-arno-7432"
     },
     {
       "titolo": "IN SINTONIA | Music Speed Friendship",
@@ -130,7 +96,7 @@
       "categoria": "MOSTRA",
       "descrizione": "🎶 In Sintonia – Music Speed Friendship 🎶\n\nWhat if your next friendship started with a song?\n\nIn Sintonia is an analog social exper",
       "vibe": [
-        "da-non-perdere",
+        "gratis",
         "storica"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-17/0770b59c-0cd4-4039-8aa7-d74278da7292.jpg?rect=0%2C216%2C1080%2C648",
