@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-06-21T09:31:43Z",
+  "updated_at": "2026-06-21T13:29:17Z",
   "city": "Firenze",
   "events": [
+    {
+      "titolo": "THE DAY CLUB",
+      "data": "dom 21/06",
+      "orario": "",
+      "luogo": "Ruby Bea Hotel Florence",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "From Düsseldorf ( Germany ) to Italia…\nThe Day Club is going international. ☀️",
+      "vibe": [
+        "aperitivo",
+        "rooftop"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186746684%2F2739628634801%2F1%2Foriginal.20260612-085435?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&s=fe613cadb7e68c167baaa016b7c4264c",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@rubyflorence",
+        "url": "https://www.instagram.com/rubyflorence/"
+      },
+      "event_url": "https://www.eventbrite.de/e/the-day-club-tickets-1991759423051"
+    },
     {
       "titolo": "Lattexplus Summer Night – Danilo Plessow aka MCDE",
       "data": "ven 26/06",
@@ -11,8 +32,8 @@
       "categoria": "SERATA",
       "descrizione": "Friday 26th June — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nDanilo Plessow aka MCDE (3h set)  \nSamuele Pagliai\n\nFree ent",
       "vibe": [
-        "disco",
-        "live"
+        "rooftop",
+        "clubbing"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-19/3bb9f0ff-936f-42ca-a4c2-111dc0cf846e.jpg?rect=0%2C417%2C1277%2C766",
       "video": "",
@@ -29,12 +50,33 @@
       "descrizione": "InBilico on the sound | 500G CORP\n\n\\- ⁠funky house\n\n\\- ⁠Funk Machine - Elado\n\n\\- InBilico è un evento funky house diventato in poc",
       "vibe": [
         "rooftop",
-        "aperitivo"
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-18/a38affd1-09e8-48d6-b2a5-a551c989ca6d.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/mxg6yw-inbilico-on-the-sound-500g-corp-25th-jun-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "MIRYAM BELFIORE • LIVE MUSIC • Ostello Bello Firenze",
+      "data": "ven 26/06",
+      "orario": "",
+      "luogo": "Ostello Bello Firenze",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "La registrazione su Eventbrite dà diritto solamente all’ingresso.",
+      "vibe": [
+        "live",
+        "free"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186935034%2F646490957853%2F1%2Foriginal.20260615-143444?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.665&s=f5d59414370600bee81b01b588666d11",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@ostellobellofirenze",
+        "url": "https://www.instagram.com/ostellobellofirenze/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-miryam-belfiore-live-music-ostello-bello-firenze-1991919136759"
     },
     {
       "titolo": "Pass The Mic | Karaoke Night",
@@ -45,13 +87,30 @@
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n11:00 PM at Bargiù Club\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, ",
       "vibe": [
-        "disco",
-        "aperitivo"
+        "aperitivo",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/q2pegy-pass-the-mic-karaoke-night-27th-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "KARAOKE PARTY",
+      "data": "lun 22/06",
+      "orario": "",
+      "luogo": "P.za della Signoria, 30 R",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "KARAOKE NIGHT at Michael Collins \nGet ready to sing, laugh, and enjoy the best good vibes in town!\nJoin us at Michael Collins",
+      "vibe": [
+        "rooftop",
+        "aperitivo"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175387482%2F1347886023863%2F1%2Foriginal.20260120-214348?crop=focalpoint&fit=crop&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75f5d7890b298f14d4e3fb4553352215",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/karaoke-party-tickets-1981055068037"
     },
     {
       "titolo": "Bachata Class | In the Garden",
@@ -62,13 +121,30 @@
       "categoria": "SERATA",
       "descrizione": "Bachata Class in collaboration with ESN Florentia / In the garden\n\nStep in, sway out! Whether you're a total newbie or already kno",
       "vibe": [
-        "clubbing",
-        "aperitivo"
+        "rooftop",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-10-10/ba63085a-05a0-461b-93c0-a35d1efd98f1.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/3o723x-bachata-class-in-the-garden-23rd-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "Martedi 23 Giugno PREFESTIVO \"La FARINA - Pizza & Grill - Opening Party\"",
+      "data": "mar 23/06",
+      "orario": "",
+      "luogo": "La Farina Pizza e Grill - FIRENZE",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "Martedi 23 Giugno PREFESTIVO \"La FARINA - Pizza & Grill - Opening Party\" ...Vieni a scoprire un nuovo locale...",
+      "vibe": [
+        "rooftop",
+        "jazz"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186700028%2F226128930217%2F1%2Foriginal.20260611-175938?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5c09cc0f438cb19a62eddfab1f290d9",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-martedi-23-giugno-prefestivo-la-farina-pizza-grill-opening-party-1991721449471"
     },
     {
       "titolo": "Festa De São João | Brazilian Night",
@@ -79,13 +155,47 @@
       "categoria": "CONCERTO",
       "descrizione": "🇧🇷✨ Festa de São João at YellowSquare Florence ✨🇧🇷\n\nUn giorno in cui festeggeremo la cultura brasiliana tra musica dal vivo, forró",
       "vibe": [
-        "outdoor",
-        "live"
+        "piccolo",
+        "free"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-17/e46eb8fc-e903-49ed-a7e1-eb791c1a6c98.jpg?rect=0%2C432%2C2161%2C1297",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/mxg65l-festa-de-so-joo-brazilian-night-26th-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "Sal \"The Voice\" Valentinetti Single Release Show with Ginger Winn",
+      "data": "gio 25/06",
+      "orario": "",
+      "luogo": "La Ménagère",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Join Sal \"The Voice\" Valentinetti live for his single release show with special guest Ginger Winn!",
+      "vibe": [
+        "gratis",
+        "all'aperto"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187068791%2F2051485161123%2F1%2Foriginal.20260616-221347?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.471&fp-y=0.186&s=31e2b7b0ade8407956c8a5af657c8087",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-sal-the-voice-valentinetti-single-release-show-with-ginger-winn-1992024345441"
+    },
+    {
+      "titolo": "Concerto Gratuito dell'Australian Children's Choir a Firenze",
+      "data": "mer 1/07",
+      "orario": "",
+      "luogo": "Basilica di Santa Trinita",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Vieni ad ascoltare l'Australian Children's Choir, direttamente da Melbourne, Australia!",
+      "vibe": [
+        "live",
+        "intimo"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187027321%2F2988127687358%2F1%2Foriginal.20260616-140820?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.165&fp-y=0.541&s=30da9e2a3b1f3b1737f3a803c90a06a9",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-concerto-gratuito-dellaustralian-childrens-choir-a-firenze-1991990398906"
     },
     {
       "titolo": "IN SINTONIA | Music Speed Friendship",
@@ -96,13 +206,47 @@
       "categoria": "MOSTRA",
       "descrizione": "🎶 In Sintonia – Music Speed Friendship 🎶\n\nWhat if your next friendship started with a song?\n\nIn Sintonia is an analog social exper",
       "vibe": [
-        "gratis",
+        "arte-contemporanea",
         "storica"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-17/0770b59c-0cd4-4039-8aa7-d74278da7292.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/q2pk8a-in-sintonia-music-speed-friendship-24th-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "OPEN: A new civic space for art and science | Open to the public",
+      "data": "lun 22/06",
+      "orario": "",
+      "luogo": "Palazzo Buontalenti",
+      "quartiere": "",
+      "categoria": "MOSTRA",
+      "descrizione": "Discover OPEN at Palazzo Buontalenti, an unprecedented exhibition where contemporary art meets academic research.",
+      "vibe": [
+        "arte-contemporanea",
+        "da-non-perdere"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182657486%2F2997941669692%2F1%2Foriginal.20260421-105015?w=401&auto=format%2Ccompress&q=75&sharp=10&s=3923cf6471b5025c7c87496e9cabb591",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/open-a-new-civic-space-for-art-and-science-open-to-the-public-tickets-1989225479959"
+    },
+    {
+      "titolo": "Taste & Sound",
+      "data": "mer 1/07",
+      "orario": "",
+      "luogo": "Eventi all' Antico Mulino by Lavacchio",
+      "quartiere": "Pontassieve",
+      "categoria": "CONCERTO",
+      "descrizione": "Ogni mercoledì dalle 19:30: vino, spicchi di pizza gourmet e musica dal vivo al tramonto con vista sulle vigne della Fattoria Lava",
+      "vibe": [
+        "piccolo",
+        "gratis"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186139753%2F1602822856623%2F1%2Foriginal.20260604-095302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=086e4e4b53b4d60fb9835cfb1de91976",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/taste-sound-tickets-1991047716317"
     }
   ]
 }
