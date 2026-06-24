@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T19:46:27Z",
+  "updated_at": "2026-06-24T01:52:27Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "Friday 26th June — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nDanilo Plessow aka MCDE (3h set)  \nSamuele Pagliai\n\nFree ent",
       "vibe": [
-        "rooftop",
-        "jazz"
+        "live",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-19/3bb9f0ff-936f-42ca-a4c2-111dc0cf846e.jpg?rect=0%2C417%2C1277%2C766",
       "video": "",
@@ -45,13 +45,34 @@
       "categoria": "SERATA",
       "descrizione": "CIAO, NOSTALGICO TROPICALE\n\nLa notte estiva della Discoteca Italiana, un tour guidato da melodie malinconiche alla scoperta della ",
       "vibe": [
-        "aperitivo",
+        "jazz",
         "clubbing"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-22/d8f14cbd-3665-41f1-90a0-72f265ac1c6f.jpg?rect=0%2C216%2C1081%2C649",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/ry8pmy-ciao-discoteca-italiana-10th-jul-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "MIRYAM BELFIORE • LIVE MUSIC • Ostello Bello Firenze",
+      "data": "ven 26/06",
+      "orario": "",
+      "luogo": "Ostello Bello Firenze",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "La registrazione su Eventbrite dà diritto solamente all’ingresso.",
+      "vibe": [
+        "piccolo",
+        "all'aperto"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186935034%2F646490957853%2F1%2Foriginal.20260615-143444?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494&fp-y=0.665&s=97b43af81ab6a2e2ddfb20eee97c9bc7",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@ostellobellofirenze",
+        "url": "https://www.instagram.com/ostellobellofirenze/"
+      },
+      "event_url": "https://www.eventbrite.it/e/biglietti-miryam-belfiore-live-music-ostello-bello-firenze-1991919136759"
     },
     {
       "titolo": "L' APPELLO",
@@ -62,13 +83,47 @@
       "categoria": "SERATA",
       "descrizione": "🐔 L'APPELLO x ATOLLO 🐔\n\n🗓️ SABATO 27 GIUGNO  \n📍@atollofirenze , Lungarno Aldo Moro  \nDalle 19.30 fino alle 02.00!\n\n🆓 Ingresso grat",
       "vibe": [
-        "disco",
-        "live"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-22/a00e5997-3307-4678-8ce9-cbb4802a8e4d.jpg?rect=0%2C251%2C1254%2C752",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/v32r36-l-appello-27th-jun-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "UNDERGROUND TUESDAY- by Florence at night BABYLON CLUB",
+      "data": "mer 24/06",
+      "orario": "",
+      "luogo": "Babylon Club",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "a wild and exclusive party you don't want to miss! IF TICKETS ARE SOLD OUT, YOU CAN COME AT THE DOOR!",
+      "vibe": [
+        "clubbing",
+        "jazz"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1144899603%2F1957793498463%2F1%2Foriginal.20251005-093209?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e88c2d99d2c8652d1eeba9653a1dc33f",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/underground-tuesday-by-florence-at-night-babylon-club-tickets-1992393730281"
+    },
+    {
+      "titolo": "NERVI - GLASS SOUND FESTIVAL IV Ed.",
+      "data": "lun 29/06",
+      "orario": "",
+      "luogo": "Ultravox",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Tra romanticismo storto, energia elettrica e confessioni senza filtri, Nervi porta sul palco il suo travolgente tragic pop!",
+      "vibe": [
+        "intimo",
+        "all'aperto"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187190048%2F176744403551%2F1%2Foriginal.20260618-122923?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=544c3129f2bf3f666a2c69ab3bb913b5",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/nervi-glass-sound-festival-iv-ed-tickets-1992129890128"
     },
     {
       "titolo": "Pass The Mic | Karaoke Night",
@@ -79,13 +134,30 @@
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n11:00 PM at Bargiù Club\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, ",
       "vibe": [
-        "disco",
-        "aperitivo"
+        "rooftop",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/q2pegy-pass-the-mic-karaoke-night-27th-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "KARAOKE PARTY",
+      "data": "mer 24/06",
+      "orario": "",
+      "luogo": "P.za della Signoria, 30 R",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "KARAOKE NIGHT at Michael Collins \nGet ready to sing, laugh, and enjoy the best good vibes in town!\nJoin us at Michael Collins",
+      "vibe": [
+        "jazz",
+        "aperitivo"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175387482%2F1347886023863%2F1%2Foriginal.20260120-214348?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2cfd7e8dd30c3d26a97a91fb35995481",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/karaoke-party-tickets-1981055070043"
     },
     {
       "titolo": "Rural Chic Pool Party a Casa Ruffino",
@@ -96,8 +168,8 @@
       "categoria": "SERATA",
       "descrizione": "Rural Chic Pool Party a Casa Ruffino Giovedì 25 giugno una festa a bordo piscina, dal tramonto alle stelle. data 17/06/2026 Un’esp",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "jazz",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1781683847-Piscina-35_full2.jpg",
       "video": "",
@@ -113,8 +185,8 @@
       "categoria": "SERATA",
       "descrizione": "AperiVì a Ville sull'Arno Martedì 30 giugno torna l'appuntamento con l'aperitivo a bordo piscina. data 21/06/2026 VILLE SULL’ARNO ",
       "vibe": [
-        "aperitivo",
-        "disco"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1779273608-aperivi.jpg",
       "video": "",
@@ -130,8 +202,8 @@
       "categoria": "CONCERTO",
       "descrizione": "🇧🇷✨ Festa de São João at YellowSquare Florence ✨🇧🇷\n\nUn giorno in cui festeggeremo la cultura brasiliana tra musica dal vivo, forró",
       "vibe": [
-        "outdoor",
-        "gratis"
+        "piccolo",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-17/e46eb8fc-e903-49ed-a7e1-eb791c1a6c98.jpg?rect=0%2C432%2C2161%2C1297",
       "video": "",
@@ -147,7 +219,7 @@
       "categoria": "SERATA",
       "descrizione": "Guida Stuzzicante: Top 10 Rinfrescarsi in Toscana Cascate, Torrenti, Laghi e Piscine naturali. data 27/06/2019 Luoghi incantati, p",
       "vibe": [
-        "disco",
+        "live",
         "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/Elsa_viva.jpeg",
@@ -165,7 +237,7 @@
       "descrizione": "Un nuovo Aroma in riva d’Arno Una super cena con il Castello di Ama martedì 30 giugno. Da non perdere! data 20/06/2026 EVENTI SPEC",
       "vibe": [
         "aperitivo",
-        "clubbing"
+        "live"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1781952322-AromaGiardino.JPG",
       "video": "",
@@ -181,13 +253,47 @@
       "categoria": "SERATA",
       "descrizione": "Sui Sentieri della Toscana GUIDA SPECIALE: Trekking & Outdoor nella nostra Regione. data 26/09/2024 L'autunno è il periodo ideale ",
       "vibe": [
-        "jazz",
-        "aperitivo"
+        "aperitivo",
+        "disco"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1727339916-Fireflytrekkingintoscana55083.jpg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/sui-sentieri-della-toscana-6863"
+    },
+    {
+      "titolo": "Sal \"The Voice\" Valentinetti Single Release Show with Ginger Winn",
+      "data": "gio 25/06",
+      "orario": "",
+      "luogo": "La Ménagère",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Join Sal \"The Voice\" Valentinetti live for his single release show with special guest Ginger Winn!",
+      "vibe": [
+        "all'aperto",
+        "live"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187068791%2F2051485161123%2F1%2Foriginal.20260616-221347?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.471&fp-y=0.186&s=e08c54f9ea55b109bf3bcd494b7cbc38",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-sal-the-voice-valentinetti-single-release-show-with-ginger-winn-1992024345441"
+    },
+    {
+      "titolo": "Concerto Gratuito dell'Australian Children's Choir a Firenze",
+      "data": "mer 1/07",
+      "orario": "",
+      "luogo": "Basilica di Santa Trinita",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Vieni ad ascoltare l'Australian Children's Choir, direttamente da Melbourne, Australia!",
+      "vibe": [
+        "intimo",
+        "live"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187027321%2F2988127687358%2F1%2Foriginal.20260616-140820?crop=focalpoint&fit=crop&h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.165&fp-y=0.541&s=a1a19e9e42f3d79cfb14949f136a23e0",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/biglietti-concerto-gratuito-dellaustralian-childrens-choir-a-firenze-1991990398906"
     },
     {
       "titolo": "IN SINTONIA | Music Speed Friendship",
@@ -198,13 +304,30 @@
       "categoria": "MOSTRA",
       "descrizione": "🎶 In Sintonia – Music Speed Friendship 🎶\n\nWhat if your next friendship started with a song?\n\nIn Sintonia is an analog social exper",
       "vibe": [
-        "gratis",
-        "da-non-perdere"
+        "da-non-perdere",
+        "arte-contemporanea"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-17/0770b59c-0cd4-4039-8aa7-d74278da7292.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/q2pk8a-in-sintonia-music-speed-friendship-24th-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "Taste & Sound",
+      "data": "mer 1/07",
+      "orario": "",
+      "luogo": "Eventi all' Antico Mulino by Lavacchio",
+      "quartiere": "Pontassieve",
+      "categoria": "CONCERTO",
+      "descrizione": "Ogni mercoledì dalle 19:30: vino, spicchi di pizza gourmet e musica dal vivo al tramonto con vista sulle vigne della Fattoria Lava",
+      "vibe": [
+        "musica",
+        "gratis"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186139753%2F1602822856623%2F1%2Foriginal.20260604-095302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=086e4e4b53b4d60fb9835cfb1de91976",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/taste-sound-tickets-1991047716317"
     }
   ]
 }
