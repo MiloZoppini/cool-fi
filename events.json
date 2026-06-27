@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T13:01:48Z",
+  "updated_at": "2026-06-27T18:58:41Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "CIAO, NOSTALGICO TROPICALE\n\nLa notte estiva della Discoteca Italiana, un tour guidato da melodie malinconiche alla scoperta della ",
       "vibe": [
-        "rooftop",
-        "disco"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-22/d8f14cbd-3665-41f1-90a0-72f265ac1c6f.jpg?rect=0%2C216%2C1081%2C649",
       "video": "",
@@ -28,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "🐔 L'APPELLO x ATOLLO 🐔\n\n🗓️ SABATO 27 GIUGNO  \n📍@atollofirenze , Lungarno Aldo Moro  \nDalle 19.30 fino alle 02.00!\n\n🆓 Ingresso grat",
       "vibe": [
-        "jazz",
-        "aperitivo"
+        "aperitivo",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-22/a00e5997-3307-4678-8ce9-cbb4802a8e4d.jpg?rect=0%2C251%2C1254%2C752",
       "video": "",
@@ -46,12 +46,46 @@
       "descrizione": "LATTEXPLUS EXPERIENCE 2026  \n17.07.2026\n\nMace djset  \nokgiorgio  \nfenoaltea",
       "vibe": [
         "rooftop",
-        "clubbing"
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-03-26/3fd7d657-d0f1-4838-ad00-5ad880980b64.jpg?rect=0%2C1100%2C3000%2C1800",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/l89reb-mace-okgiorgio-fenoaltea-lattexplus-experience-2026-17th-jul-ultravox-firenze-anfiteatro-delle-cascine-ernesto-de-pascale-firenze-tickets"
+    },
+    {
+      "titolo": "Logout Sessions | Vinyl Dj set w/ Substrato Collettivo",
+      "data": "mer 1/07",
+      "orario": "19:00",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "In YellowSquare Florence torna Logout Sessions!\n\nSelected Music • Aperitivo • Vinyls • Drink freschini\n\nOgni 2 mercoledì una selez",
+      "vibe": [
+        "rooftop",
+        "clubbing"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2026-06-27/28e45ba0-0c8e-46ef-9b41-4bfefef6e42f.jpg?rect=0%2C432%2C2161%2C1297",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/2w5ba6-logout-sessions-vinyl-dj-set-w-substrato-collettivo-1st-jul-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "Karaoke Night",
+      "data": "sab 4/07",
+      "orario": "22:00",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Barmezzo\n\nPronti per una serata incredibile ",
+      "vibe": [
+        "aperitivo",
+        "disco"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/xey5g3-karaoke-night-4th-jul-bargi-club-florence-tickets"
     },
     {
       "titolo": "Pass The Mic | Karaoke Night",
@@ -63,12 +97,29 @@
       "descrizione": "PASS THE MIC\n\n11:00 PM at Bargiù Club\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, ",
       "vibe": [
         "disco",
-        "live"
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/q2pegy-pass-the-mic-karaoke-night-27th-jun-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "Bachata Class | In the Garden",
+      "data": "mar 30/06",
+      "orario": "20:00",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "Bachata Class in collaboration with ESN Florentia / In the garden\n\nStep in, sway out! Whether you're a total newbie or already kno",
+      "vibe": [
+        "disco",
+        "jazz"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2025-10-10/ba63085a-05a0-461b-93c0-a35d1efd98f1.jpg?rect=0%2C450%2C2250%2C1350",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/ry86oq-bachata-class-in-the-garden-30th-jun-bargi-club-florence-tickets"
     },
     {
       "titolo": "La Doppietta dell’Estate di God Save The Wine",
@@ -79,8 +130,8 @@
       "categoria": "SERATA",
       "descrizione": "La Doppietta dell’Estate di God Save The Wine Un'Estate di VINO a Firenze e a Forte dei Marmi, su un rooftop scenografico e coi pi",
       "vibe": [
-        "rooftop",
-        "jazz"
+        "clubbing",
+        "live"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782483284-GSTWESTATE.png",
       "video": "",
@@ -96,8 +147,8 @@
       "categoria": "SERATA",
       "descrizione": "AperiVì a Ville sull'Arno Martedì 30 giugno torna l'appuntamento con l'aperitivo a bordo piscina. data 21/06/2026 VILLE SULL’ARNO ",
       "vibe": [
-        "jazz",
-        "disco"
+        "disco",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1779273608-aperivi.jpg",
       "video": "",
@@ -113,8 +164,8 @@
       "categoria": "SERATA",
       "descrizione": "Alta Cucina e Birre artigianali da Gunè Venerdì 3 luglio, nel cuore dell’Oltrarno fiorentino, una serata speciale dedicata al mond",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "live",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782223095-gune39.jpg",
       "video": "",
@@ -130,8 +181,8 @@
       "categoria": "SERATA",
       "descrizione": "Guida Stuzzicante: Top 10 Rinfrescarsi in Toscana Cascate, Torrenti, Laghi e Piscine naturali. data 27/06/2019 Luoghi incantati, p",
       "vibe": [
-        "jazz",
-        "disco"
+        "aperitivo",
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/Elsa_viva.jpeg",
       "video": "",
@@ -147,8 +198,8 @@
       "categoria": "SERATA",
       "descrizione": "Un nuovo Aroma in riva d’Arno Una super cena con il Castello di Ama martedì 30 giugno. Da non perdere! data 20/06/2026 EVENTI SPEC",
       "vibe": [
-        "jazz",
-        "aperitivo"
+        "rooftop",
+        "disco"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1781952322-AromaGiardino.JPG",
       "video": "",
@@ -164,8 +215,8 @@
       "categoria": "SERATA",
       "descrizione": "Sui Sentieri della Toscana GUIDA SPECIALE: Trekking & Outdoor nella nostra Regione. data 26/09/2024 L'autunno è il periodo ideale ",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "rooftop",
+        "disco"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1727339916-Fireflytrekkingintoscana55083.jpg",
       "video": "",
