@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T15:23:12Z",
+  "updated_at": "2026-06-29T19:29:03Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,13 +11,34 @@
       "categoria": "SERATA",
       "descrizione": "Friday 3rd July — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nHabibi Funk  \nDrunkdrivers  \nSgrida\n\nFree entry with RSVP",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-27/017046ef-e504-4011-9f39-f138274eef63.jpg?rect=0%2C416%2C1280%2C768",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/ry8b3r-lattexplus-summer-night-habibi-funk-3rd-jul-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "SUNDAY MATCHDAY - Live Sports Night | Ostello Bello Firenze",
+      "data": "dom 5/07",
+      "orario": "",
+      "luogo": "Ostello Bello Firenze - Hostel and Bar",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Per info e prenotazioni +39 055 213806 | ostellobello.firenze",
+      "vibe": [
+        "gratis",
+        "all'aperto"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175069126%2F646490957853%2F1%2Foriginal.20260116-172530?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2700%2C1350&s=e124ddea322b52affcbbe94be69eba35",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@ostellobellofirenze",
+        "url": "https://www.instagram.com/ostellobellofirenze/"
+      },
+      "event_url": "https://www.eventbrite.it/e/sunday-matchday-live-sports-night-ostello-bello-firenze-tickets-1673275063759"
     },
     {
       "titolo": "CIAO. Discoteca Italiana",
@@ -28,8 +49,8 @@
       "categoria": "SERATA",
       "descrizione": "CIAO, NOSTALGICO TROPICALE\n\nLa notte estiva della Discoteca Italiana, un tour guidato da melodie malinconiche alla scoperta della ",
       "vibe": [
-        "disco",
-        "live"
+        "aperitivo",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-22/d8f14cbd-3665-41f1-90a0-72f265ac1c6f.jpg?rect=0%2C216%2C1081%2C649",
       "video": "",
@@ -45,7 +66,7 @@
       "categoria": "SERATA",
       "descrizione": "LATTEXPLUS EXPERIENCE 2026  \n17.07.2026\n\nMace djset  \nokgiorgio  \nfenoaltea",
       "vibe": [
-        "rooftop",
+        "aperitivo",
         "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-03-26/3fd7d657-d0f1-4838-ad00-5ad880980b64.jpg?rect=0%2C1100%2C3000%2C1800",
@@ -79,8 +100,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Stefano Cocco Cantini, Matteo Addabbo e Stefano Beninati: tre grandi interpreti per un concerto tra jazz, lirismo e improvvisazion",
       "vibe": [
-        "piccolo",
-        "live"
+        "gratis",
+        "outdoor"
       ],
       "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187253426%2F176744403551%2F1%2Foriginal.20260619-073331?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=36776ebdffd7af7dffa7b348d9fe1121",
       "video": "",
@@ -97,7 +118,7 @@
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Barmezzo\n\nPronti per una serata incredibile ",
       "vibe": [
         "jazz",
-        "clubbing"
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -113,8 +134,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Tra romanticismo storto, energia elettrica e confessioni senza filtri, Nervi porta sul palco il suo travolgente tragic pop!",
       "vibe": [
-        "free",
-        "outdoor"
+        "live",
+        "free"
       ],
       "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187190048%2F176744403551%2F1%2Foriginal.20260618-122923?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f018bd790a8ed8f902b85f8957ae2240",
       "video": "",
@@ -130,8 +151,8 @@
       "categoria": "SERATA",
       "descrizione": "Tapas Night – Giovedì 9 Luglio \nUna serata all'insegna del gusto e delle vibes latine by tonica x opi",
       "vibe": [
-        "jazz",
-        "clubbing"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
       "video": "",
@@ -148,7 +169,7 @@
       "descrizione": "KARAOKE NIGHT at Michael Collins \nGet ready to sing, laugh, and enjoy the best good vibes in town!\nJoin us at Michael Collins",
       "vibe": [
         "live",
-        "rooftop"
+        "aperitivo"
       ],
       "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175387482%2F1347886023863%2F1%2Foriginal.20260120-214348?crop=focalpoint&fit=crop&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75f5d7890b298f14d4e3fb4553352215",
       "video": "",
@@ -164,8 +185,8 @@
       "categoria": "SERATA",
       "descrizione": "Tramonto tra le vigne, schiacciata ripiena e calice di vino. Dalle 19:30 DJ Set con Radio Toscana fino alle 22:30. Prenota ora!",
       "vibe": [
-        "live",
-        "aperitivo"
+        "jazz",
+        "rooftop"
       ],
       "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187471216%2F1602822856623%2F1%2Foriginal.20260623-114351?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.498&fp-y=0.583&s=6063742a4d10106cf8651f473ddc9177",
       "video": "",
@@ -181,8 +202,8 @@
       "categoria": "SERATA",
       "descrizione": "Bachata Class in collaboration with ESN Florentia / In the garden\n\nStep in, sway out! Whether you're a total newbie or already kno",
       "vibe": [
-        "disco",
-        "aperitivo"
+        "rooftop",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-10-10/ba63085a-05a0-461b-93c0-a35d1efd98f1.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
@@ -198,8 +219,8 @@
       "categoria": "SERATA",
       "descrizione": "La Doppietta dell’Estate di God Save The Wine Un'Estate di VINO a Firenze e a Forte dei Marmi, su un rooftop scenografico e coi pi",
       "vibe": [
-        "jazz",
-        "rooftop"
+        "live",
+        "disco"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782483284-GSTWESTATE.png",
       "video": "",
@@ -215,7 +236,7 @@
       "categoria": "SERATA",
       "descrizione": "AperiVì a Ville sull'Arno Martedì 30 giugno torna l'appuntamento con l'aperitivo a bordo piscina. data 21/06/2026 VILLE SULL’ARNO ",
       "vibe": [
-        "disco",
+        "live",
         "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1779273608-aperivi.jpg",
@@ -232,8 +253,8 @@
       "categoria": "SERATA",
       "descrizione": "Alta Cucina e Birre artigianali da Gunè Venerdì 3 luglio, nel cuore dell’Oltrarno fiorentino, una serata speciale dedicata al mond",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782223095-gune39.jpg",
       "video": "",
@@ -249,8 +270,8 @@
       "categoria": "SERATA",
       "descrizione": "Guida Stuzzicante: Top 10 Rinfrescarsi in Toscana Cascate, Torrenti, Laghi e Piscine naturali. data 27/06/2019 Luoghi incantati, p",
       "vibe": [
-        "disco",
-        "jazz"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/Elsa_viva.jpeg",
       "video": "",
@@ -266,8 +287,8 @@
       "categoria": "SERATA",
       "descrizione": "RISTORANTI: Mangiare Fuoriporta Nel verde c’è più…gusto! data 29/06/2026 ﻿ Ecco una facile guida per orientarsi tra fedeltà alla t",
       "vibe": [
-        "aperitivo",
-        "live"
+        "jazz",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1772114253-Fattoria_Vignamaggio.jpg",
       "video": "",
@@ -283,8 +304,8 @@
       "categoria": "SERATA",
       "descrizione": "Un nuovo Aroma in riva d’Arno Una super cena con il Castello di Ama martedì 30 giugno. Da non perdere! data 20/06/2026 EVENTI SPEC",
       "vibe": [
-        "clubbing",
-        "live"
+        "live",
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1781952322-AromaGiardino.JPG",
       "video": "",
@@ -300,8 +321,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Vieni ad ascoltare l'Australian Children's Choir, direttamente da Melbourne, Australia!",
       "vibe": [
-        "all'aperto",
-        "intimo"
+        "outdoor",
+        "free"
       ],
       "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187027321%2F2988127687358%2F1%2Foriginal.20260616-140820?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.165&fp-y=0.541&s=2c83936c27c6a7f31511aeb38e975284",
       "video": "",
@@ -318,7 +339,7 @@
       "descrizione": "Ogni mercoledì dalle 19:30: vino, spicchi di pizza gourmet e musica dal vivo al tramonto con vista sulle vigne della Fattoria Lava",
       "vibe": [
         "piccolo",
-        "live"
+        "all'aperto"
       ],
       "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186139753%2F1602822856623%2F1%2Foriginal.20260604-095302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=086e4e4b53b4d60fb9835cfb1de91976",
       "video": "",
