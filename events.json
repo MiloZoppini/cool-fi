@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T13:23:33Z",
+  "updated_at": "2026-07-02T19:04:25Z",
   "city": "Firenze",
   "events": [
     {
@@ -12,7 +12,7 @@
       "descrizione": "Friday 3rd July — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nHabibi Funk  \nDrunkdrivers  \nSgrida\n\nFree entry with RSVP",
       "vibe": [
         "aperitivo",
-        "disco"
+        "clubbing"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-27/017046ef-e504-4011-9f39-f138274eef63.jpg?rect=0%2C416%2C1280%2C768",
       "video": "",
@@ -28,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "CIAO, NOSTALGICO TROPICALE\n\nLa notte estiva della Discoteca Italiana, un tour guidato da melodie malinconiche alla scoperta della ",
       "vibe": [
-        "clubbing",
-        "aperitivo"
+        "rooftop",
+        "clubbing"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-22/d8f14cbd-3665-41f1-90a0-72f265ac1c6f.jpg?rect=0%2C216%2C1081%2C649",
       "video": "",
@@ -45,8 +45,8 @@
       "categoria": "SERATA",
       "descrizione": "LATTEXPLUS EXPERIENCE 2026  \n17.07.2026\n\nMace djset  \nokgiorgio  \nfenoaltea",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "disco",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-03-26/3fd7d657-d0f1-4838-ad00-5ad880980b64.jpg?rect=0%2C1100%2C3000%2C1800",
       "video": "",
@@ -62,13 +62,30 @@
       "categoria": "SERATA",
       "descrizione": "🐔 L'APPELLO x ATOLLO 🐔\n\n🗓️ SABATO 04 LUGLIO\n\n📍Atollo , Lungarno Aldo Moro\n\nDalle 19.30 fino alle 02.00!\n\n🆓 Ingresso gratuito con p",
       "vibe": [
-        "jazz",
-        "rooftop"
+        "clubbing",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-29/40854139-156e-489f-92d8-bfcb536b3a6b.jpg?rect=0%2C251%2C1254%2C752",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/dko8gg-l-appello-4th-jul-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "STEFANO COCCO CANTINI TRIO - GLASS SOUND FESTIVAL IV Ed.",
+      "data": "lun 13/07",
+      "orario": "",
+      "luogo": "Ultravox",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Stefano Cocco Cantini, Matteo Addabbo e Stefano Beninati: tre grandi interpreti per un concerto tra jazz, lirismo e improvvisazion",
+      "vibe": [
+        "free",
+        "piccolo"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187253426%2F176744403551%2F1%2Foriginal.20260619-073331?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=36776ebdffd7af7dffa7b348d9fe1121",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/stefano-cocco-cantini-trio-glass-sound-festival-iv-ed-tickets-1992191154371"
     },
     {
       "titolo": "Karaoke Night",
@@ -79,13 +96,102 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Barmezzo\n\nPronti per una serata incredibile ",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "jazz",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/xey5g3-karaoke-night-4th-jul-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "SOSPIRI E PASSIONI: ARIE D'OPERA - GLASS SOUND FESTIVAL IVEd.",
+      "data": "mar 14/07",
+      "orario": "",
+      "luogo": "Palazzo Medici Riccardi",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "Una serata dedicata ai capolavori dell'opera con Ni Zhou e le promettenti voci della Royal Danish Academy of Music.",
+      "vibe": [
+        "aperitivo",
+        "live"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187275253%2F176744403551%2F1%2Foriginal.20260619-152751?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=34ddc668d0dec77b6e88c44e4d01cac7",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/sospiri-e-passioni-arie-dopera-glass-sound-festival-ived-tickets-1992191532502"
+    },
+    {
+      "titolo": "COUNTRY NIGHT",
+      "data": "dom 12/07",
+      "orario": "",
+      "luogo": "Cercatoia Alta",
+      "quartiere": "montecarlo lucca",
+      "categoria": "SERATA",
+      "descrizione": "Una serata country nel cuore del Borgo",
+      "vibe": [
+        "live",
+        "rooftop"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187644696%2F3004474545940%2F1%2Foriginal.20260625-150802?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9bb1cb6a56d4fa784b9a878758a304c4",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/biglietti-country-night-1992571609322"
+    },
+    {
+      "titolo": "TAPAS NIGHT | tonica X opi",
+      "data": "gio 9/07",
+      "orario": "",
+      "luogo": "Opificio",
+      "quartiere": "Prato",
+      "categoria": "SERATA",
+      "descrizione": "Una serata all'insegna del gusto e delle vibes latine by tonica x opi",
+      "vibe": [
+        "live",
+        "disco"
+      ],
+      "img": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/tapas-night-tonica-x-opi-tickets-1992763321739"
+    },
+    {
+      "titolo": "KARAOKE PARTY",
+      "data": "gio 2/07",
+      "orario": "",
+      "luogo": "P.za della Signoria, 30 R",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "KARAOKE NIGHT at Michael Collins \nGet ready to sing, laugh, and enjoy the best good vibes in town!\nJoin us at Michael Collins",
+      "vibe": [
+        "rooftop",
+        "clubbing"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175387482%2F1347886023863%2F1%2Foriginal.20260120-214348?crop=focalpoint&fit=crop&w=267&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=75f5d7890b298f14d4e3fb4553352215",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.com/e/karaoke-party-tickets-1981055077064"
+    },
+    {
+      "titolo": "Aperivigna",
+      "data": "gio 9/07",
+      "orario": "",
+      "luogo": "La Bottega Del Mulino by Fattoria Lavacchio",
+      "quartiere": "Pontassieve",
+      "categoria": "SERATA",
+      "descrizione": "Tramonto tra le vigne, schiacciata ripiena e calice di vino. Dalle 19:30 DJ Set con Radio Toscana fino alle 22:30. Prenota ora!",
+      "vibe": [
+        "aperitivo",
+        "rooftop"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187907317%2F1602822856623%2F1%2Foriginal.20260630-095214?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.608&s=85016013427015e18e970d7a0eb155eb",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/aperivigna-tickets-1992417246619"
     },
     {
       "titolo": "La Doppietta dell’Estate di God Save The Wine",
@@ -97,7 +203,7 @@
       "descrizione": "La Doppietta dell’Estate di God Save The Wine Un'Estate di VINO a Firenze e a Forte dei Marmi, su un rooftop scenografico e coi pi",
       "vibe": [
         "rooftop",
-        "jazz"
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782483284-GSTWESTATE.png",
       "video": "",
@@ -113,8 +219,8 @@
       "categoria": "SERATA",
       "descrizione": "Sunset Sound a Borgo Scopeto Un luglio scoppiettante di eventi nel wine & country relais nelle colline senesi Piscina, SPA, concer",
       "vibe": [
-        "live",
-        "aperitivo"
+        "jazz",
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1781093697-481517742_10162737843560126_5820713916574910079_n.jpg",
       "video": "",
@@ -130,8 +236,8 @@
       "categoria": "SERATA",
       "descrizione": "Birra Fest in Palagina Giovedì 16 luglio serata speciale nel ristorante in Valdarno gestito dai fratelli Gori (da Burde). Prodotto",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "disco",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782979784-palagina.jpg",
       "video": "",
@@ -147,13 +253,30 @@
       "categoria": "SERATA",
       "descrizione": "Alta Cucina e Birre artigianali da Gunè Venerdì 3 luglio, nel cuore dell’Oltrarno fiorentino, una serata speciale dedicata al mond",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "jazz",
+        "disco"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782223095-gune39.jpg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/alta-cucinabirre-artigianali-da-gune-6960"
+    },
+    {
+      "titolo": "PETZ ARE COOL - GLASS SOUND FESTIVAL IV Ed.",
+      "data": "mer 15/07",
+      "orario": "",
+      "luogo": "Fico bistrò",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "Originalità, ironia e grande cura musicale: la band fiorentina propone un live coinvolgente e sorprendente.",
+      "vibe": [
+        "intimo",
+        "musica"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187255705%2F176744403551%2F1%2Foriginal.20260619-082001?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f34153c8fc89a90f80de4f5127a17be2",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/petz-are-cool-glass-sound-festival-iv-ed-tickets-1992193028978"
     },
     {
       "titolo": "Tutta l'Estate in un Colpo Solo! con il numero speciale di FIRENZE SPETTACOLO",
@@ -164,8 +287,8 @@
       "categoria": "SERATA",
       "descrizione": "Tutta l'Estate in un Colpo Solo! con il numero speciale di FIRENZE SPETTACOLO Da giovedì 2 luglio in tutte le edicole e nelle prin",
       "vibe": [
-        "aperitivo",
-        "disco"
+        "clubbing",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782832650-Coverestate26.jpg",
       "video": "",
@@ -181,13 +304,72 @@
       "categoria": "SERATA",
       "descrizione": "Un'Estate di VINO I migliori eventi a Firenze e in Toscana dedicati all'enologia e al mondo Prodotto disponibile nel nostro store ",
       "vibe": [
-        "live",
+        "aperitivo",
         "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782808904-IMG_9876.JPG",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/un-estate-di-vino-7488"
+    },
+    {
+      "titolo": "ST. HELEN GIRLS SCHOOL CHOIR - GLASS SOUND FESTIVAL",
+      "data": "lun 6/07",
+      "orario": "",
+      "luogo": "Palazzo Medici Riccardi",
+      "quartiere": "",
+      "categoria": "CULTURA",
+      "descrizione": "Dalla prestigiosa St Helen's School di Londra, 40 giovani coriste in un viaggio tra classico e contemporaneo.",
+      "vibe": [
+        "letteratura",
+        "cinema"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1187275071%2F176744403551%2F1%2Foriginal.20260619-152518?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=47a4deca09c7a7ffa0245d5d541c91c8",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@palazzomedici",
+        "url": "https://www.instagram.com/palazzomedici/"
+      },
+      "event_url": "https://www.eventbrite.it/e/st-helen-girls-school-choir-glass-sound-festival-tickets-1992189787282"
+    },
+    {
+      "titolo": "Planning ahead: September events in Florence",
+      "data": "gio 2/07",
+      "orario": "",
+      "luogo": "Firenze",
+      "quartiere": "",
+      "categoria": "CULTURA",
+      "descrizione": "THINGS TO DO Planning ahead: September events in Florence Florence welcomes a vibrant month of September, where centuries-old trad",
+      "vibe": [
+        "free",
+        "cinema"
+      ],
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/06/Firenze-Jazz-Festival-2025-393x294.jpg",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/07/02/planning-ahead-september-events-florence/"
+    },
+    {
+      "titolo": "Taste & Sound",
+      "data": "mer 8/07",
+      "orario": "",
+      "luogo": "Eventi all' Antico Mulino by Lavacchio",
+      "quartiere": "Pontassieve",
+      "categoria": "CONCERTO",
+      "descrizione": "Ogni mercoledì dalle 19:30: vino, spicchi di pizza gourmet e musica dal vivo al tramonto con vista sulle vigne della Fattoria Lava",
+      "vibe": [
+        "live",
+        "all'aperto"
+      ],
+      "img": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186139753%2F1602822856623%2F1%2Foriginal.20260604-095302?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=086e4e4b53b4d60fb9835cfb1de91976",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.eventbrite.it/e/taste-sound-tickets-1991047799566"
     },
     {
       "titolo": "Pool Movie Night & Day Use a Borgo i Vicelli",
@@ -198,8 +380,8 @@
       "categoria": "FOOD",
       "descrizione": "Pool Movie Night & Day Use a Borgo i Vicelli L'affascinante Borgo sui colli di Bagno a Ripoli propone una formula per godersi la p",
       "vibe": [
-        "gourmet",
-        "vino"
+        "family",
+        "gourmet"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1780923522-bgvicelli5-0576.jpg",
       "video": "",
