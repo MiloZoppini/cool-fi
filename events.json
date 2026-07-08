@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T08:02:35Z",
+  "updated_at": "2026-07-08T13:21:11Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,7 +11,7 @@
       "categoria": "SERATA",
       "descrizione": "InBilico | The Flow\n\n•⁠ ⁠⁠funky house\n\n•⁠ ⁠⁠allora amore riva star, soul speech…\n\n•⁠ ⁠InBilico ha il piacere di ospitare The Flow,",
       "vibe": [
-        "disco",
+        "jazz",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-05/3da7927b-4c3b-4da6-94fe-6f3959a6c736.jpg?rect=0%2C216%2C1080%2C648",
@@ -28,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "CIAO, NOSTALGICO TROPICALE\n\nLa notte estiva della Discoteca Italiana, un tour guidato da melodie malinconiche alla scoperta della ",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "jazz",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-06/aa47b506-d975-4938-8ad5-5f2f9a439d9f.jpg?rect=0%2C900%2C4501%2C2701",
       "video": "",
@@ -45,8 +45,8 @@
       "categoria": "SERATA",
       "descrizione": "LATTEXPLUS EXPERIENCE 2026  \n17.07.2026\n\nMace djset  \nokgiorgio  \nfenoaltea",
       "vibe": [
-        "jazz",
-        "disco"
+        "rooftop",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-03-26/3fd7d657-d0f1-4838-ad00-5ad880980b64.jpg?rect=0%2C1100%2C3000%2C1800",
       "video": "",
@@ -62,8 +62,8 @@
       "categoria": "CONCERTO",
       "descrizione": "RUMORE x ATOLLO\n\nSabato 11/07\n\nDJs: @gcmzrr ; @neriborchimusica\n\nOrario 19:30 - 02:00\n\n| Ingresso gratuito\n\n| Prenotazione obbliga",
       "vibe": [
-        "intimo",
-        "musica"
+        "piccolo",
+        "free"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-07/6aade362-9483-4668-afc5-2d179ee0a485.jpg?rect=0%2C480%2C2399%2C1439",
       "video": "",
@@ -79,8 +79,8 @@
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n11:00 PM at Bargiù Club\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, ",
       "vibe": [
-        "jazz",
-        "rooftop"
+        "aperitivo",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
@@ -96,7 +96,7 @@
       "categoria": "SERATA",
       "descrizione": "La Doppietta dell’Estate di God Save The Wine Un'Estate di VINO a Firenze e a Forte dei Marmi, su un rooftop scenografico e coi pi",
       "vibe": [
-        "aperitivo",
+        "disco",
         "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782483284-GSTWESTATE.png",
@@ -113,8 +113,8 @@
       "categoria": "SERATA",
       "descrizione": "Birra Fest in Palagina Giovedì 16 luglio serata speciale nel ristorante in Valdarno gestito dai fratelli Gori (da Burde). Prodotto",
       "vibe": [
-        "disco",
-        "rooftop"
+        "aperitivo",
+        "disco"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782979784-palagina.jpg",
       "video": "",
@@ -122,21 +122,21 @@
       "event_url": "https://www.firenzespettacolo.it/birra-fest-in-palagina-6425"
     },
     {
-      "titolo": "The Art of Food a Il Borro",
-      "data": "gio 9/07",
-      "orario": "20:00",
-      "luogo": "Il Borro Il Tuscan Bistro su Lungarno Acciaiuoli",
+      "titolo": "Summer in Hard Rock Cafe!",
+      "data": "ven 31/07",
+      "orario": "23:55",
+      "luogo": "Piazza della Repubblica",
       "quartiere": "",
       "categoria": "SERATA",
-      "descrizione": "The Art of Food a Il Borro Il Tuscan Bistro su Lungarno Acciaiuoli, giovedì 9 luglio, invita per una serata alla scoperta delle ec",
+      "descrizione": "Summer in Hard Rock Cafe! In Piazza della Repubblica, Sanremo Rock & Trend Festival e tutti i Mondiali di Calcio live. Prodotto di",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "aperitivo",
+        "live"
       ],
-      "img": "https://www.firenzespettacolo.it/media/immagini/1783320876-Unknown.jpeg",
+      "img": "https://www.firenzespettacolo.it/media/immagini/1782980080-squarehrcbrazil.jpg",
       "video": "",
       "social": null,
-      "event_url": "https://www.firenzespettacolo.it/the-art-of-foodil-borro-7493"
+      "event_url": "https://www.firenzespettacolo.it/summer-in-hard-rock-cafe-5892"
     },
     {
       "titolo": "Yellow Unplugged | Live Music in the garden",
@@ -148,12 +148,33 @@
       "descrizione": "YELLOW UNPLUGGED\n\nQuando il sole cala, il giardino si accende di musica.\n\nPer il primo appuntamento di Yellow Unplugged, accogliam",
       "vibe": [
         "free",
-        "live"
+        "outdoor"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-04/d4c6dead-511d-4c43-ade2-2477ceac690e.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/3o7w3v-yellow-unplugged-live-music-in-the-garden-9th-jul-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "New around Florence this July",
+      "data": "mer 8/07",
+      "orario": "",
+      "luogo": "Firenze",
+      "quartiere": "",
+      "categoria": "CULTURA",
+      "descrizione": "THINGS TO DO New around Florence this July Discover 6 new additions to Florence: quality Tuscan craft stores, No-Gronis and restau",
+      "vibe": [
+        "teatro",
+        "free"
+      ],
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/Ernesto-Negroni-393x294.jpg",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/07/08/new-openings-florence-july-2026/"
     },
     {
       "titolo": "Pool Movie Night & Day Use a Borgo i Vicelli",
@@ -164,8 +185,8 @@
       "categoria": "FOOD",
       "descrizione": "Pool Movie Night & Day Use a Borgo i Vicelli L'affascinante Borgo sui colli di Bagno a Ripoli propone una formula per godersi la p",
       "vibe": [
-        "street-food",
-        "family"
+        "family",
+        "street-food"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1780923522-bgvicelli5-0576.jpg",
       "video": "",
@@ -181,13 +202,30 @@
       "categoria": "CONCERTO",
       "descrizione": "El Inca fa Festa! Venerdì 10 luglio si festeggia il compleanno di questo locale che ha portato la buona cucina peruviana a Firenze",
       "vibe": [
-        "live",
+        "musica",
         "gratis"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1783322293-IMG_0095.JPG.jpeg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/el-inca-fa-festa-5563"
+    },
+    {
+      "titolo": "Eventi in Toscana",
+      "data": "mer 8/07",
+      "orario": "",
+      "luogo": "l'appuntamento con l'aperitivo a bordo piscina",
+      "quartiere": "",
+      "categoria": "MOSTRA",
+      "descrizione": "AperiVì a Ville sull'Arno 08/07/2026 Martedì 14 luglio torna l'appuntamento con l'aperitivo a bordo piscina.",
+      "vibe": [
+        "storica",
+        "arte-contemporanea"
+      ],
+      "img": "https://www.firenzespettacolo.it/img/firenze_spettacolo.png",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.firenzespettacolo.it/eventi-toscana"
     },
     {
       "titolo": "Casa MeMa' in Valdarno",
@@ -198,8 +236,8 @@
       "categoria": "CONCERTO",
       "descrizione": "Casa MeMa' in Valdarno Eventi della Settimana: mercoledì 8 luglio Pesce, Brace e Vino Vivace! Prodotto disponibile nel nostro stor",
       "vibe": [
-        "outdoor",
-        "piccolo"
+        "intimo",
+        "musica"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1732706094-mema.jpg",
       "video": "",
