@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T12:55:07Z",
+  "updated_at": "2026-07-17T18:47:00Z",
   "city": "Firenze",
   "events": [
     {
@@ -29,29 +29,12 @@
       "descrizione": "🐔 L'APPELLO x ATOLLO 🐔\n\n🗓️ VENERDÌ 17 LUGLIO  \n📍Atollo, Lungarno Aldo Moro  \n  \nDalle 19.30 fino alle 02.00!\n\n🆓 Ingresso gratuito ",
       "vibe": [
         "rooftop",
-        "aperitivo"
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-13/048d6fd3-716a-4fb7-8b8e-601750555607.jpg?rect=0%2C251%2C1254%2C752",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/92r33d-l-appello-17th-jul-atollo-firenze-tickets"
-    },
-    {
-      "titolo": "Mace + Okgiorgio + Fenoaltea | Lattexplus Experience 2026",
-      "data": "ven 17/07",
-      "orario": "19:00",
-      "luogo": "ULTRAVOX FIRENZE - Anfiteatro delle Cascine Ernesto De Pascale",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "LATTEXPLUS EXPERIENCE 2026  \n17.07.2026\n\nMace djset  \nokgiorgio  \nfenoaltea",
-      "vibe": [
-        "disco",
-        "jazz"
-      ],
-      "img": "https://dice-media.imgix.net/attachments/2026-03-26/3fd7d657-d0f1-4838-ad00-5ad880980b64.jpg?rect=0%2C1100%2C3000%2C1800",
-      "video": "",
-      "social": null,
-      "event_url": "https://dice.fm/event/l89reb-mace-okgiorgio-fenoaltea-lattexplus-experience-2026-17th-jul-ultravox-firenze-anfiteatro-delle-cascine-ernesto-de-pascale-firenze-tickets"
     },
     {
       "titolo": "Toy Tonics Jam - Firenze: Kapote, Stump Valley, Jack Zarri",
@@ -62,8 +45,8 @@
       "categoria": "SERATA",
       "descrizione": "Friday 24th July — 18.00 - 02:00  \nToy Tonics Jam - Firenze\n\nLineup:  \nKapote  \nStump Valley  \nJack Zarri\n\nFree entry with RSVP",
       "vibe": [
-        "disco",
-        "aperitivo"
+        "live",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-14/5aab9331-5b6c-4e00-a94e-2dce83ee3885.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -79,8 +62,8 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n10:00 PM at Barmezzo\n\nPronti per una serata incredibile ",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -113,8 +96,8 @@
       "categoria": "SERATA",
       "descrizione": "La Doppietta dell’Estate di God Save The Wine Un'Estate di VINO a Firenze e a Forte dei Marmi, su un rooftop scenografico e coi pi",
       "vibe": [
-        "disco",
-        "jazz"
+        "rooftop",
+        "live"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782483284-GSTWESTATE.png",
       "video": "",
@@ -130,8 +113,8 @@
       "categoria": "SERATA",
       "descrizione": "Mundial Final da Hard Rock Cafe! In Piazza della Repubblica le fasi finali in diretta fino a domenica 19, con l'epilogo del Mondia",
       "vibe": [
-        "rooftop",
-        "jazz"
+        "jazz",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782980080-squarehrcbrazil.jpg",
       "video": "",
