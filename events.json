@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T18:59:52Z",
+  "updated_at": "2026-07-22T01:14:54Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "Friday 24th July — 18.00 - 02:00  \nToy Tonics Jam - Firenze\n\nLineup:  \nKapote  \nStump Valley  \nJack Zarri\n\nFree entry with RSVP",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "disco",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-14/5aab9331-5b6c-4e00-a94e-2dce83ee3885.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -28,47 +28,13 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "clubbing",
-        "jazz"
+        "jazz",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/8e9vb2-karaoke-night-25th-jul-bargi-club-florence-tickets"
-    },
-    {
-      "titolo": "International Aperitif",
-      "data": "mar 21/07",
-      "orario": "20:00",
-      "luogo": "BARGIÙ CLUB",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "INTERNATIONAL APERITIF\n\nAt YellowSquare Florence / 8.00 PM\n\nDo you want to practice italian or other languages? Join our language ",
-      "vibe": [
-        "rooftop",
-        "live"
-      ],
-      "img": "https://dice-media.imgix.net/attachments/2026-07-20/38e99e08-2975-49d7-9fe3-1dc0b1ca48c2.jpg?rect=0%2C900%2C4500%2C2700",
-      "video": "",
-      "social": null,
-      "event_url": "https://dice.fm/event/6dodg2-international-aperitif-21st-jul-bargi-club-florence-tickets"
-    },
-    {
-      "titolo": "La Doppietta dell’Estate di God Save The Wine",
-      "data": "mar 21/07",
-      "orario": "",
-      "luogo": "Firenze e a Forte dei Marmi",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "La Doppietta dell’Estate di God Save The Wine Un'Estate di VINO a Firenze e a Forte dei Marmi, su un rooftop scenografico e coi pi",
-      "vibe": [
-        "jazz",
-        "rooftop"
-      ],
-      "img": "https://www.firenzespettacolo.it/media/immagini/1782483284-GSTWESTATE.png",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.firenzespettacolo.it/la-doppietta-estate-di-god-save-the-wine-7487"
     },
     {
       "titolo": "Yellow Unplugged | Live Music in the garden",
@@ -79,8 +45,8 @@
       "categoria": "CONCERTO",
       "descrizione": "YELLOW UNPLUGGED con Moumous Gipsy Trio\n\nQuando il sole cala, il giardino si accende di musica.\n\nPrendi un drink, trova il tuo ang",
       "vibe": [
-        "gratis",
-        "piccolo"
+        "outdoor",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-20/ed9c6b6f-5771-4b98-9b50-0b249a57adfe.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
@@ -89,15 +55,15 @@
     },
     {
       "titolo": "Calici di Stelle 2026:  la Toscana del vino accende l’estate",
-      "data": "mar 21/07",
+      "data": "ven 24/07",
       "orario": "",
       "luogo": "24 luglio al 16 agosto oltre 50 eventi in tutta la",
       "quartiere": "",
       "categoria": "SERATA",
       "descrizione": "Calici di Stelle 2026:  la Toscana del vino accende l’estate Dal 24 luglio al 16 agosto oltre 50 eventi in tutta la regione. data ",
       "vibe": [
-        "aperitivo",
-        "live"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1784641625-ManciniMarrasC.Colombini.jpg",
       "video": "",
