@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T13:14:22Z",
+  "updated_at": "2026-07-22T18:52:21Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "Friday 24th July — 18.00 - 02:00  \nToy Tonics Jam - Firenze\n\nLineup:  \nKapote  \nStump Valley  \nJack Zarri\n\nFree entry with RSVP",
       "vibe": [
-        "clubbing",
-        "live"
+        "rooftop",
+        "clubbing"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-14/5aab9331-5b6c-4e00-a94e-2dce83ee3885.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -28,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "clubbing",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -45,7 +45,7 @@
       "categoria": "CONCERTO",
       "descrizione": "YELLOW UNPLUGGED con Moumous Gipsy Trio\n\nQuando il sole cala, il giardino si accende di musica.\n\nPrendi un drink, trova il tuo ang",
       "vibe": [
-        "free",
+        "live",
         "piccolo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-20/ed9c6b6f-5771-4b98-9b50-0b249a57adfe.jpg?rect=0%2C450%2C2250%2C1350",
@@ -63,12 +63,33 @@
       "descrizione": "Calici di Stelle 2026:  la Toscana del vino accende l’estate Dal 24 luglio al 16 agosto oltre 50 eventi in tutta la regione. data ",
       "vibe": [
         "rooftop",
-        "live"
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1784641625-ManciniMarrasC.Colombini.jpg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/calici-di-stelle-2026-la-toscana-del-vino-accende-estate-7503"
+    },
+    {
+      "titolo": "Florence Biennale unveils guests of honour for 30th anniversary edition",
+      "data": "mer 22/07",
+      "orario": "",
+      "luogo": "Firenze",
+      "quartiere": "",
+      "categoria": "MOSTRA",
+      "descrizione": "THINGS TO DO Florence Biennale unveils guests of honour for 30th anniversary edition International art exhibition announces early ",
+      "vibe": [
+        "arte-contemporanea",
+        "gratis"
+      ],
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/florence-biennale-past-edition-393x294.jpg",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/07/22/florence-biennale-unveils-guests-honour-30th-anniversary-edition/"
     },
     {
       "titolo": "Eventi in Toscana",
@@ -79,13 +100,34 @@
       "categoria": "CONCERTO",
       "descrizione": "Summer Vibes: a Barberino Outlet continua l'estate della musica con Albertino e Prezioso, Cristina D'Avena, Clara e Gaia 22/07/202",
       "vibe": [
-        "outdoor",
+        "gratis",
         "piccolo"
       ],
       "img": "https://www.firenzespettacolo.it/img/firenze_spettacolo.png",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/eventi-toscana"
+    },
+    {
+      "titolo": "Biennale Internazionale dell’Antiquariato di Firenze: What to expect from the re",
+      "data": "mer 22/07",
+      "orario": "",
+      "luogo": "Firenze",
+      "quartiere": "",
+      "categoria": "MERCATO",
+      "descrizione": "THINGS TO DO Biennale Internazionale dell’Antiquariato di Firenze: What to expect from the renowned art and antiques fair Returnin",
+      "vibe": [
+        "vintage",
+        "artigianato"
+      ],
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/salone-del-trono_-arredi-MINOTTI_003-393x294.jpg",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/07/22/biennale-internazionale-antiquariato-firenze-biaf-art-antiques-fair/"
     }
   ]
 }
