@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:55:10Z",
+  "updated_at": "2026-07-24T01:17:46Z",
   "city": "Firenze",
   "events": [
     {
@@ -28,30 +28,13 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "clubbing",
-        "aperitivo"
+        "disco",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/8e9vb2-karaoke-night-25th-jul-bargi-club-florence-tickets"
-    },
-    {
-      "titolo": "Yellow Unplugged | Live Music in the garden",
-      "data": "gio 23/07",
-      "orario": "20:00",
-      "luogo": "BARGIÙ CLUB",
-      "quartiere": "",
-      "categoria": "CONCERTO",
-      "descrizione": "YELLOW UNPLUGGED con Moumous Gipsy Trio\n\nQuando il sole cala, il giardino si accende di musica.\n\nPrendi un drink, trova il tuo ang",
-      "vibe": [
-        "all'aperto",
-        "intimo"
-      ],
-      "img": "https://dice-media.imgix.net/attachments/2026-07-20/ed9c6b6f-5771-4b98-9b50-0b249a57adfe.jpg?rect=0%2C450%2C2250%2C1350",
-      "video": "",
-      "social": null,
-      "event_url": "https://dice.fm/event/avxadv-yellow-unplugged-live-music-in-the-garden-23rd-jul-bargi-club-florence-tickets"
     },
     {
       "titolo": "Calici di Stelle 2026:  la Toscana del vino accende l’estate",
@@ -62,8 +45,8 @@
       "categoria": "SERATA",
       "descrizione": "Calici di Stelle 2026:  la Toscana del vino accende l’estate Dal 24 luglio al 16 agosto oltre 50 eventi in tutta la regione. data ",
       "vibe": [
-        "rooftop",
-        "jazz"
+        "aperitivo",
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1784641625-ManciniMarrasC.Colombini.jpg",
       "video": "",
