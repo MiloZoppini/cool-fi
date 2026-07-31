@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T13:22:39Z",
+  "updated_at": "2026-07-31T19:02:01Z",
   "city": "Firenze",
   "events": [
     {
@@ -12,54 +12,12 @@
       "descrizione": "Friday 31st July — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nKrystal Klear  \nDukwa  \nTommaso Carlà\n\nFree entry with RSVP",
       "vibe": [
         "rooftop",
-        "jazz"
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-07-27/4f93025c-bfde-48f0-a2ad-b71c8d60c33e.jpg?rect=0%2C650%2C2000%2C1200",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/bb9kko-lattexplus-summer-night-krystal-klear-dukwa-31st-jul-atollo-firenze-tickets"
-    },
-    {
-      "titolo": "A rare Sansovino sculpture goes on display at Opificio delle Pietre Dure",
-      "data": "ven 31/07",
-      "orario": "",
-      "luogo": "Firenze",
-      "quartiere": "",
-      "categoria": "FOOD",
-      "descrizione": "THINGS TO DO A rare Sansovino sculpture goes on display at Opificio delle Pietre Dure Fresh from a major conservation campaign, th",
-      "vibe": [
-        "gourmet",
-        "vino"
-      ],
-      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/sansovino_madonna_delle_mineghette_durante_il_restauro_foto_opd_pino_zicarelli-393x294.jpg",
-      "video": "",
-      "social": {
-        "platform": "Instagram",
-        "label": "@theflorentine",
-        "url": "https://www.instagram.com/theflorentine/"
-      },
-      "event_url": "https://www.theflorentine.net/2026/07/31/sansovino-sculpture-exhibition-opificio-pietre-dure/"
-    },
-    {
-      "titolo": "Accademia and Bargello launch photography contest",
-      "data": "ven 31/07",
-      "orario": "",
-      "luogo": "Firenze",
-      "quartiere": "",
-      "categoria": "CULTURA",
-      "descrizione": "THINGS TO DO Accademia and Bargello launch photography contest Visitors are invited to photograph the magic of Florence’s museums ",
-      "vibe": [
-        "letteratura",
-        "teatro"
-      ],
-      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/2.-Galleria-dellAccademia-di-Firenze_Gipsote-ca-CGuido-Cozzi-393x294.jpg",
-      "video": "",
-      "social": {
-        "platform": "Instagram",
-        "label": "@theflorentine",
-        "url": "https://www.instagram.com/theflorentine/"
-      },
-      "event_url": "https://www.theflorentine.net/2026/07/31/accademia-bargello-launch-photography-contest/"
     }
   ]
 }
