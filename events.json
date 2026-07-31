@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T08:25:51Z",
+  "updated_at": "2026-07-31T13:22:39Z",
   "city": "Firenze",
   "events": [
     {
@@ -18,6 +18,48 @@
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/bb9kko-lattexplus-summer-night-krystal-klear-dukwa-31st-jul-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "A rare Sansovino sculpture goes on display at Opificio delle Pietre Dure",
+      "data": "ven 31/07",
+      "orario": "",
+      "luogo": "Firenze",
+      "quartiere": "",
+      "categoria": "FOOD",
+      "descrizione": "THINGS TO DO A rare Sansovino sculpture goes on display at Opificio delle Pietre Dure Fresh from a major conservation campaign, th",
+      "vibe": [
+        "gourmet",
+        "vino"
+      ],
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/sansovino_madonna_delle_mineghette_durante_il_restauro_foto_opd_pino_zicarelli-393x294.jpg",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/07/31/sansovino-sculpture-exhibition-opificio-pietre-dure/"
+    },
+    {
+      "titolo": "Accademia and Bargello launch photography contest",
+      "data": "ven 31/07",
+      "orario": "",
+      "luogo": "Firenze",
+      "quartiere": "",
+      "categoria": "CULTURA",
+      "descrizione": "THINGS TO DO Accademia and Bargello launch photography contest Visitors are invited to photograph the magic of Florence’s museums ",
+      "vibe": [
+        "letteratura",
+        "teatro"
+      ],
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/07/2.-Galleria-dellAccademia-di-Firenze_Gipsote-ca-CGuido-Cozzi-393x294.jpg",
+      "video": "",
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/07/31/accademia-bargello-launch-photography-contest/"
     }
   ]
 }
