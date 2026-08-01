@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-31T19:02:01Z",
+  "updated_at": "2026-08-01T12:45:56Z",
   "city": "Firenze",
   "events": [
     {
-      "titolo": "Lattexplus Summer Night – Krystal Klear & Dukwa",
-      "data": "ven 31/07",
-      "orario": "18:00",
-      "luogo": "Atollo",
+      "titolo": "Forte dei Marmi: Il risveglio dell'Hermitage",
+      "data": "sab 1/08",
+      "orario": "",
+      "luogo": "cui la Capannina riposa",
       "quartiere": "",
       "categoria": "SERATA",
-      "descrizione": "Friday 31st July — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nKrystal Klear  \nDukwa  \nTommaso Carlà\n\nFree entry with RSVP",
+      "descrizione": "Forte dei Marmi: Il risveglio dell'Hermitage Nell’anno in cui la Capannina riposa, uno storico hotel vive una nuova stagione. Con ",
       "vibe": [
         "rooftop",
         "aperitivo"
       ],
-      "img": "https://dice-media.imgix.net/attachments/2026-07-27/4f93025c-bfde-48f0-a2ad-b71c8d60c33e.jpg?rect=0%2C650%2C2000%2C1200",
+      "img": "https://www.firenzespettacolo.it/media/immagini/1785576056-Starhotels_Hotel_Hermitage_FDM_Orto4.jpg",
       "video": "",
       "social": null,
-      "event_url": "https://dice.fm/event/bb9kko-lattexplus-summer-night-krystal-klear-dukwa-31st-jul-atollo-firenze-tickets"
+      "event_url": "https://www.firenzespettacolo.it/forte-dei-marmi-il-risveglio-dellhermitage-7505"
     }
   ]
 }
