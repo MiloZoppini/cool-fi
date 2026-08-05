@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T01:14:16Z",
+  "updated_at": "2026-08-05T08:10:51Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,13 +11,47 @@
       "categoria": "SERATA",
       "descrizione": "Friday 7th August — 18.00 - 02:00  \nLattexplus Summer Night\n\nLineup:  \nPaurro  \nSlow Soundsystem\n\nFree entry with RSVP",
       "vibe": [
-        "jazz",
+        "rooftop",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-08-03/5596dc58-c6cc-4636-ac9a-cd82bafdc183.jpg?rect=0%2C650%2C2000%2C1200",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/k65rql-lattexplus-summer-night-paurro-7th-aug-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "Karaoke Night",
+      "data": "sab 8/08",
+      "orario": "23:00",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
+      "vibe": [
+        "rooftop",
+        "aperitivo"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/ww9lvp-karaoke-night-8th-aug-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "Yellow Unplugged | Live Music in the garden",
+      "data": "gio 6/08",
+      "orario": "20:00",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "CONCERTO",
+      "descrizione": "YELLOW UNPLUGGED con Trio Pequeña | Latin Music: sonorità afro-cubane e afro-brasiliane e improvvisazione!\n\nQuando il sole cala, i",
+      "vibe": [
+        "all'aperto",
+        "musica"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2026-08-05/005a3245-582c-4228-aa10-03b89c964cda.jpg?rect=0%2C450%2C2250%2C1350",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/v3xbe6-yellow-unplugged-live-music-in-the-garden-6th-aug-bargi-club-florence-tickets"
     }
   ]
 }
