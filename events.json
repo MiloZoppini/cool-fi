@@ -1,23 +1,27 @@
 {
-  "updated_at": "2026-08-08T18:18:05Z",
+  "updated_at": "2026-08-10T18:38:05Z",
   "city": "Firenze",
   "events": [
     {
-      "titolo": "Karaoke Night",
-      "data": "sab 8/08",
-      "orario": "23:00",
-      "luogo": "BARGIÙ CLUB",
+      "titolo": "Can art change society? Florence to host a new generation of European changemake",
+      "data": "lun 10/08",
+      "orario": "",
+      "luogo": "Firenze",
       "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
+      "categoria": "CULTURA",
+      "descrizione": "THINGS TO DO Can art change society? Florence to host a new generation of European changemakers From Renaissance ideals to contemp",
       "vibe": [
-        "clubbing",
-        "jazz"
+        "cinema",
+        "teatro"
       ],
-      "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
+      "img": "https://www.theflorentine.net/wp-content/uploads/2026/08/the-social-hub-better-society-academy-4-393x294.webp",
       "video": "",
-      "social": null,
-      "event_url": "https://dice.fm/event/ww9lvp-karaoke-night-8th-aug-bargi-club-florence-tickets"
+      "social": {
+        "platform": "Instagram",
+        "label": "@theflorentine",
+        "url": "https://www.instagram.com/theflorentine/"
+      },
+      "event_url": "https://www.theflorentine.net/2026/08/10/florence-hosts-new-generation-european-changemakers/"
     }
   ]
 }
