@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T06:16:44Z",
+  "updated_at": "2026-08-22T12:12:19Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "Lattexplus Festival 2026 – 12.09.26  \nCavea del Teatro del Maggio Fiorentino\n\nImmaginare insieme: sintetizzatori Roland, un Negron",
       "vibe": [
-        "clubbing",
-        "live"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-05-29/04bacd14-3248-413a-8af5-b13e56255e98.jpg?rect=0%2C251%2C1254%2C752",
       "video": "",
@@ -32,8 +32,8 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "clubbing",
-        "aperitivo"
+        "aperitivo",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -49,8 +49,8 @@
       "categoria": "SERATA",
       "descrizione": "🕺💫 Get ready to travel through time with our Jukebox Night! From 80s classics to 90s hits and 2k jams, we've got your groove cover",
       "vibe": [
-        "disco",
-        "rooftop"
+        "live",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2024-10-01/b83336fb-4119-48db-a4ab-7272697fb234.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -59,20 +59,20 @@
     },
     {
       "titolo": "Pass The Mic | Karaoke Night",
-      "data": "mar 1/09",
+      "data": "mar 25/08",
       "orario": "22:00",
       "luogo": "BARGIÙ CLUB",
       "quartiere": "",
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n10:00 PM at Barmezzo\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, con",
       "vibe": [
-        "aperitivo",
-        "jazz"
+        "clubbing",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
-      "event_url": "https://dice.fm/event/3orbwv-pass-the-mic-karaoke-night-1st-sep-bargi-club-florence-tickets"
+      "event_url": "https://dice.fm/event/yod5av-pass-the-mic-karaoke-night-25th-aug-bargi-club-florence-tickets"
     },
     {
       "titolo": "AperiVì a Ville sull'Arno",
@@ -83,8 +83,8 @@
       "categoria": "SERATA",
       "descrizione": "AperiVì a Ville sull'Arno Martedì 25 agosto torna l'appuntamento con l'aperitivo a bordo piscina. data 15/07/2026 VILLE SULL’ARNO ",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "aperitivo",
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1779273608-aperivi.jpg",
       "video": "",
@@ -100,8 +100,8 @@
       "categoria": "SERATA",
       "descrizione": "La nuova stagione di Gunè: primi eventi a settembre Aria fresca in San Frediano. Ecco le prima novità. Prodotto disponibile nel no",
       "vibe": [
-        "rooftop",
-        "clubbing"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782223095-gune39.jpg",
       "video": "",
@@ -117,8 +117,8 @@
       "categoria": "SERATA",
       "descrizione": "L'Estate tra Drink & Musica da Hard Rock Cafe! In Piazza della Repubblica, sabato 22 agosto, la Mixology Experience e poi il 5 set",
       "vibe": [
-        "jazz",
-        "aperitivo"
+        "rooftop",
+        "jazz"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1787151233-95771249-2.jpg",
       "video": "",
