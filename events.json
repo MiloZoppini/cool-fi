@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T01:34:06Z",
+  "updated_at": "2026-09-08T10:08:25Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,7 +11,7 @@
       "categoria": "SERATA",
       "descrizione": "26.09.26 | opening party\n\nto the artists coming back, to the ones arriving for the first time,\n\nand to everyone who walks through ",
       "vibe": [
-        "disco",
+        "jazz",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-04/165433f4-4a07-490a-8c21-a654df237d60.jpg?rect=0%2C216%2C1080%2C648",
@@ -28,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "Lattexplus Festival 2026 – 12.09.26  \nCavea del Teatro del Maggio Fiorentino\n\nImmaginare insieme: sintetizzatori Roland, un Negron",
       "vibe": [
-        "jazz",
-        "rooftop"
+        "aperitivo",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-05-29/04bacd14-3248-413a-8af5-b13e56255e98.jpg?rect=0%2C251%2C1254%2C752",
       "video": "",
@@ -66,7 +66,7 @@
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n10:00 PM at Barmezzo\n\nUna canzone che conoscono tutti. Un microfono. Zero timidezza.\n\nCanti, passi il microfono, con",
       "vibe": [
-        "rooftop",
+        "live",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
@@ -83,8 +83,8 @@
       "categoria": "SERATA",
       "descrizione": "èno Florence Wine Excellence 2026 Domenica 20 e Lunedì 21 settembre alla Fortezza da Basso la seconda edizione della manifestazion",
       "vibe": [
-        "rooftop",
-        "disco"
+        "jazz",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788353130-IMG_2960.jpg",
       "video": "",
@@ -100,7 +100,7 @@
       "categoria": "SERATA",
       "descrizione": "AperiVì a Ville sull'Arno Martedì 8 settembre l'ultimo appuntamento con l'aperitivo a bordo piscina. data 31/08/2026 VILLE SULL’AR",
       "vibe": [
-        "live",
+        "aperitivo",
         "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1779273608-aperivi.jpg",
@@ -117,8 +117,8 @@
       "categoria": "SERATA",
       "descrizione": "Comico Dai Ruoli Mai Principali | Stand-Up Comedy Show\n\nDopo il successo del precedente tour che ha collezionato una ricca serie d",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "aperitivo",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-04/e3baf22c-a649-4317-b977-0701072f0b1b.jpg?rect=0%2C154%2C768%2C461",
       "video": "",
@@ -134,7 +134,7 @@
       "categoria": "SERATA",
       "descrizione": "Il Girone del Tartufo Da giovedì 3 fino a domenica 27 settembre la 42a edizione della SAGRA DEL TARTUFO del Girone. data 31/08/202",
       "vibe": [
-        "clubbing",
+        "rooftop",
         "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788161971-gruppovolontari.jpeg",
@@ -151,8 +151,8 @@
       "categoria": "SERATA",
       "descrizione": "San Pancrazio Food&Wine Festival Nel Valdarno meridionale Palazzo Tiglio invita tutti ad un festival dedicato all'enogastronomia d",
       "vibe": [
-        "rooftop",
-        "disco"
+        "disco",
+        "jazz"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788343193-PalazzoTiglio_73.jpg",
       "video": "",
@@ -169,7 +169,7 @@
       "descrizione": "La Festa della Raccolta a Vignamaggio Da giovedì 24 a domenica 27 settmbre, quattro giorni di festa per celebrare insieme la stagi",
       "vibe": [
         "rooftop",
-        "live"
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788529892-FestadellaRaccolta25.jpg",
       "video": "",
