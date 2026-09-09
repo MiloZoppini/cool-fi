@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:22:15Z",
+  "updated_at": "2026-09-09T01:41:44Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "26.09.26 | opening party\n\nto the artists coming back, to the ones arriving for the first time,\n\nand to everyone who walks through ",
       "vibe": [
-        "clubbing",
-        "aperitivo"
+        "live",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-04/165433f4-4a07-490a-8c21-a654df237d60.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -28,13 +28,30 @@
       "categoria": "SERATA",
       "descrizione": "🐔 L'APPELLO x ATOLLO 🐔\n\n🗓️ VENERDÌ 11 SETTEMBRE  \n📍@atollofirenze , Lungarno Aldo Moro  \nDalle 19.30 fino alle 02.00!\n\n🆓 Ingresso ",
       "vibe": [
-        "clubbing",
+        "rooftop",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-08/1ba30280-17ed-4864-a9ce-c0808ebb6bc4.jpg?rect=0%2C227%2C1132%2C679",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/6dg57b-l-appello-11th-sep-atollo-firenze-tickets"
+    },
+    {
+      "titolo": "Logout Sessions | Vinyl Dj set with Julian Ares",
+      "data": "mer 9/09",
+      "orario": "19:00",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "In YellowSquare Florence torna Logout Sessions with Julian Ares\n\nSelected Music • Aperitivo • Vinyls • Drink freschini\n\nOgni 2 mer",
+      "vibe": [
+        "aperitivo",
+        "clubbing"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2026-09-08/1dd4156c-6800-4f39-bee4-645ffde7a81c.jpg?rect=0%2C432%2C2161%2C1297",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/xeg5ll-logout-sessions-vinyl-dj-set-with-julian-ares-9th-sep-bargi-club-florence-tickets"
     },
     {
       "titolo": "Lattexplus Festival 2026 – Mind Enterprises (live), Prins Thomas, Ciao. Discotec",
@@ -45,7 +62,7 @@
       "categoria": "SERATA",
       "descrizione": "Lattexplus Festival 2026 – 12.09.26  \nCavea del Teatro del Maggio Fiorentino\n\nImmaginare insieme: sintetizzatori Roland, un Negron",
       "vibe": [
-        "jazz",
+        "live",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-05-29/04bacd14-3248-413a-8af5-b13e56255e98.jpg?rect=0%2C251%2C1254%2C752",
@@ -66,8 +83,8 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "jazz",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -83,30 +100,13 @@
       "categoria": "SERATA",
       "descrizione": "èno Florence Wine Excellence 2026 Domenica 20 e Lunedì 21 settembre alla Fortezza da Basso la seconda edizione della manifestazion",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "disco",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788353130-IMG_2960.jpg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/eno-florence-wine-excellence-2026-7524"
-    },
-    {
-      "titolo": "AperiVì a Ville sull'Arno",
-      "data": "mar 8/09",
-      "orario": "19:30",
-      "luogo": "Ville sull'Arno Martedì 8 settembre l'ultimo appun",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "AperiVì a Ville sull'Arno Martedì 8 settembre l'ultimo appuntamento con l'aperitivo a bordo piscina. data 31/08/2026 VILLE SULL’AR",
-      "vibe": [
-        "rooftop",
-        "clubbing"
-      ],
-      "img": "https://www.firenzespettacolo.it/media/immagini/1779273608-aperivi.jpg",
-      "video": "",
-      "social": null,
-      "event_url": "https://www.firenzespettacolo.it/aperiviville-sullarno-3970"
     },
     {
       "titolo": "Stefano Rapone: Comico Dai Ruoli Mai Principali (Firenze)",
@@ -118,7 +118,7 @@
       "descrizione": "Comico Dai Ruoli Mai Principali | Stand-Up Comedy Show\n\nDopo il successo del precedente tour che ha collezionato una ricca serie d",
       "vibe": [
         "rooftop",
-        "live"
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-04/e3baf22c-a649-4317-b977-0701072f0b1b.jpg?rect=0%2C154%2C768%2C461",
       "video": "",
@@ -134,7 +134,7 @@
       "categoria": "SERATA",
       "descrizione": "Il Girone del Tartufo Da giovedì 3 fino a domenica 27 settembre la 42a edizione della SAGRA DEL TARTUFO del Girone. data 31/08/202",
       "vibe": [
-        "disco",
+        "rooftop",
         "jazz"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788161971-gruppovolontari.jpeg",
@@ -151,8 +151,8 @@
       "categoria": "SERATA",
       "descrizione": "San Pancrazio Food&Wine Festival Nel Valdarno meridionale Palazzo Tiglio invita tutti ad un festival dedicato all'enogastronomia d",
       "vibe": [
-        "disco",
-        "rooftop"
+        "clubbing",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788343193-PalazzoTiglio_73.jpg",
       "video": "",
@@ -168,8 +168,8 @@
       "categoria": "SERATA",
       "descrizione": "La Festa della Raccolta a Vignamaggio Da giovedì 24 a domenica 27 settmbre, quattro giorni di festa per celebrare insieme la stagi",
       "vibe": [
-        "aperitivo",
-        "live"
+        "rooftop",
+        "clubbing"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788529892-FestadellaRaccolta25.jpg",
       "video": "",
