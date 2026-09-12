@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:40:10Z",
+  "updated_at": "2026-09-12T14:27:02Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "26.09.26 | opening party\n\nto the artists coming back, to the ones arriving for the first time,\n\nand to everyone who walks through ",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "aperitivo",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-04/165433f4-4a07-490a-8c21-a654df237d60.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -28,8 +28,8 @@
       "categoria": "SERATA",
       "descrizione": "TENAX 18.04.2026",
       "vibe": [
-        "disco",
-        "rooftop"
+        "aperitivo",
+        "disco"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-11/aaa3ab0b-8bb4-4f3c-bc68-2dd8f4ebf77d.jpg?rect=0%2C351%2C1080%2C648",
       "video": "",
@@ -45,7 +45,7 @@
       "categoria": "SERATA",
       "descrizione": "Lattexplus Festival 2026 – 12.09.26  \nCavea del Teatro del Maggio Fiorentino\n\nImmaginare insieme: sintetizzatori Roland, un Negron",
       "vibe": [
-        "disco",
+        "rooftop",
         "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-05-29/04bacd14-3248-413a-8af5-b13e56255e98.jpg?rect=0%2C251%2C1254%2C752",
@@ -59,37 +59,20 @@
     },
     {
       "titolo": "Karaoke Night",
-      "data": "sab 19/09",
+      "data": "sab 12/09",
       "orario": "23:00",
       "luogo": "BARGIÙ CLUB",
       "quartiere": "",
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "aperitivo",
-        "live"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
       "social": null,
-      "event_url": "https://dice.fm/event/l8moqr-karaoke-night-19th-sep-bargi-club-florence-tickets"
-    },
-    {
-      "titolo": "S.O.S - SURVIVE LIKE A LOCAL Language Exchange",
-      "data": "sab 12/09",
-      "orario": "21:30",
-      "luogo": "BARGIÙ CLUB",
-      "quartiere": "",
-      "categoria": "SERATA",
-      "descrizione": "SOS: Survive Like a Local 🇮🇹\n\nRumor has it, our merch is finally hereeeee!\n\nSo to make it more official, we’re having a party (duh",
-      "vibe": [
-        "aperitivo",
-        "rooftop"
-      ],
-      "img": "https://dice-media.imgix.net/attachments/2026-09-10/ebff7ae1-aefd-4fb8-b2ed-c7023c1959cf.jpg?rect=0%2C216%2C1081%2C649",
-      "video": "",
-      "social": null,
-      "event_url": "https://dice.fm/event/py36bk-sos-survive-like-a-local-language-exchange-12th-sep-bargi-club-florence-tickets"
+      "event_url": "https://dice.fm/event/mxny3v-karaoke-night-12th-sep-bargi-club-florence-tickets"
     },
     {
       "titolo": "Pass The Mic | Karaoke Night",
@@ -101,12 +84,29 @@
       "descrizione": "PASS THE MIC\n\n10:30 PM at Barmezzo\n\nIl karaoke, classico. Come sappiamo farlo noi.\n\nPoi, una canzone che conoscono tutti. Un micro",
       "vibe": [
         "disco",
-        "live"
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/v3lgv6-pass-the-mic-karaoke-night-15th-sep-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "S.O.S - SURVIVE LIKE A LOCAL Language Exchange",
+      "data": "sab 12/09",
+      "orario": "21:30",
+      "luogo": "BARGIÙ CLUB",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "SOS: Survive Like a Local 🇮🇹\n\nRumor has it, our merch is finally hereeeee!\n\nSo to make it more official, we’re having a party (duh",
+      "vibe": [
+        "disco",
+        "jazz"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2026-09-10/ebff7ae1-aefd-4fb8-b2ed-c7023c1959cf.jpg?rect=0%2C216%2C1081%2C649",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/py36bk-sos-survive-like-a-local-language-exchange-12th-sep-bargi-club-florence-tickets"
     },
     {
       "titolo": "\"Ma non sei gelosə?\" Talk & Comic Presentation",
@@ -117,8 +117,8 @@
       "categoria": "SERATA",
       "descrizione": "💘 Ma non sei gelosə?\n\nIl 16 settembre alle 19:00 ci vediamo allo YellowSquare per parlare di poliamore, relazioni e di tutte quell",
       "vibe": [
-        "live",
-        "disco"
+        "aperitivo",
+        "clubbing"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-11/c872f680-b0e3-45f2-91d9-4a3bb655e06d.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -134,8 +134,8 @@
       "categoria": "SERATA",
       "descrizione": "èno Florence Wine Excellence 2026 Domenica 20 e Lunedì 21 settembre alla Fortezza da Basso la seconda edizione della manifestazion",
       "vibe": [
-        "jazz",
-        "disco"
+        "live",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788353130-IMG_2960.jpg",
       "video": "",
@@ -144,20 +144,20 @@
     },
     {
       "titolo": "Stefano Rapone: Comico Dai Ruoli Mai Principali (Firenze)",
-      "data": "ven 25/09",
+      "data": "sab 26/09",
       "orario": "21:00",
       "luogo": "Teatro Niccolini",
       "quartiere": "",
       "categoria": "SERATA",
       "descrizione": "Comico Dai Ruoli Mai Principali | Stand-Up Comedy Show\n\nDopo il successo del precedente tour che ha collezionato una ricca serie d",
       "vibe": [
-        "aperitivo",
-        "jazz"
+        "rooftop",
+        "aperitivo"
       ],
-      "img": "https://dice-media.imgix.net/attachments/2026-06-04/e3baf22c-a649-4317-b977-0701072f0b1b.jpg?rect=0%2C154%2C768%2C461",
+      "img": "https://dice-media.imgix.net/attachments/2026-06-04/e131b01d-b2d9-4a53-b235-a084a6cf98a6.jpg?rect=0%2C154%2C768%2C461",
       "video": "",
       "social": null,
-      "event_url": "https://dice.fm/event/xeo2al-stefano-rapone-comico-dai-ruoli-mai-principali-firenze-25th-sep-teatro-niccolini-firenze-tickets"
+      "event_url": "https://dice.fm/event/v3nqyg-stefano-rapone-comico-dai-ruoli-mai-principali-firenze-26th-sep-teatro-niccolini-firenze-tickets"
     },
     {
       "titolo": "Yellow Unplugged | Live Music in the garden",
@@ -169,7 +169,7 @@
       "descrizione": "YELLOW UNPLUGGED con Trio Pequeña | Latin Music: sonorità afro-cubane e afro-brasiliane e improvvisazione!\n\nQuando il sole cala, i",
       "vibe": [
         "outdoor",
-        "intimo"
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-11/40a613a0-6c5b-4d24-b809-2b6a51819d68.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -185,13 +185,30 @@
       "categoria": "SERATA",
       "descrizione": "Pitti Fragranze: Profumi d'autore, skincare e nuove visioni del beauty Da venerdì 11 a domenica 13 settembre la Stazione Leopolda ",
       "vibe": [
-        "rooftop",
-        "aperitivo"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788357737-Fragranze_23___08.jpg",
       "video": "",
       "social": null,
       "event_url": "https://www.firenzespettacolo.it/pitti-fragranze-profumi-autore-skincare-nuove-visioni-del-beauty-7525"
+    },
+    {
+      "titolo": "San Pancrazio Food&Wine Festival",
+      "data": "sab 12/09",
+      "orario": "1:00",
+      "luogo": "Nel Valdarno meridionale Palazzo Tiglio invita tut",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "San Pancrazio Food&Wine Festival Nel Valdarno meridionale Palazzo Tiglio invita tutti ad un festival dedicato all'enogastronomia d",
+      "vibe": [
+        "rooftop",
+        "live"
+      ],
+      "img": "https://www.firenzespettacolo.it/media/immagini/1788343193-PalazzoTiglio_73.jpg",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.firenzespettacolo.it/san-pancrazio-food-wine-festival-7097"
     },
     {
       "titolo": "Gli Artigiani del Giglio",
@@ -202,8 +219,8 @@
       "categoria": "SERATA",
       "descrizione": "Gli Artigiani del Giglio Da sabato 12 a domenica 27 settembre, in Piazza dei Ciompi 17 il Pop Up Store degli Artigiani del Giglio.",
       "vibe": [
-        "rooftop",
-        "jazz"
+        "clubbing",
+        "live"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788948936-Unknown-2.jpeg",
       "video": "",
@@ -219,8 +236,8 @@
       "categoria": "SERATA",
       "descrizione": "La Festa della Raccolta a Vignamaggio Da giovedì 24 a domenica 27 settmbre, quattro giorni di festa per celebrare insieme la stagi",
       "vibe": [
-        "rooftop",
-        "disco"
+        "disco",
+        "aperitivo"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788529892-FestadellaRaccolta25.jpg",
       "video": "",
@@ -236,7 +253,7 @@
       "categoria": "CULTURA",
       "descrizione": "THINGS TO DO Pitti Fragranze 2026: what’s new in the world of fragrance Pitti Fragranze 24 is about to begin at Florence’s Stazion",
       "vibe": [
-        "teatro",
+        "cinema",
         "free"
       ],
       "img": "https://www.theflorentine.net/wp-content/uploads/2026/09/IMG_8298-393x294.jpg",
@@ -257,8 +274,8 @@
       "categoria": "CONCERTO",
       "descrizione": "La 50 Giorni di Cinema compie 20 anni con un regalo speciale Dal 6 ottobre torna la maratona dei festival alla Compagnia (che fest",
       "vibe": [
-        "intimo",
-        "free"
+        "live",
+        "all'aperto"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788873572-50giorni.jpeg",
       "video": "",
