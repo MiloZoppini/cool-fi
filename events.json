@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T01:50:35Z",
+  "updated_at": "2026-09-14T11:01:40Z",
   "city": "Firenze",
   "events": [
     {
@@ -11,8 +11,8 @@
       "categoria": "SERATA",
       "descrizione": "26.09.26 | opening party\n\nto the artists coming back, to the ones arriving for the first time,\n\nand to everyone who walks through ",
       "vibe": [
-        "rooftop",
-        "disco"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-04/165433f4-4a07-490a-8c21-a654df237d60.jpg?rect=0%2C216%2C1080%2C648",
       "video": "",
@@ -28,13 +28,30 @@
       "categoria": "SERATA",
       "descrizione": "TENAX 18.04.2026",
       "vibe": [
-        "clubbing",
-        "rooftop"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-11/aaa3ab0b-8bb4-4f3c-bc68-2dd8f4ebf77d.jpg?rect=0%2C351%2C1080%2C648",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/py3pwp-the-biggest-erasmus-welcome-party-24th-sep-tenax-firenze-tickets"
+    },
+    {
+      "titolo": "Lattexplus Summer Closing – Dirty Channels, Dukwa and more",
+      "data": "sab 19/09",
+      "orario": "16:00",
+      "luogo": "Atollo",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "Saturday 19th September — 16:00 - 02:00  \nLattexplus Summer Closing\n\nLineup:  \nDirty Channels  \nDukwa  \nLuca Corcella  \nSgrida  \nF",
+      "vibe": [
+        "disco",
+        "live"
+      ],
+      "img": "https://dice-media.imgix.net/attachments/2026-09-13/222e7cd7-b0cd-4e75-b8b3-7036843ff932.jpg?rect=0%2C650%2C2001%2C1201",
+      "video": "",
+      "social": null,
+      "event_url": "https://dice.fm/event/k62nap-lattexplus-summer-closing-dirty-channels-dukwa-and-more-19th-sep-atollo-firenze-tickets"
     },
     {
       "titolo": "Karaoke Night",
@@ -45,8 +62,8 @@
       "categoria": "SERATA",
       "descrizione": "KARAOKE NIGHT, quello che sappiamo fare meglio in YellowSquare Florence!\n\n11:00 PM at Bargiù Club\n\nPronti per una serata incredibi",
       "vibe": [
-        "aperitivo",
-        "rooftop"
+        "rooftop",
+        "aperitivo"
       ],
       "img": "https://dice-media.imgix.net/attachments/2025-05-08/f123c604-eab1-4475-8f7f-07dc55692cf0.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -62,8 +79,8 @@
       "categoria": "SERATA",
       "descrizione": "PASS THE MIC\n\n10:30 PM at Barmezzo\n\nIl karaoke, classico. Come sappiamo farlo noi.\n\nPoi, una canzone che conoscono tutti. Un micro",
       "vibe": [
-        "jazz",
-        "clubbing"
+        "aperitivo",
+        "jazz"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-02-14/e37dfc88-06b9-4c34-983c-d047969ee4e0.jpg?rect=0%2C450%2C2250%2C1350",
       "video": "",
@@ -80,7 +97,7 @@
       "descrizione": "💘 Ma non sei gelosə?\n\nIl 16 settembre alle 19:00 ci vediamo allo YellowSquare per parlare di poliamore, relazioni e di tutte quell",
       "vibe": [
         "aperitivo",
-        "jazz"
+        "rooftop"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-11/c872f680-b0e3-45f2-91d9-4a3bb655e06d.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
@@ -96,8 +113,8 @@
       "categoria": "SERATA",
       "descrizione": "èno Florence Wine Excellence 2026 Domenica 20 e Lunedì 21 settembre alla Fortezza da Basso la seconda edizione della manifestazion",
       "vibe": [
-        "live",
-        "disco"
+        "aperitivo",
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788353130-IMG_2960.jpg",
       "video": "",
@@ -113,8 +130,8 @@
       "categoria": "SERATA",
       "descrizione": "Comico Dai Ruoli Mai Principali | Stand-Up Comedy Show\n\nDopo il successo del precedente tour che ha collezionato una ricca serie d",
       "vibe": [
-        "disco",
-        "aperitivo"
+        "rooftop",
+        "live"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-06-04/e3baf22c-a649-4317-b977-0701072f0b1b.jpg?rect=0%2C154%2C768%2C461",
       "video": "",
@@ -130,13 +147,30 @@
       "categoria": "CONCERTO",
       "descrizione": "YELLOW UNPLUGGED con Trio Pequeña | Latin Music: sonorità afro-cubane e afro-brasiliane e improvvisazione!\n\nQuando il sole cala, i",
       "vibe": [
-        "all'aperto",
-        "live"
+        "piccolo",
+        "musica"
       ],
       "img": "https://dice-media.imgix.net/attachments/2026-09-11/40a613a0-6c5b-4d24-b809-2b6a51819d68.jpg?rect=0%2C900%2C4500%2C2700",
       "video": "",
       "social": null,
       "event_url": "https://dice.fm/event/avkead-yellow-unplugged-live-music-in-the-garden-17th-sep-bargi-club-florence-tickets"
+    },
+    {
+      "titolo": "BIAF 2026, l’antico guarda al futuro",
+      "data": "sab 26/09",
+      "orario": "10:30",
+      "luogo": "passo",
+      "quartiere": "",
+      "categoria": "SERATA",
+      "descrizione": "BIAF 2026, l’antico guarda al futuro Da sabato 26 settembre al 4 ottobre a Palazzo Corsini la 34^ edizione della Biennale Internaz",
+      "vibe": [
+        "aperitivo",
+        "disco"
+      ],
+      "img": "https://www.firenzespettacolo.it/media/immagini/1789119412-BIAF2024aPalazzoCorsini.jpg",
+      "video": "",
+      "social": null,
+      "event_url": "https://www.firenzespettacolo.it/biaf-2026-lantico-guarda-al-futuro-7537"
     },
     {
       "titolo": "La nuova stagione di Gunè: gli eventi a settembre",
@@ -147,7 +181,7 @@
       "categoria": "SERATA",
       "descrizione": "La nuova stagione di Gunè: gli eventi a settembre Aria fresca in San Frediano. Ecco le prime novità. Mercoledì 16 settembre... Pro",
       "vibe": [
-        "clubbing",
+        "rooftop",
         "jazz"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1782223095-gune39.jpg",
@@ -182,7 +216,7 @@
       "descrizione": "La Festa della Raccolta a Vignamaggio Da giovedì 24 a domenica 27 settmbre, quattro giorni di festa per celebrare insieme la stagi",
       "vibe": [
         "jazz",
-        "clubbing"
+        "rooftop"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788529892-FestadellaRaccolta25.jpg",
       "video": "",
@@ -198,8 +232,8 @@
       "categoria": "CONCERTO",
       "descrizione": "La 50 Giorni di Cinema compie 20 anni con un regalo speciale Dal 6 ottobre torna la maratona dei festival alla Compagnia (che fest",
       "vibe": [
-        "musica",
-        "piccolo"
+        "piccolo",
+        "free"
       ],
       "img": "https://www.firenzespettacolo.it/media/immagini/1788873572-50giorni.jpeg",
       "video": "",
